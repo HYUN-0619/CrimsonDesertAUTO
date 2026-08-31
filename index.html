@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>#붉은사막 쇼츠 아카이브</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0c0906;
+    --bg-elevated:#171210;
+    --bg-card:#1c1512;
+    --red:#9c2b1f;
+    --red-bright:#d94327;
+    --gold:#b6913c;
+    --text:#e9ded0;
+    --text-muted:#8f8074;
+    --border:#2a2119;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html,body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Noto Sans KR', sans-serif;
+    min-height:100%;
+  }
+  body{
+    position:relative;
+    overflow-x:hidden;
+  }
+  /* 모래 그레인 텍스처 */
+  body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    pointer-events:none;
+    z-index:1;
+    opacity:0.05;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  body::after{
+    content:"";
+    position:fixed;
+    inset:0;
+    pointer-events:none;
+    z-index:1;
+    background:radial-gradient(ellipse at 50% -10%, rgba(156,43,31,0.16), transparent 55%);
+  }
+
+  .wrap{ position:relative; z-index:2; max-width:1240px; margin:0 auto; padding:0 20px 80px; }
+
+  /* 히어로 */
+  header.hero{ padding:64px 20px 40px; text-align:center; }
+  header.hero h1{
+    font-family:'Black Han Sans', sans-serif;
+    font-size:clamp(2.4rem, 7vw, 4.4rem);
+    color:var(--text);
+    letter-spacing:1px;
+    text-shadow: 0 0 26px rgba(217,67,39,0.35);
+  }
+  header.hero h1 span{ color:var(--red-bright); }
+  header.hero p{
+    margin-top:14px;
+    color:var(--text-muted);
+    font-size:0.98rem;
+    max-width:520px;
+    margin-left:auto;
+    margin-right:auto;
+    line-height:1.6;
+  }
+
+  /* 갈라진 땅 divider */
+  .crack-divider{
+    height:14px;
+    margin:36px auto 0;
+    max-width:1240px;
+    background:var(--red);
+    clip-path:polygon(
+      0% 40%, 4% 0%, 9% 55%, 15% 10%, 21% 60%, 27% 5%, 33% 45%,
+      39% 0%, 45% 50%, 51% 15%, 57% 60%, 63% 0%, 69% 40%, 75% 10%,
+      81% 55%, 87% 0%, 93% 45%, 100% 15%, 100% 100%, 0% 100%
+    );
+    opacity:0.85;
+  }
+
+  /* API 키 패널 */
+  .key-panel{
+    max-width:640px;
+    margin:32px auto 0;
+    background:var(--bg-elevated);
+    border:1px solid var(--border);
+    border-radius:4px;
+    padding:18px 20px;
+  }
+  .key-panel summary{
+    cursor:pointer;
+    font-weight:700;
+    color:var(--gold);
+    font-size:0.92rem;
+    list-style:none;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+  }
+  .key-panel summary::-webkit-details-marker{ display:none; }
+  .key-panel .status-dot{
+    display:inline-block;
+    width:8px; height:8px;
+    border-radius:50%;
+    background:var(--text-muted);
+    margin-right:8px;
+  }
+  .key-panel .status-dot.ok{ background:#5c9c4a; }
+  .key-panel-body{ margin-top:14px; }
+  .key-panel-body p{ font-size:0.82rem; color:var(--text-muted); line-height:1.6; margin-bottom:10px;}
+  .key-panel-body a{ color:var(--red-bright); }
+  .key-row{ display:flex; gap:8px; }
+  input[type="password"], input[type="text"]{
+    flex:1;
+    background:#0f0c0a;
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:10px 12px;
+    border-radius:3px;
+    font-size:0.9rem;
+    font-family:inherit;
+  }
+  input:focus{ outline:1px solid var(--red-bright); }
+
+  button{
+    font-family:inherit;
+    cursor:pointer;
+    border:none;
+    border-radius:3px;
+    font-weight:700;
+    font-size:0.88rem;
+  }
+  .btn-primary{
+    background:var(--red);
+    color:#f4ece2;
+    padding:10px 18px;
+  }
+  .btn-primary:hover{ background:var(--red-bright); }
+  .btn-ghost{
+    background:transparent;
+    border:1px solid var(--border);
+    color:var(--text-muted);
+    padding:9px 14px;
+  }
+  .btn-ghost:hover{ color:var(--text); border-color:var(--gold); }
+
+  /* 검색 컨트롤 */
+  .controls{
+    max-width:900px;
+    margin:44px auto 0;
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .controls input[type="text"]{ min-width:220px; }
+  .controls select{
+    background:#0f0c0a;
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:10px 12px;
+    border-radius:3px;
+    font-family:inherit;
+    font-size:0.88rem;
+  }
+
+  .status-line{
+    max-width:900px;
+    margin:16px auto 0;
+    font-size:0.85rem;
+    color:var(--text-muted);
+    min-height:20px;
+  }
+  .status-line.error{ color:#e07a5f; }
+
+  /* 그리드 */
+  .grid{
+    margin-top:36px;
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));
+    gap:18px;
+  }
+  .card{
+    background:var(--bg-card);
+    border:1px solid var(--border);
+    border-radius:5px;
+    overflow:hidden;
+    cursor:pointer;
+    transition:border-color 0.15s ease, transform 0.15s ease;
+  }
+  .card:hover{ border-color:var(--red-bright); transform:translateY(-2px); }
+  .thumb-box{
+    position:relative;
+    width:100%;
+    aspect-ratio:9/16;
+    background:#000;
+    overflow:hidden;
+  }
+  .thumb-box img{ width:100%; height:100%; object-fit:cover; display:block; }
+  .duration-badge{
+    position:absolute;
+    right:6px; bottom:6px;
+    background:rgba(0,0,0,0.78);
+    color:#f4ece2;
+    font-size:0.72rem;
+    padding:2px 6px;
+    border-radius:3px;
+    font-weight:700;
+  }
+  .card-body{ padding:10px 12px 12px; }
+  .card-title{
+    font-size:0.86rem;
+    font-weight:500;
+    line-height:1.4;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+    min-height:2.4em;
+  }
+  .card-meta{
+    margin-top:8px;
+    font-size:0.76rem;
+    color:var(--text-muted);
+    display:flex;
+    justify-content:space-between;
+  }
+  .card-meta .ch{ color:var(--gold); }
+
+  .load-more-wrap{ text-align:center; margin-top:36px; }
+
+  .empty-state{
+    text-align:center;
+    padding:80px 20px;
+    color:var(--text-muted);
+  }
+  .empty-state strong{ color:var(--text); display:block; margin-bottom:8px; font-size:1.05rem; }
+
+  /* 모달 */
+  .modal-backdrop{
+    position:fixed; inset:0;
+    background:rgba(6,4,3,0.9);
+    display:none;
+    align-items:center;
+    justify-content:center;
+    z-index:50;
+    padding:30px 16px;
+  }
+  .modal-backdrop.open{ display:flex; }
+  .modal-player{
+    width:min(420px, 100%);
+    aspect-ratio:9/16;
+    background:#000;
+    position:relative;
+    border-radius:6px;
+    overflow:hidden;
+    border:1px solid var(--border);
+  }
+  .modal-player iframe{ width:100%; height:100%; border:0; }
+  .modal-close{
+    position:absolute;
+    top:-42px; right:0;
+    background:transparent;
+    color:var(--text);
+    font-size:1.6rem;
+    line-height:1;
+  }
+
+  footer{
+    text-align:center;
+    color:var(--text-muted);
+    font-size:0.78rem;
+    padding:50px 20px 20px;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .card{ transition:none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="hero">
+    <h1>#<span>붉은사막</span> 쇼츠</h1>
+    <p>유튜브에 흩어진 #붉은사막 태그 쇼츠 영상을 한 화면에 모아봅니다. 아래 목록은 6시간마다 자동으로 갱신됩니다.</p>
+    <p id="archiveMeta" style="margin-top:8px; font-size:0.82rem; color:var(--gold);"></p>
+  </header>
+
+  <div class="crack-divider"></div>
+
+  <details class="key-panel" id="keyPanel">
+    <summary><span><span class="status-dot" id="keyStatusDot"></span>실시간 검색용 API 키 (선택)</span><span id="keyStatusText" style="color:var(--text-muted); font-weight:400;">미설정</span></summary>
+    <div class="key-panel-body">
+      <p>
+        위 목록은 이미 자동으로 수집됩니다. 아래 검색은 자동 수집 사이 시점에 방금 올라온 영상을 직접 찾아보고 싶을 때만 필요해요.
+        키는 이 브라우저의 localStorage에만 저장되며 외부로 전송되지 않습니다.
+        <a href="https://console.cloud.google.com/apis/library/youtube.googleapis.com" target="_blank" rel="noopener">Google Cloud Console에서 발급 →</a>
+      </p>
+      <div class="key-row">
+        <input type="password" id="apiKeyInput" placeholder="API 키를 붙여넣으세요">
+        <button class="btn-primary" id="saveKeyBtn">저장</button>
+      </div>
+    </div>
+  </details>
+
+  <div class="controls">
+    <input type="text" id="searchInput" value="#붉은사막 shorts" placeholder="검색어 (예: #붉은사막)">
+    <select id="sortSelect">
+      <option value="relevance">관련도순</option>
+      <option value="date">최신순</option>
+      <option value="viewCount">조회수순</option>
+    </select>
+    <select id="durationSelect">
+      <option value="60">60초 이하</option>
+      <option value="180" selected>3분 이하 (쇼츠 기준)</option>
+    </select>
+    <button class="btn-primary" id="searchBtn">검색</button>
+  </div>
+
+  <div class="status-line" id="statusLine"></div>
+
+  <main class="grid" id="grid"></main>
+
+  <div class="load-more-wrap" id="loadMoreWrap" style="display:none;">
+    <button class="btn-ghost" id="loadMoreBtn">더 불러오기</button>
+  </div>
+
+  <footer>
+    이 페이지는 검색 결과를 유튜브 API로 직접 조회하여 보여주며, 각 영상의 저작권은 원 제작자에게 있습니다.
+  </footer>
+</div>
+
+<div class="modal-backdrop" id="modalBackdrop">
+  <div class="modal-player">
+    <button class="modal-close" id="modalClose">&times;</button>
+    <iframe id="modalIframe" src="" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+</div>
+
+<script>
+(function(){
+  const KEY_STORAGE = 'redcrimson_yt_api_key';
+
+  const apiKeyInput = document.getElementById('apiKeyInput');
+  const saveKeyBtn = document.getElementById('saveKeyBtn');
+  const keyPanel = document.getElementById('keyPanel');
+  const keyStatusDot = document.getElementById('keyStatusDot');
+  const keyStatusText = document.getElementById('keyStatusText');
+
+  const searchInput = document.getElementById('searchInput');
+  const sortSelect = document.getElementById('sortSelect');
+  const durationSelect = document.getElementById('durationSelect');
+  const searchBtn = document.getElementById('searchBtn');
+  const statusLine = document.getElementById('statusLine');
+  const grid = document.getElementById('grid');
+  const loadMoreWrap = document.getElementById('loadMoreWrap');
+  const loadMoreBtn = document.getElementById('loadMoreBtn');
+
+  const modalBackdrop = document.getElementById('modalBackdrop');
+  const modalIframe = document.getElementById('modalIframe');
+  const modalClose = document.getElementById('modalClose');
+
+  let nextPageToken = null;
+  let currentQuery = '';
+  let isLoading = false;
+
+  function getApiKey(){ return localStorage.getItem(KEY_STORAGE) || ''; }
+
+  function refreshKeyStatus(){
+    const key = getApiKey();
+    if(key){
+      keyStatusDot.classList.add('ok');
+      keyStatusText.textContent = '설정됨';
+      apiKeyInput.value = '';
+      apiKeyInput.placeholder = '저장된 키가 있습니다 (변경하려면 새로 입력)';
+    } else {
+      keyStatusDot.classList.remove('ok');
+      keyStatusText.textContent = '미설정';
+      keyPanel.open = true;
+    }
+  }
+  refreshKeyStatus();
+
+  saveKeyBtn.addEventListener('click', function(){
+    const val = apiKeyInput.value.trim();
+    if(!val){ return; }
+    localStorage.setItem(KEY_STORAGE, val);
+    refreshKeyStatus();
+    keyPanel.open = false;
+    setStatus('API 키가 저장되었습니다. 검색을 눌러보세요.');
+  });
+
+  function setStatus(msg, isError){
+    statusLine.textContent = msg || '';
+    statusLine.classList.toggle('error', !!isError);
+  }
+
+  function parseISODuration(iso){
+    const m = iso.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+    if(!m) return 0;
+    const h = parseInt(m[1] || 0, 10);
+    const min = parseInt(m[2] || 0, 10);
+    const s = parseInt(m[3] || 0, 10);
+    return h*3600 + min*60 + s;
+  }
+
+  function formatDuration(sec){
+    const m = Math.floor(sec/60);
+    const s = sec % 60;
+    return m + ':' + String(s).padStart(2,'0');
+  }
+
+  function formatViews(n){
+    const num = parseInt(n || 0, 10);
+    return num.toLocaleString('ko-KR') + '회';
+  }
+
+  function renderCards(videos){
+    videos.forEach(function(v){
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML =
+        '<div class="thumb-box">' +
+          '<img src="' + v.thumb + '" alt="" loading="lazy">' +
+          '<span class="duration-badge">' + formatDuration(v.durationSec) + '</span>' +
+        '</div>' +
+        '<div class="card-body">' +
+          '<div class="card-title"></div>' +
+          '<div class="card-meta"><span class="ch"></span><span class="views"></span></div>' +
+        '</div>';
+      card.querySelector('.card-title').textContent = v.title;
+      card.querySelector('.ch').textContent = v.channel;
+      card.querySelector('.views').textContent = formatViews(v.views);
+      card.addEventListener('click', function(){
+        modalIframe.src = 'https://www.youtube.com/embed/' + v.id + '?autoplay=1';
+        modalBackdrop.classList.add('open');
+      });
+      grid.appendChild(card);
+    });
+  }
+
+  function closeModal(){
+    modalBackdrop.classList.remove('open');
+    modalIframe.src = '';
+  }
+  modalClose.addEventListener('click', closeModal);
+  modalBackdrop.addEventListener('click', function(e){
+    if(e.target === modalBackdrop) closeModal();
+  });
+
+  async function runSearch(query, sort, durationLimit, pageToken){
+    const apiKey = getApiKey();
+    if(!apiKey){
+      setStatus('먼저 API 키를 설정해주세요.', true);
+      keyPanel.open = true;
+      return;
+    }
+
+    isLoading = true;
+    setStatus(pageToken ? '더 불러오는 중...' : '검색 중...');
+    loadMoreBtn.disabled = true;
+
+    try{
+      const searchUrl = new URL('https://www.googleapis.com/youtube/v3/search');
+      searchUrl.searchParams.set('part', 'snippet');
+      searchUrl.searchParams.set('q', query);
+      searchUrl.searchParams.set('type', 'video');
+      searchUrl.searchParams.set('order', sort);
+      searchUrl.searchParams.set('maxResults', '50');
+      searchUrl.searchParams.set('key', apiKey);
+      if(pageToken) searchUrl.searchParams.set('pageToken', pageToken);
+
+      const searchRes = await fetch(searchUrl.toString());
+      const searchData = await searchRes.json();
+
+      if(searchData.error){
+        throw new Error(searchData.error.message || '검색 요청에 실패했습니다.');
+      }
+
+      const ids = (searchData.items || [])
+        .map(function(item){ return item.id && item.id.videoId; })
+        .filter(Boolean);
+
+      if(ids.length === 0){
+        nextPageToken = null;
+        loadMoreWrap.style.display = 'none';
+        if(!pageToken){
+          grid.innerHTML = '';
+          setStatus('검색 결과가 없습니다.');
+        } else {
+          setStatus('더 이상 결과가 없습니다.');
+        }
+        isLoading = false;
+        loadMoreBtn.disabled = false;
+        return;
+      }
+
+      const videosUrl = new URL('https://www.googleapis.com/youtube/v3/videos');
+      videosUrl.searchParams.set('part', 'contentDetails,statistics,snippet');
+      videosUrl.searchParams.set('id', ids.join(','));
+      videosUrl.searchParams.set('key', apiKey);
+
+      const videosRes = await fetch(videosUrl.toString());
+      const videosData = await videosRes.json();
+
+      if(videosData.error){
+        throw new Error(videosData.error.message || '영상 정보를 불러오지 못했습니다.');
+      }
+
+      const shorts = (videosData.items || [])
+        .map(function(item){
+          const durationSec = parseISODuration(item.contentDetails.duration);
+          return {
+            id: item.id,
+            title: item.snippet.title,
+            channel: item.snippet.channelTitle,
+            thumb: (item.snippet.thumbnails.high || item.snippet.thumbnails.medium || item.snippet.thumbnails.default).url,
+            views: item.statistics ? item.statistics.viewCount : 0,
+            durationSec: durationSec
+          };
+        })
+        .filter(function(v){ return v.durationSec > 0 && v.durationSec <= durationLimit; });
+
+      if(!pageToken){ grid.innerHTML = ''; }
+      renderCards(shorts);
+
+      nextPageToken = searchData.nextPageToken || null;
+      loadMoreWrap.style.display = nextPageToken ? 'block' : 'none';
+
+      const totalCount = grid.children.length;
+      if(totalCount === 0){
+        setStatus('조건에 맞는 쇼츠를 찾지 못했습니다. 길이 필터를 "3분 이하"로 바꿔보세요.');
+      } else {
+        setStatus('총 ' + totalCount + '개 영상 표시 중');
+      }
+
+    } catch(err){
+      setStatus(err.message || '오류가 발생했습니다.', true);
+    } finally {
+      isLoading = false;
+      loadMoreBtn.disabled = false;
+    }
+  }
+
+  searchBtn.addEventListener('click', function(){
+    if(isLoading) return;
+    const q = searchInput.value.trim();
+    if(!q){ setStatus('검색어를 입력해주세요.', true); return; }
+    currentQuery = q;
+    nextPageToken = null;
+    runSearch(q, sortSelect.value, parseInt(durationSelect.value, 10), null);
+  });
+
+  loadMoreBtn.addEventListener('click', function(){
+    if(isLoading || !nextPageToken) return;
+    runSearch(currentQuery, sortSelect.value, parseInt(durationSelect.value, 10), nextPageToken);
+  });
+
+  searchInput.addEventListener('keydown', function(e){
+    if(e.key === 'Enter') searchBtn.click();
+  });
+
+  const archiveMeta = document.getElementById('archiveMeta');
+
+  function formatUpdatedAt(iso){
+    try{
+      const d = new Date(iso);
+      return d.toLocaleString('ko-KR', { year:'numeric', month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit' });
+    } catch(e){ return iso; }
+  }
+
+  async function loadArchive(){
+    try{
+      const res = await fetch('./data/shorts.json', { cache: 'no-store' });
+      if(!res.ok) throw new Error('아카이브 파일 없음');
+      const data = await res.json();
+      grid.innerHTML = '';
+      renderCards(data.videos || []);
+      archiveMeta.textContent = '마지막 자동 수집: ' + formatUpdatedAt(data.updatedAt) + ' · ' + (data.count || 0) + '개 영상';
+      setStatus('총 ' + (data.count || 0) + '개 영상 표시 중 (자동 수집)');
+    } catch(err){
+      archiveMeta.textContent = '';
+      setStatus('아직 자동 수집된 아카이브가 없습니다. 아래에서 직접 검색해보세요.');
+    }
+  }
+
+  // 최초 진입: 자동 수집 아카이브부터 불러온다
+  loadArchive();
+})();
+</script>
+
+</body>
+</html>
