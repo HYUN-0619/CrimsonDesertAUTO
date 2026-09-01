@@ -1,13 +1,16 @@
 // 붉은사막 공략글 자동 수집 스크립트
 // GitHub Actions에서 실행됨. 환경변수 NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 필요 (repo secret).
 // Node 20 이상 필요 (전역 fetch 사용).
-// 웹문서 / 블로그 / 카페 검색 결과를 통합해서 제목+요약(스니펫)+링크만 저장합니다.
-// 원문 전체를 저장하지 않습니다 — 저작권 보호를 위해 항상 원문 링크로 연결하는 인덱스 방식입니다.
+// NAVER API HUB(신규, 2026.06 이관)의 웹문서/블로그/카페 검색을 통합해서
+// 제목+요약(스니펫)+링크만 저장합니다. 원문 전체는 저장하지 않습니다 —
+// 저작권 보호를 위해 항상 원문 링크로 연결하는 인덱스 방식입니다.
 
 const CLIENT_ID = process.env.NAVER_CLIENT_ID;
 const CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET;
 const QUERY = process.env.GUIDE_QUERY || '붉은사막 공략';
 const DISPLAY = parseInt(process.env.GUIDE_DISPLAY || '30', 10);
+
+const HUB_BASE = 'https://naverapihub.apigw.ntruss.com/search/v1';
 
 if (!CLIENT_ID || !CLIENT_SECRET) {
   console.error('NAVER_CLIENT_ID 또는 NAVER_CLIENT_SECRET 환경변수가 없습니다.');
@@ -25,18 +28,23 @@ function stripHtml(str) {
 }
 
 async function searchNaver(type, query, display) {
-  const url = 'https://openapi.naver.com/v1/search/' + type + '.json' +
+  const url = HUB_BASE + '/' + type +
     '?query=' + encodeURIComponent(query) +
     '&display=' + display +
     '&sort=date';
 
   const res = await fetch(url, {
     headers: {
-      'X-Naver-Client-Id': CLIENT_ID,
-      'X-Naver-Client-Secret': CLIENT_SECRET,
+      'X-NCP-APIGW-API-KEY-ID': CLIENT_ID,
+      'X-NCP-APIGW-API-KEY': CLIENT_SECRET,
     },
   });
   const data = await res.json();
+
+  // HUB 오류 응답은 {error:{errorCode,message}} 또는 평면형 errorMessage 둘 다 가능
+  if (data.error) {
+    throw new Error(type + ' 검색 실패: ' + (data.error.message || JSON.stringify(data.error)));
+  }
   if (data.errorMessage) {
     throw new Error(type + ' 검색 실패: ' + data.errorMessage);
   }
