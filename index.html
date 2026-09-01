@@ -978,6 +978,24 @@
       guidesStatusLine.textContent = err.message || '공략글을 불러오지 못했습니다.';
     }
   }
+
+  function showGuideSkeleton(container, count){
+    count = count || 5;
+    let html = '';
+    for(let i = 0; i < count; i++){
+      html +=
+        '<div class="guide-card skeleton">' +
+          '<div class="guide-thumb skeleton-box"></div>' +
+          '<div class="guide-body">' +
+            '<div class="skeleton-box skeleton-line g-title"></div>' +
+            '<div class="skeleton-box skeleton-line g-desc"></div>' +
+            '<div class="skeleton-box skeleton-line g-desc short"></div>' +
+            '<div class="skeleton-box skeleton-line g-meta"></div>' +
+          '</div>' +
+        '</div>';
+    }
+    container.innerHTML = html;
+  }
 })();
 
 (function(){
@@ -1294,24 +1312,6 @@
           '<div class="card-body">' +
             '<div class="skeleton-box skeleton-line s-title"></div>' +
             '<div class="skeleton-box skeleton-line s-meta"></div>' +
-          '</div>' +
-        '</div>';
-    }
-    container.innerHTML = html;
-  }
-
-  function showGuideSkeleton(container, count){
-    count = count || 5;
-    let html = '';
-    for(let i = 0; i < count; i++){
-      html +=
-        '<div class="guide-card skeleton">' +
-          '<div class="guide-thumb skeleton-box"></div>' +
-          '<div class="guide-body">' +
-            '<div class="skeleton-box skeleton-line g-title"></div>' +
-            '<div class="skeleton-box skeleton-line g-desc"></div>' +
-            '<div class="skeleton-box skeleton-line g-desc short"></div>' +
-            '<div class="skeleton-box skeleton-line g-meta"></div>' +
           '</div>' +
         '</div>';
     }
