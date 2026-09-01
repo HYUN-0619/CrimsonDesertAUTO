@@ -443,6 +443,53 @@
     line-height:1;
   }
 
+  /* 이용 안내 팝업 */
+  .intro-backdrop{
+    position:fixed; inset:0;
+    background:rgba(6,4,3,0.72);
+    backdrop-filter:blur(2px);
+    display:none;
+    align-items:center;
+    justify-content:center;
+    z-index:60;
+    padding:24px;
+  }
+  .intro-backdrop.open{ display:flex; }
+  .intro-box{
+    width:min(440px, 100%);
+    background:rgba(23,18,16,0.92);
+    border:1px solid var(--border);
+    border-radius:8px;
+    padding:28px 26px;
+    box-shadow:0 12px 40px rgba(0,0,0,0.5);
+  }
+  .intro-box h2{
+    font-family:'Black Han Sans', sans-serif;
+    font-size:1.4rem;
+    margin-bottom:16px;
+    color:var(--text);
+  }
+  .intro-box h2 span{ color:var(--red-bright); }
+  .intro-list{ list-style:none; }
+  .intro-list li{
+    display:flex;
+    gap:10px;
+    margin-bottom:14px;
+    font-size:0.88rem;
+    line-height:1.6;
+    color:var(--text-muted);
+  }
+  .intro-list li b{
+    color:var(--gold);
+    flex-shrink:0;
+  }
+  .intro-box .btn-primary{
+    width:100%;
+    margin-top:8px;
+    padding:12px;
+    font-size:0.92rem;
+  }
+
   /* 정적 텍스트 페이지 (소개, 개인정보처리방침) */
   .static-page{
     max-width:720px;
@@ -458,6 +505,33 @@
   }
   .static-page p{ margin-bottom:12px; }
   .static-page a{ color:var(--red-bright); }
+
+  /* 스켈레톤 로딩 UI */
+  @keyframes skeleton-shimmer {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+  .skeleton-box{
+    background: linear-gradient(90deg, var(--bg-card) 25%, var(--border) 50%, var(--bg-card) 75%);
+    background-size: 200% 100%;
+    animation: skeleton-shimmer 1.4s infinite linear;
+    border-radius: 4px;
+  }
+  .card.skeleton{ cursor: default; }
+  .card.skeleton:hover{ border-color: var(--border); transform: none; }
+  .card.skeleton .thumb-box{ background: transparent; }
+  .card.skeleton .thumb-box .skeleton-box{ width:100%; height:100%; border-radius:0; }
+  .card.skeleton .skeleton-line{ height: 12px; margin: 6px 0; }
+  .card.skeleton .skeleton-line.s-title{ width: 90%; height: 14px; }
+  .card.skeleton .skeleton-line.s-meta{ width: 50%; }
+
+  .guide-card.skeleton{ cursor: default; }
+  .guide-card.skeleton:hover{ border-color: var(--border); }
+  .guide-card.skeleton .guide-thumb.skeleton-box{ width:96px; height:96px; flex-shrink:0; }
+  .guide-card.skeleton .skeleton-line.g-title{ height: 16px; width: 70%; margin-bottom: 8px; }
+  .guide-card.skeleton .skeleton-line.g-desc{ height: 12px; width: 95%; margin-bottom: 6px; }
+  .guide-card.skeleton .skeleton-line.g-desc.short{ width: 70%; }
+  .guide-card.skeleton .skeleton-line.g-meta{ height: 10px; width: 30%; margin-top: 8px; }
 
   footer{
     text-align:center;
@@ -668,7 +742,39 @@
   </div>
 </div>
 
+<div class="intro-backdrop" id="introBackdrop">
+  <div class="intro-box">
+    <h2>#<span>붉은사막</span> 아카이브 이용 안내</h2>
+    <ul class="intro-list">
+      <li><b>SHORTS</b> 유튜브 쇼츠를 자동으로 모아 보여드려요. 정렬·조회수·채널 필터로 원하는 영상만 골라보고, 카드를 클릭하면 바로 재생돼요.</li>
+      <li><b>공략글</b> 웹문서·블로그·카페의 공략글을 모아 보여드려요. 검색창과 수집처 필터로 찾고, 클릭하면 원문 페이지로 이동해요.</li>
+      <li><b>자동 갱신</b> 목록은 6시간마다 자동으로 새로고침돼요.</li>
+      <li><b>저작권</b> 모든 영상·글의 저작권은 원 제작자에게 있으며, 이 사이트는 링크와 공식 임베드로만 연결합니다.</li>
+    </ul>
+    <button class="btn-primary" id="introCloseBtn">확인했어요</button>
+  </div>
+</div>
+
 <script>
+(function(){
+  const INTRO_STORAGE = 'redcrimson_intro_seen';
+  const introBackdrop = document.getElementById('introBackdrop');
+  const introCloseBtn = document.getElementById('introCloseBtn');
+
+  if(!localStorage.getItem(INTRO_STORAGE)){
+    introBackdrop.classList.add('open');
+  }
+
+  function closeIntro(){
+    introBackdrop.classList.remove('open');
+    localStorage.setItem(INTRO_STORAGE, '1');
+  }
+  introCloseBtn.addEventListener('click', closeIntro);
+  introBackdrop.addEventListener('click', function(e){
+    if(e.target === introBackdrop) closeIntro();
+  });
+})();
+
 (function(){
   const sidebar = document.getElementById('sidebar');
   const sidebarToggle = document.getElementById('sidebarToggle');
@@ -858,6 +964,7 @@
   async function loadGuides(){
     const guidesMeta = document.getElementById('guidesMeta');
     const guidesStatusLine = document.getElementById('guidesStatusLine');
+    showGuideSkeleton(document.getElementById('guideList'), 5);
     try{
       const res = await fetch('./data/guides.json', { cache: 'no-store' });
       if(!res.ok) throw new Error('아직 수집된 공략글이 없습니다.');
@@ -1177,6 +1284,40 @@
     });
   }
 
+  function showShortsSkeleton(container, count){
+    count = count || 8;
+    let html = '';
+    for(let i = 0; i < count; i++){
+      html +=
+        '<div class="card skeleton">' +
+          '<div class="thumb-box"><div class="skeleton-box"></div></div>' +
+          '<div class="card-body">' +
+            '<div class="skeleton-box skeleton-line s-title"></div>' +
+            '<div class="skeleton-box skeleton-line s-meta"></div>' +
+          '</div>' +
+        '</div>';
+    }
+    container.innerHTML = html;
+  }
+
+  function showGuideSkeleton(container, count){
+    count = count || 5;
+    let html = '';
+    for(let i = 0; i < count; i++){
+      html +=
+        '<div class="guide-card skeleton">' +
+          '<div class="guide-thumb skeleton-box"></div>' +
+          '<div class="guide-body">' +
+            '<div class="skeleton-box skeleton-line g-title"></div>' +
+            '<div class="skeleton-box skeleton-line g-desc"></div>' +
+            '<div class="skeleton-box skeleton-line g-desc short"></div>' +
+            '<div class="skeleton-box skeleton-line g-meta"></div>' +
+          '</div>' +
+        '</div>';
+    }
+    container.innerHTML = html;
+  }
+
   function formatUpdatedAt(iso){
     try{
       const d = new Date(iso);
@@ -1246,6 +1387,7 @@
   minViewsSelect.addEventListener('change', applyArchiveFilters);
 
   async function loadArchive(){
+    showShortsSkeleton(grid, 8);
     try{
       const res = await fetch('./data/shorts.json', { cache: 'no-store' });
       if(!res.ok) throw new Error('아카이브 파일 없음');
