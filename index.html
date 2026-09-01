@@ -176,6 +176,34 @@
     font-size:0.86rem;
     flex:1;
   }
+
+  /* 해시태그 필터 칩 */
+  .tag-bar{
+    max-width:900px;
+    margin:18px auto 0;
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    justify-content:center;
+  }
+  .tag-chip{
+    background:var(--bg-elevated);
+    border:1px solid var(--border);
+    color:var(--text-muted);
+    padding:6px 12px;
+    border-radius:20px;
+    font-family:inherit;
+    font-size:0.78rem;
+    font-weight:500;
+    cursor:pointer;
+    transition:all 0.15s ease;
+  }
+  .tag-chip:hover{ border-color:var(--gold); color:var(--text); }
+  .tag-chip.active{
+    background:var(--red);
+    border-color:var(--red-bright);
+    color:#f4ece2;
+  }
   .controls input[type="text"]{ min-width:220px; }
   .controls select{
     background:#0f0c0a;
@@ -384,6 +412,8 @@
       <option value="10000">10,000회 이상</option>
     </select>
   </div>
+
+  <div class="tag-bar" id="tagBar"></div>
 
   <details class="key-panel" id="keyPanel">
     <summary><span><span class="status-dot" id="keyStatusDot"></span>실시간 검색용 API 키 (선택)</span><span id="keyStatusText" style="color:var(--text-muted); font-weight:400;">미설정</span></summary>
@@ -701,7 +731,59 @@
   const archiveMeta = document.getElementById('archiveMeta');
   const archiveSortSelect = document.getElementById('archiveSortSelect');
   const minViewsSelect = document.getElementById('minViewsSelect');
+  const tagBar = document.getElementById('tagBar');
   let archiveVideos = [];
+  let activeHashtag = null;
+
+  function extractHashtagsClient(text){
+    if(!text) return [];
+    const matches = text.match(/#[\w가-힣]+/g) || [];
+    return Array.from(new Set(matches));
+  }
+
+  function getVideoHashtags(v){
+    if(v.hashtags && v.hashtags.length) return v.hashtags;
+    return extractHashtagsClient(v.title);
+  }
+
+  function buildTagBar(){
+    const freq = {};
+    archiveVideos.forEach(function(v){
+      getVideoHashtags(v).forEach(function(tag){
+        const key = tag.toLowerCase();
+        if(!freq[key]) freq[key] = { label: tag, count: 0 };
+        freq[key].count++;
+      });
+    });
+    const sorted = Object.values(freq)
+      .sort(function(a,b){ return b.count - a.count; })
+      .slice(0, 16);
+
+    tagBar.innerHTML = '';
+
+    const allBtn = document.createElement('button');
+    allBtn.className = 'tag-chip' + (activeHashtag === null ? ' active' : '');
+    allBtn.textContent = '전체';
+    allBtn.addEventListener('click', function(){
+      activeHashtag = null;
+      buildTagBar();
+      applyArchiveFilters();
+    });
+    tagBar.appendChild(allBtn);
+
+    sorted.forEach(function(item){
+      const key = item.label.toLowerCase();
+      const btn = document.createElement('button');
+      btn.className = 'tag-chip' + (activeHashtag === key ? ' active' : '');
+      btn.textContent = item.label + ' (' + item.count + ')';
+      btn.addEventListener('click', function(){
+        activeHashtag = (activeHashtag === key) ? null : key;
+        buildTagBar();
+        applyArchiveFilters();
+      });
+      tagBar.appendChild(btn);
+    });
+  }
 
   function formatUpdatedAt(iso){
     try{
@@ -728,6 +810,12 @@
     const sortBy = archiveSortSelect.value;
 
     let filtered = archiveVideos.filter(function(v){ return (v.views || 0) >= minViews; });
+
+    if(activeHashtag){
+      filtered = filtered.filter(function(v){
+        return getVideoHashtags(v).some(function(t){ return t.toLowerCase() === activeHashtag; });
+      });
+    }
 
     // 베스트 5 (조회수+좋아요 가중 점수 기준)
     const best = filtered.slice().sort(function(a,b){ return bestScore(b) - bestScore(a); }).slice(0, 5);
@@ -774,6 +862,7 @@
       const data = await res.json();
       archiveVideos = data.videos || [];
       archiveMeta.textContent = '마지막 자동 수집: ' + formatUpdatedAt(data.updatedAt) + ' · ' + (data.count || 0) + '개 영상';
+      buildTagBar();
       applyArchiveFilters();
     } catch(err){
       archiveMeta.textContent = '';
