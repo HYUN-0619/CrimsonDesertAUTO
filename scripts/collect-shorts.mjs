@@ -5,7 +5,7 @@
 const API_KEY = process.env.YT_API_KEY;
 const QUERY = process.env.SEARCH_QUERY || '#붉은사막 shorts';
 const DURATION_LIMIT_SEC = parseInt(process.env.DURATION_LIMIT_SEC || '180', 10);
-const MAX_PAGES = parseInt(process.env.MAX_PAGES || '3', 10);
+const MAX_PAGES = parseInt(process.env.MAX_PAGES || '3', 10); // 검색 페이지 수 (쿼터 절약용)
 
 if (!API_KEY) {
   console.error('YT_API_KEY 환경변수가 없습니다.');
@@ -67,6 +67,7 @@ async function main() {
   const uniqueIds = [...new Set(allIds)];
   const videos = [];
 
+  // videos.list는 한 번에 최대 50개 id
   for (let i = 0; i < uniqueIds.length; i += 50) {
     const batch = uniqueIds.slice(i, i + 50);
     const items = await fetchVideoDetails(batch);
@@ -80,12 +81,14 @@ async function main() {
           publishedAt: item.snippet.publishedAt,
           thumb: (item.snippet.thumbnails.high || item.snippet.thumbnails.medium || item.snippet.thumbnails.default).url,
           views: item.statistics ? parseInt(item.statistics.viewCount || '0', 10) : 0,
+          likes: item.statistics ? parseInt(item.statistics.likeCount || '0', 10) : 0,
           durationSec,
         });
       }
     }
   }
 
+  // 최신순 정렬
   videos.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
   const output = {
