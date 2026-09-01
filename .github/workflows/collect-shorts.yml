@@ -1,1 +1,34 @@
+name: Collect 붉은사막 Shorts
 
+on: {schedule: [{cron: '0 */6 * * *'}], workflow_dispatch: {}}
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node.js 설정
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 쇼츠 수집 실행
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          SEARCH_QUERY: '#붉은사막 shorts'
+          DURATION_LIMIT_SEC: '180'
+          MAX_PAGES: '3'
+        run: node scripts/collect-shorts.mjs
+
+      - name: 변경사항 커밋 및 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/shorts.json
+          git diff --staged --quiet || git commit -m "chore: 붉은사막 쇼츠 자동 갱신 $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
