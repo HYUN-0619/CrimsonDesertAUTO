@@ -1,7 +1,7 @@
 {
   "query": "#붉은사막 shorts",
   "durationLimitSec": 180,
-  "updatedAt": "2026-09-01T11:06:21.459Z",
+  "updatedAt": "2026-09-01T11:10:53.955Z",
   "count": 150,
   "videos": [
     {
@@ -30,7 +30,7 @@
       "channel": "깡철이",
       "publishedAt": "2026-08-31T09:34:58Z",
       "thumb": "https://i.ytimg.com/vi/-8UgZwu_oVE/hqdefault.jpg",
-      "views": 1177,
+      "views": 1178,
       "likes": 6,
       "durationSec": 36
     },
@@ -40,7 +40,7 @@
       "channel": "포동단",
       "publishedAt": "2026-08-31T08:30:35Z",
       "thumb": "https://i.ytimg.com/vi/guALpNHpo54/hqdefault.jpg",
-      "views": 2286,
+      "views": 2143,
       "likes": 10,
       "durationSec": 18
     },
@@ -50,7 +50,7 @@
       "channel": "얄롤리",
       "publishedAt": "2026-08-31T03:30:07Z",
       "thumb": "https://i.ytimg.com/vi/i13GxRVT-y4/hqdefault.jpg",
-      "views": 193,
+      "views": 195,
       "likes": 1,
       "durationSec": 62
     },
@@ -70,7 +70,7 @@
       "channel": "낭플 NANGPLE",
       "publishedAt": "2026-08-26T15:26:17Z",
       "thumb": "https://i.ytimg.com/vi/ZSTsbI-NOk4/hqdefault.jpg",
-      "views": 73436,
+      "views": 73438,
       "likes": 268,
       "durationSec": 20
     },
@@ -80,7 +80,7 @@
       "channel": "낭플 NANGPLE",
       "publishedAt": "2026-08-25T22:22:18Z",
       "thumb": "https://i.ytimg.com/vi/LOxN9PEXEIE/hqdefault.jpg",
-      "views": 136759,
+      "views": 136770,
       "likes": 1088,
       "durationSec": 23
     },
@@ -100,8 +100,8 @@
       "channel": "퇴근후플스",
       "publishedAt": "2026-08-13T21:45:36Z",
       "thumb": "https://i.ytimg.com/vi/d39bdUbOjSM/hqdefault.jpg",
-      "views": 6658,
-      "likes": 94,
+      "views": 6665,
+      "likes": 95,
       "durationSec": 39
     },
     {
@@ -170,7 +170,7 @@
       "channel": "퇴근후플스",
       "publishedAt": "2026-07-12T03:00:32Z",
       "thumb": "https://i.ytimg.com/vi/hXAMHhhjdJs/hqdefault.jpg",
-      "views": 8714,
+      "views": 8717,
       "likes": 148,
       "durationSec": 41
     },
@@ -190,7 +190,7 @@
       "channel": "퇴근후플스",
       "publishedAt": "2026-07-07T11:56:47Z",
       "thumb": "https://i.ytimg.com/vi/TnRvxL5cxw4/hqdefault.jpg",
-      "views": 4793,
+      "views": 4795,
       "likes": 70,
       "durationSec": 46
     },
@@ -203,16 +203,6 @@
       "views": 2052,
       "likes": 25,
       "durationSec": 173
-    },
-    {
-      "id": "t65O1YgRoyg",
-      "title": "로딩 후 사망 #붉은사막",
-      "channel": "볼레이",
-      "publishedAt": "2026-07-02T13:00:17Z",
-      "thumb": "https://i.ytimg.com/vi/t65O1YgRoyg/hqdefault.jpg",
-      "views": 347,
-      "likes": 0,
-      "durationSec": 77
     },
     {
       "id": "e9YVDqfG5QM",
@@ -385,16 +375,6 @@
       "durationSec": 38
     },
     {
-      "id": "dusJBWiQ5eg",
-      "title": "가구를 사고 이렇게 됐습니다 #쇼츠 #게임 #붉은사막 #crimsondesertgameplay #crimsondesertgame #붉사 #crimsondsert",
-      "channel": "향토끼",
-      "publishedAt": "2026-06-02T12:00:01Z",
-      "thumb": "https://i.ytimg.com/vi/dusJBWiQ5eg/hqdefault.jpg",
-      "views": 2753,
-      "likes": 44,
-      "durationSec": 51
-    },
-    {
       "id": "fjXsibNNXZg",
       "title": "붉은사막 진실의 요람 공략(자다가 생각난)#Shorts #붉은사막 #CrimsonDesert #진실의요람 #붉은사막공략",
       "channel": "미미",
@@ -421,7 +401,7 @@
       "publishedAt": "2026-05-31T21:30:17Z",
       "thumb": "https://i.ytimg.com/vi/OVjld8Ocn_0/hqdefault.jpg",
       "views": 1614973,
-      "likes": 19382,
+      "likes": 19383,
       "durationSec": 38
     },
     {
@@ -440,7 +420,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-31T12:00:11Z",
       "thumb": "https://i.ytimg.com/vi/UkIXgx9sRAA/hqdefault.jpg",
-      "views": 15306,
+      "views": 15307,
       "likes": 196,
       "durationSec": 53
     },
@@ -503,6 +483,26 @@
       "views": 1328,
       "likes": 3,
       "durationSec": 44
+    },
+    {
+      "id": "YEnfh5XtQLA",
+      "title": "마지막 한 판의 기적 #쇼츠 #게임 #붉은사막 #crimsondesertgameplay #crimsondesertgame #붉사 #crimsondsert",
+      "channel": "향토끼",
+      "publishedAt": "2026-05-28T12:00:29Z",
+      "thumb": "https://i.ytimg.com/vi/YEnfh5XtQLA/hqdefault.jpg",
+      "views": 7475,
+      "likes": 87,
+      "durationSec": 58
+    },
+    {
+      "id": "1-2itQ-Lk78",
+      "title": "[붉은사막] 데미안 맨손전투 #shorts",
+      "channel": "히아",
+      "publishedAt": "2026-05-28T09:42:09Z",
+      "thumb": "https://i.ytimg.com/vi/1-2itQ-Lk78/hqdefault.jpg",
+      "views": 3230,
+      "likes": 28,
+      "durationSec": 78
     },
     {
       "id": "mkM5ea1i9A8",
@@ -570,7 +570,7 @@
       "channel": "심도릭스",
       "publishedAt": "2026-05-25T01:32:45Z",
       "thumb": "https://i.ytimg.com/vi/r9L4g0FonJ8/hqdefault.jpg",
-      "views": 5464,
+      "views": 5462,
       "likes": 133,
       "durationSec": 78
     },
@@ -670,7 +670,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-05-20T02:00:37Z",
       "thumb": "https://i.ytimg.com/vi/r6PU-pHX4i4/hqdefault.jpg",
-      "views": 39383,
+      "views": 39384,
       "likes": 146,
       "durationSec": 34
     },
@@ -700,7 +700,7 @@
       "channel": "BanaMongki",
       "publishedAt": "2026-05-19T07:35:06Z",
       "thumb": "https://i.ytimg.com/vi/k7IwKse_hBo/hqdefault.jpg",
-      "views": 67547,
+      "views": 67550,
       "likes": 460,
       "durationSec": 23
     },
@@ -730,7 +730,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-05-19T02:00:40Z",
       "thumb": "https://i.ytimg.com/vi/xSN8nrjdMkE/hqdefault.jpg",
-      "views": 6398,
+      "views": 6399,
       "likes": 82,
       "durationSec": 60
     },
@@ -760,7 +760,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-05-18T02:00:35Z",
       "thumb": "https://i.ytimg.com/vi/mJUEYFczpn8/hqdefault.jpg",
-      "views": 18547,
+      "views": 18548,
       "likes": 160,
       "durationSec": 91
     },
@@ -780,7 +780,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-05-17T02:00:10Z",
       "thumb": "https://i.ytimg.com/vi/6m-oNHSyn1U/hqdefault.jpg",
-      "views": 12779,
+      "views": 12782,
       "likes": 142,
       "durationSec": 84
     },
@@ -800,7 +800,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-05-16T02:00:39Z",
       "thumb": "https://i.ytimg.com/vi/foEq_UKbuRQ/hqdefault.jpg",
-      "views": 14437,
+      "views": 14438,
       "likes": 103,
       "durationSec": 90
     },
@@ -1000,7 +1000,7 @@
       "channel": "짧은플김",
       "publishedAt": "2026-05-11T14:01:07Z",
       "thumb": "https://i.ytimg.com/vi/faU0XeXWAP0/hqdefault.jpg",
-      "views": 132816,
+      "views": 132815,
       "likes": 1224,
       "durationSec": 69
     },
@@ -1080,7 +1080,7 @@
       "channel": "낭플 NANGPLE",
       "publishedAt": "2026-05-10T11:29:21Z",
       "thumb": "https://i.ytimg.com/vi/ofuN9pmZ0Zk/hqdefault.jpg",
-      "views": 66504,
+      "views": 66507,
       "likes": 383,
       "durationSec": 8
     },
@@ -1480,7 +1480,7 @@
       "channel": "짧은플김",
       "publishedAt": "2026-05-03T09:00:27Z",
       "thumb": "https://i.ytimg.com/vi/NZCoYvYVwVw/hqdefault.jpg",
-      "views": 376945,
+      "views": 376946,
       "likes": 4098,
       "durationSec": 58
     },
