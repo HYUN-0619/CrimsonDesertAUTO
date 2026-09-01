@@ -1,8 +1,8 @@
 {
   "query": "#붉은사막 shorts",
   "durationLimitSec": 180,
-  "updatedAt": "2026-09-01T13:10:20.080Z",
-  "count": 127,
+  "updatedAt": "2026-09-01T13:13:42.314Z",
+  "count": 146,
   "videos": [
     {
       "id": "5d38aq5U3dA",
@@ -10,7 +10,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-01T08:30:10Z",
       "thumb": "https://i.ytimg.com/vi/5d38aq5U3dA/hqdefault.jpg",
-      "views": 871,
+      "views": 879,
       "likes": 1,
       "durationSec": 29
     },
@@ -30,7 +30,7 @@
       "channel": "깡철이",
       "publishedAt": "2026-08-31T09:34:58Z",
       "thumb": "https://i.ytimg.com/vi/-8UgZwu_oVE/hqdefault.jpg",
-      "views": 1177,
+      "views": 1180,
       "likes": 6,
       "durationSec": 36
     },
@@ -40,7 +40,7 @@
       "channel": "포동단",
       "publishedAt": "2026-08-31T08:30:35Z",
       "thumb": "https://i.ytimg.com/vi/guALpNHpo54/hqdefault.jpg",
-      "views": 2329,
+      "views": 2309,
       "likes": 10,
       "durationSec": 18
     },
@@ -50,7 +50,7 @@
       "channel": "얄롤리",
       "publishedAt": "2026-08-31T03:30:07Z",
       "thumb": "https://i.ytimg.com/vi/i13GxRVT-y4/hqdefault.jpg",
-      "views": 195,
+      "views": 191,
       "likes": 1,
       "durationSec": 62
     },
@@ -95,14 +95,124 @@
       "durationSec": 27
     },
     {
+      "id": "d39bdUbOjSM",
+      "title": "붉은사막 죽지 않아! 부활템 타리브목걸이 위치 #붉은사막 #붉은사막장비 #붉은사막목걸이",
+      "channel": "퇴근후플스",
+      "publishedAt": "2026-08-13T21:45:36Z",
+      "thumb": "https://i.ytimg.com/vi/d39bdUbOjSM/hqdefault.jpg",
+      "views": 6679,
+      "likes": 95,
+      "durationSec": 39
+    },
+    {
       "id": "WJdhjb_x8Dg",
       "title": "붉은사막에 나타난 퀵실버",
       "channel": "낭플 NANGPLE",
       "publishedAt": "2026-07-31T10:07:21Z",
       "thumb": "https://i.ytimg.com/vi/WJdhjb_x8Dg/hqdefault.jpg",
-      "views": 187407,
+      "views": 187413,
       "likes": 2112,
       "durationSec": 38
+    },
+    {
+      "id": "BuEBkaNeUYc",
+      "title": "여전히 재밌어 #붉은사막 #crimsondesert #game #shorts",
+      "channel": "선재림",
+      "publishedAt": "2026-07-29T09:15:37Z",
+      "thumb": "https://i.ytimg.com/vi/BuEBkaNeUYc/hqdefault.jpg",
+      "views": 1368,
+      "likes": 17,
+      "durationSec": 59
+    },
+    {
+      "id": "rZCk-dQZApQ",
+      "title": "#붉은사막 마리우스의 전투력 +100 목발?? #쇼츠, #shorts",
+      "channel": "아난다요 TV",
+      "publishedAt": "2026-07-26T20:00:14Z",
+      "thumb": "https://i.ytimg.com/vi/rZCk-dQZApQ/hqdefault.jpg",
+      "views": 2153,
+      "likes": 9,
+      "durationSec": 137
+    },
+    {
+      "id": "eMA9ZiUT4xw",
+      "title": "붉은사막에 나타난 다리우스",
+      "channel": "낭플 NANGPLE",
+      "publishedAt": "2026-07-25T23:01:45Z",
+      "thumb": "https://i.ytimg.com/vi/eMA9ZiUT4xw/hqdefault.jpg",
+      "views": 26636,
+      "likes": 194,
+      "durationSec": 18
+    },
+    {
+      "id": "wIVrLpVrB6M",
+      "title": "#붉은사막 기묘한 서키스 가문에서의 이상 현상에 관하여 #쇼츠, #shorts",
+      "channel": "아난다요 TV",
+      "publishedAt": "2026-07-24T20:00:22Z",
+      "thumb": "https://i.ytimg.com/vi/wIVrLpVrB6M/hqdefault.jpg",
+      "views": 1399,
+      "likes": 8,
+      "durationSec": 99
+    },
+    {
+      "id": "hXAMHhhjdJs",
+      "title": "붉은사막 비밀공간 와이번의성역 의식의 공간 보물은 최고급 리너드 양손대포 #붉은사막 #붉은사막공략 #crimsondesertgameplay",
+      "channel": "퇴근후플스",
+      "publishedAt": "2026-07-12T03:00:32Z",
+      "thumb": "https://i.ytimg.com/vi/hXAMHhhjdJs/hqdefault.jpg",
+      "views": 8720,
+      "likes": 148,
+      "durationSec": 41
+    },
+    {
+      "id": "WObGUO6K6lw",
+      "title": "[붉은사막] 쩌는 룩! 학살의 판금 5종 세트 #shorts",
+      "channel": "히아",
+      "publishedAt": "2026-07-10T03:31:20Z",
+      "thumb": "https://i.ytimg.com/vi/WObGUO6K6lw/hqdefault.jpg",
+      "views": 1557,
+      "likes": 11,
+      "durationSec": 87
+    },
+    {
+      "id": "TnRvxL5cxw4",
+      "title": "붉은사막 비밀공간 의식의 공간 안툼브라 의식장 영혼의 창은 덤! #붉은사막 #붉은사막공략 #붉은사막비밀공간",
+      "channel": "퇴근후플스",
+      "publishedAt": "2026-07-07T11:56:47Z",
+      "thumb": "https://i.ytimg.com/vi/TnRvxL5cxw4/hqdefault.jpg",
+      "views": 4795,
+      "likes": 70,
+      "durationSec": 46
+    },
+    {
+      "id": "WESEqfe2Ptk",
+      "title": "[붉은사막] 여전사 데미안 #gaming #fortnite #gamer#Shorts #붉은사막 #데미안 #여전사 #붉은사막데미안 #걸크러시 #게임쇼츠",
+      "channel": "심도릭스",
+      "publishedAt": "2026-07-07T06:04:37Z",
+      "thumb": "https://i.ytimg.com/vi/WESEqfe2Ptk/hqdefault.jpg",
+      "views": 2052,
+      "likes": 25,
+      "durationSec": 173
+    },
+    {
+      "id": "e9YVDqfG5QM",
+      "title": "EP.23 찌리리공 이렇게 하는거 아님? #shorts #붉은사막",
+      "channel": "고로께",
+      "publishedAt": "2026-06-27T05:00:27Z",
+      "thumb": "https://i.ytimg.com/vi/e9YVDqfG5QM/hqdefault.jpg",
+      "views": 11769,
+      "likes": 86,
+      "durationSec": 64
+    },
+    {
+      "id": "pa3Bqnp30xU",
+      "title": "EP.22 이상한 나라의 고로께 #shorts #붉은사막",
+      "channel": "고로께",
+      "publishedAt": "2026-06-26T05:00:37Z",
+      "thumb": "https://i.ytimg.com/vi/pa3Bqnp30xU/hqdefault.jpg",
+      "views": 4995,
+      "likes": 37,
+      "durationSec": 15
     },
     {
       "id": "W0oROUxvcFg",
@@ -113,6 +223,16 @@
       "views": 4833,
       "likes": 31,
       "durationSec": 14
+    },
+    {
+      "id": "5DN3ErKUoOY",
+      "title": "EP.20 나 오늘 집에 가기 싫은데 #붉은사막 #shorts",
+      "channel": "고로께",
+      "publishedAt": "2026-06-18T05:45:17Z",
+      "thumb": "https://i.ytimg.com/vi/5DN3ErKUoOY/hqdefault.jpg",
+      "views": 2530,
+      "likes": 37,
+      "durationSec": 62
     },
     {
       "id": "e1ApM-nOvJA",
@@ -145,6 +265,16 @@
       "durationSec": 157
     },
     {
+      "id": "7IGNsvgFWNs",
+      "title": "제자리에서 뭐해? 붉은사막 보고도 믿기 힘든 상황",
+      "channel": "박쿄의 취미생활",
+      "publishedAt": "2026-06-11T08:10:34Z",
+      "thumb": "https://i.ytimg.com/vi/7IGNsvgFWNs/hqdefault.jpg",
+      "views": 2439,
+      "likes": 13,
+      "durationSec": 30
+    },
+    {
       "id": "GjxAIC45zEU",
       "title": "EP.17 주먹왕이 될거야 #붉은사막 #shorts",
       "channel": "고로께",
@@ -153,6 +283,16 @@
       "views": 4199,
       "likes": 35,
       "durationSec": 27
+    },
+    {
+      "id": "ZBeyiFYnE-M",
+      "title": "인성 수준 #붉은사막",
+      "channel": "볼레이",
+      "publishedAt": "2026-06-09T13:00:25Z",
+      "thumb": "https://i.ytimg.com/vi/ZBeyiFYnE-M/hqdefault.jpg",
+      "views": 610,
+      "likes": 0,
+      "durationSec": 11
     },
     {
       "id": "ZfFr24E9bbE",
@@ -175,6 +315,26 @@
       "durationSec": 18
     },
     {
+      "id": "aYx_Z1LNnmo",
+      "title": "EP.15 길은 내가 만들어 #붉은사막 #shorts",
+      "channel": "고로께",
+      "publishedAt": "2026-06-08T06:00:19Z",
+      "thumb": "https://i.ytimg.com/vi/aYx_Z1LNnmo/hqdefault.jpg",
+      "views": 9949,
+      "likes": 29,
+      "durationSec": 33
+    },
+    {
+      "id": "a9sn7dKrLXM",
+      "title": "EP.14 나한테서 벗어날 수 있을까? #붉은사막 #shorts",
+      "channel": "고로께",
+      "publishedAt": "2026-06-04T06:00:19Z",
+      "thumb": "https://i.ytimg.com/vi/a9sn7dKrLXM/hqdefault.jpg",
+      "views": 2776,
+      "likes": 31,
+      "durationSec": 56
+    },
+    {
       "id": "JvccrT_J2ok",
       "title": "[crimson desert] 공중말 떨어뜨리기?!! #붉은사막 #게임 #shorts",
       "channel": "현실견문록 ",
@@ -183,6 +343,16 @@
       "views": 21,
       "likes": 0,
       "durationSec": 43
+    },
+    {
+      "id": "VVA2QeZO4PE",
+      "title": "얼마나 GOTY가 타고 싶었던 걸까.. 결국 스토리까지 고친다는 붉은사막 근황 ㅋㅋㅋ #shorts",
+      "channel": "심심할 때 보는 저장용",
+      "publishedAt": "2026-06-02T13:53:43Z",
+      "thumb": "https://i.ytimg.com/vi/VVA2QeZO4PE/hqdefault.jpg",
+      "views": 105691,
+      "likes": 815,
+      "durationSec": 38
     },
     {
       "id": "fjXsibNNXZg",
@@ -195,14 +365,44 @@
       "durationSec": 25
     },
     {
+      "id": "OVjld8Ocn_0",
+      "title": "HAWKEYE",
+      "channel": "낭플 NANGPLE",
+      "publishedAt": "2026-05-31T21:30:17Z",
+      "thumb": "https://i.ytimg.com/vi/OVjld8Ocn_0/hqdefault.jpg",
+      "views": 1615750,
+      "likes": 19389,
+      "durationSec": 38
+    },
+    {
       "id": "UkIXgx9sRAA",
       "title": "성소 올클리어 보상 #쇼츠 #게임 #붉은사막 #crimsondesertgameplay #crimsondesertgame #붉사 #crimsondsert",
       "channel": "향토끼",
       "publishedAt": "2026-05-31T12:00:11Z",
       "thumb": "https://i.ytimg.com/vi/UkIXgx9sRAA/hqdefault.jpg",
-      "views": 15306,
+      "views": 15308,
       "likes": 196,
       "durationSec": 53
+    },
+    {
+      "id": "ldt2Crgy0C8",
+      "title": "유저들도 경악하고 있는 붉은사막 최신근황;;",
+      "channel": "짧은플김",
+      "publishedAt": "2026-05-31T05:05:35Z",
+      "thumb": "https://i.ytimg.com/vi/ldt2Crgy0C8/hqdefault.jpg",
+      "views": 119753,
+      "likes": 1171,
+      "durationSec": 76
+    },
+    {
+      "id": "SEe224MLOoU",
+      "title": "델레시아 성 지하 감금 마우스 좌우 동시클릭 #붉은사막",
+      "channel": "볼레이",
+      "publishedAt": "2026-05-30T13:00:04Z",
+      "thumb": "https://i.ytimg.com/vi/SEe224MLOoU/hqdefault.jpg",
+      "views": 1157,
+      "likes": 9,
+      "durationSec": 19
     },
     {
       "id": "AOoI8fczmY4",
@@ -235,6 +435,16 @@
       "durationSec": 44
     },
     {
+      "id": "YEnfh5XtQLA",
+      "title": "마지막 한 판의 기적 #쇼츠 #게임 #붉은사막 #crimsondesertgameplay #crimsondesertgame #붉사 #crimsondsert",
+      "channel": "향토끼",
+      "publishedAt": "2026-05-28T12:00:29Z",
+      "thumb": "https://i.ytimg.com/vi/YEnfh5XtQLA/hqdefault.jpg",
+      "views": 7475,
+      "likes": 87,
+      "durationSec": 58
+    },
+    {
       "id": "1-2itQ-Lk78",
       "title": "[붉은사막] 데미안 맨손전투 #shorts",
       "channel": "히아",
@@ -243,6 +453,16 @@
       "views": 3230,
       "likes": 28,
       "durationSec": 78
+    },
+    {
+      "id": "EygZN0ncwKw",
+      "title": "〖붉은사막〗거짓말의 최후",
+      "channel": "아테커GAME",
+      "publishedAt": "2026-05-28T08:30:24Z",
+      "thumb": "https://i.ytimg.com/vi/EygZN0ncwKw/hqdefault.jpg",
+      "views": 5623,
+      "likes": 45,
+      "durationSec": 51
     },
     {
       "id": "mkM5ea1i9A8",
@@ -255,6 +475,16 @@
       "durationSec": 22
     },
     {
+      "id": "g50MlRp4jf8",
+      "title": "울림의 탑 기믹 #붉은사막",
+      "channel": "볼레이",
+      "publishedAt": "2026-05-27T13:00:23Z",
+      "thumb": "https://i.ytimg.com/vi/g50MlRp4jf8/hqdefault.jpg",
+      "views": 786,
+      "likes": 0,
+      "durationSec": 9
+    },
+    {
       "id": "kTFo5Ko9IbU",
       "title": "유혹 참기 레전드 #쇼츠 #게임 #붉은사막 #crimsondesertgameplay #crimsondesertgame #붉사 #crimsondsert",
       "channel": "향토끼",
@@ -265,12 +495,22 @@
       "durationSec": 58
     },
     {
+      "id": "ntvJBvxSMo0",
+      "title": "짐이 많이 무겁네 #붉은사막",
+      "channel": "임윤도",
+      "publishedAt": "2026-05-27T09:15:00Z",
+      "thumb": "https://i.ytimg.com/vi/ntvJBvxSMo0/hqdefault.jpg",
+      "views": 4411,
+      "likes": 27,
+      "durationSec": 29
+    },
+    {
       "id": "rhxDoql3qAc",
       "title": "슬슬 고여버리는 붉은사막 근황..ㅋㅋ #붉은사막 #crimsondesrt #펄어비스 #게임이슈 #게임쇼츠 #shorts",
       "channel": "이스티",
       "publishedAt": "2026-05-26T07:40:00Z",
       "thumb": "https://i.ytimg.com/vi/rhxDoql3qAc/hqdefault.jpg",
-      "views": 174163,
+      "views": 174165,
       "likes": 1199,
       "durationSec": 37
     },
@@ -285,22 +525,12 @@
       "durationSec": 60
     },
     {
-      "id": "x_NJ4_Xfsnc",
-      "title": "자유도 높은 게임이 최고야 #붉은사막",
-      "channel": "임윤도",
-      "publishedAt": "2026-05-25T09:20:09Z",
-      "thumb": "https://i.ytimg.com/vi/x_NJ4_Xfsnc/hqdefault.jpg",
-      "views": 11224,
-      "likes": 130,
-      "durationSec": 46
-    },
-    {
       "id": "r9L4g0FonJ8",
       "title": "[붉은사막] 하우징,랜선 집들이 #games #eldenring #gaming#Shorts #붉은사막 #붉은사막하우징 #랜선집들이 #집꾸미기 #게임쇼츠",
       "channel": "심도릭스",
       "publishedAt": "2026-05-25T01:32:45Z",
       "thumb": "https://i.ytimg.com/vi/r9L4g0FonJ8/hqdefault.jpg",
-      "views": 5472,
+      "views": 5474,
       "likes": 133,
       "durationSec": 78
     },
@@ -335,22 +565,12 @@
       "durationSec": 21
     },
     {
-      "id": "592AHaybz5s",
-      "title": "붉은사막ㅣ연못을 만들었는데 횟집 수족관 이였던것 ㅋㅋ #shorts #game",
-      "channel": "BanaMongki",
-      "publishedAt": "2026-05-23T12:45:47Z",
-      "thumb": "https://i.ytimg.com/vi/592AHaybz5s/hqdefault.jpg",
-      "views": 30879,
-      "likes": 379,
-      "durationSec": 42
-    },
-    {
       "id": "EXWwpvec1no",
       "title": "이제 클리프는 총을 쏩니다 #붉은사막",
       "channel": "임윤도",
       "publishedAt": "2026-05-23T04:00:02Z",
       "thumb": "https://i.ytimg.com/vi/EXWwpvec1no/hqdefault.jpg",
-      "views": 6768,
+      "views": 6770,
       "likes": 47,
       "durationSec": 26
     },
@@ -400,7 +620,7 @@
       "channel": "선재림",
       "publishedAt": "2026-05-20T09:00:26Z",
       "thumb": "https://i.ytimg.com/vi/EKu_b1h088A/hqdefault.jpg",
-      "views": 10651,
+      "views": 10652,
       "likes": 42,
       "durationSec": 24
     },
@@ -413,16 +633,6 @@
       "views": 39384,
       "likes": 146,
       "durationSec": 34
-    },
-    {
-      "id": "Ghd2F3_Uqmk",
-      "title": "왜 바닥에 떨어지죠 #붉은사막",
-      "channel": "볼레이",
-      "publishedAt": "2026-05-19T13:00:21Z",
-      "thumb": "https://i.ytimg.com/vi/Ghd2F3_Uqmk/hqdefault.jpg",
-      "views": 633,
-      "likes": 0,
-      "durationSec": 5
     },
     {
       "id": "meeCNKQGGg8",
@@ -470,7 +680,7 @@
       "channel": "소갈딱",
       "publishedAt": "2026-05-19T02:54:03Z",
       "thumb": "https://i.ytimg.com/vi/qIDSi2cW4LY/hqdefault.jpg",
-      "views": 5450,
+      "views": 5451,
       "likes": 38,
       "durationSec": 50
     },
@@ -483,6 +693,16 @@
       "views": 6399,
       "likes": 82,
       "durationSec": 60
+    },
+    {
+      "id": "KOaRCRU2upU",
+      "title": "비석을 연구하는 트롤 봉인석 자리 #붉은사막",
+      "channel": "볼레이",
+      "publishedAt": "2026-05-18T13:00:34Z",
+      "thumb": "https://i.ytimg.com/vi/KOaRCRU2upU/hqdefault.jpg",
+      "views": 1166,
+      "likes": 1,
+      "durationSec": 41
     },
     {
       "id": "ybXDbAHnds4",
@@ -555,16 +775,6 @@
       "durationSec": 40
     },
     {
-      "id": "Jb9u8ff2L-8",
-      "title": "[붉은사막] 가만히 적을 죽이는 방법: 비스무트 피폭 #붉은사막 #비스무트 #shorts #종합게임",
-      "channel": "꾸도현",
-      "publishedAt": "2026-05-15T10:25:21Z",
-      "thumb": "https://i.ytimg.com/vi/Jb9u8ff2L-8/hqdefault.jpg",
-      "views": 1662,
-      "likes": 5,
-      "durationSec": 96
-    },
-    {
       "id": "OTg0xsnpS5w",
       "title": "폭탄이 없을 때 건물을 철거하는 방법 #붉은사막 #shorts",
       "channel": "박부덕이",
@@ -595,6 +805,26 @@
       "durationSec": 107
     },
     {
+      "id": "_js1rA9sQe8",
+      "title": "회의의 나들목 마무리 #붉은사막",
+      "channel": "볼레이",
+      "publishedAt": "2026-05-14T13:01:03Z",
+      "thumb": "https://i.ytimg.com/vi/_js1rA9sQe8/hqdefault.jpg",
+      "views": 1395,
+      "likes": 4,
+      "durationSec": 26
+    },
+    {
+      "id": "e-2tfvzSaX0",
+      "title": "뉴비 분쇄기 [마르니의 채석 기계] 공략 중 #붉은사막 #게임",
+      "channel": "잔담",
+      "publishedAt": "2026-05-14T10:56:46Z",
+      "thumb": "https://i.ytimg.com/vi/e-2tfvzSaX0/hqdefault.jpg",
+      "views": 2980,
+      "likes": 43,
+      "durationSec": 95
+    },
+    {
       "id": "UAwWuo0v0GA",
       "title": "부자가 되고 싶니? 기만자의 페도라｜붉은사막",
       "channel": "카멜X레온",
@@ -613,6 +843,16 @@
       "views": 1179,
       "likes": 0,
       "durationSec": 54
+    },
+    {
+      "id": "uM_vBv8er6k",
+      "title": "동물 길들이기 가능?? #붉은사막 #게임",
+      "channel": "잔담",
+      "publishedAt": "2026-05-14T02:23:38Z",
+      "thumb": "https://i.ytimg.com/vi/uM_vBv8er6k/hqdefault.jpg",
+      "views": 1404,
+      "likes": 18,
+      "durationSec": 76
     },
     {
       "id": "ym-UJMeytxE",
@@ -655,14 +895,24 @@
       "durationSec": 35
     },
     {
-      "id": "IIjI6iV83AQ",
-      "title": "야 너 등에 뭐 묻었다 #붉은사막",
-      "channel": "임윤도",
-      "publishedAt": "2026-05-12T23:00:30Z",
-      "thumb": "https://i.ytimg.com/vi/IIjI6iV83AQ/hqdefault.jpg",
-      "views": 40025,
-      "likes": 208,
-      "durationSec": 24
+      "id": "3_-AQM79Yq8",
+      "title": "신념의 방랑자 가죽 갑옷 먹기 #붉은사막 #gaming #게임 #CrimsonDesert",
+      "channel": "겜허브",
+      "publishedAt": "2026-05-13T02:45:04Z",
+      "thumb": "https://i.ytimg.com/vi/3_-AQM79Yq8/hqdefault.jpg",
+      "views": 1063,
+      "likes": 14,
+      "durationSec": 61
+    },
+    {
+      "id": "L8gHFB-IzQM",
+      "title": "붉은사막 - 이 이구아나는 이제 제겁니다 #붉은사막 #gaming #crimsondesertgameplay",
+      "channel": "포동단",
+      "publishedAt": "2026-05-12T16:33:24Z",
+      "thumb": "https://i.ytimg.com/vi/L8gHFB-IzQM/hqdefault.jpg",
+      "views": 1604,
+      "likes": 2,
+      "durationSec": 61
     },
     {
       "id": "qNDTthCpyK4",
@@ -713,66 +963,6 @@
       "views": 132816,
       "likes": 1224,
       "durationSec": 69
-    },
-    {
-      "id": "h6gWUfYpMNo",
-      "title": "붉은사막_클리프의정예병사(테마곡) #shorts #붉은사막 #힙합  #ost #음악",
-      "channel": "윤겜맨TV",
-      "publishedAt": "2026-05-11T13:01:02Z",
-      "thumb": "https://i.ytimg.com/vi/h6gWUfYpMNo/hqdefault.jpg",
-      "views": 2652,
-      "likes": 13,
-      "durationSec": 178
-    },
-    {
-      "id": "3dZNa20d9BM",
-      "title": "[붉은사막] 인형뽑기 업데이트 (5/11) #shorts",
-      "channel": "히아",
-      "publishedAt": "2026-05-11T08:35:16Z",
-      "thumb": "https://i.ytimg.com/vi/3dZNa20d9BM/hqdefault.jpg",
-      "views": 10876,
-      "likes": 133,
-      "durationSec": 42
-    },
-    {
-      "id": "iIXj5zmSAQ4",
-      "title": "절대 NPC를 공격하지 마 #붉은사막 #게임",
-      "channel": "잔담",
-      "publishedAt": "2026-05-11T02:23:35Z",
-      "thumb": "https://i.ytimg.com/vi/iIXj5zmSAQ4/hqdefault.jpg",
-      "views": 2904,
-      "likes": 26,
-      "durationSec": 89
-    },
-    {
-      "id": "h_Tdp18hDWU",
-      "title": "마지막 한발까지 완벽 [붉은사막] #shorts #또랑 #게임 #붉은사막 #펄어비스",
-      "channel": "또랑",
-      "publishedAt": "2026-05-10T18:49:48Z",
-      "thumb": "https://i.ytimg.com/vi/h_Tdp18hDWU/hqdefault.jpg",
-      "views": 1463,
-      "likes": 9,
-      "durationSec": 34
-    },
-    {
-      "id": "tYCmNwDkllU",
-      "title": "스트레스 받았던 팩트체크 #shorts #붉은사막 #음악 #팩트송",
-      "channel": "윤겜맨TV",
-      "publishedAt": "2026-05-10T12:12:34Z",
-      "thumb": "https://i.ytimg.com/vi/tYCmNwDkllU/hqdefault.jpg",
-      "views": 1711,
-      "likes": 7,
-      "durationSec": 179
-    },
-    {
-      "id": "ofuN9pmZ0Zk",
-      "title": "ELEMENTAL MAGES | 붉은사막 대마법사",
-      "channel": "낭플 NANGPLE",
-      "publishedAt": "2026-05-10T11:29:21Z",
-      "thumb": "https://i.ytimg.com/vi/ofuN9pmZ0Zk/hqdefault.jpg",
-      "views": 66508,
-      "likes": 383,
-      "durationSec": 8
     },
     {
       "id": "FPwzZEFvFCY",
@@ -920,7 +1110,7 @@
       "channel": "라호",
       "publishedAt": "2026-05-07T07:09:28Z",
       "thumb": "https://i.ytimg.com/vi/jeoEsOI_yQs/hqdefault.jpg",
-      "views": 7988,
+      "views": 7989,
       "likes": 33,
       "durationSec": 58
     },
@@ -1100,7 +1290,7 @@
       "channel": "히아",
       "publishedAt": "2026-05-04T00:41:35Z",
       "thumb": "https://i.ytimg.com/vi/cf8NqoGFJjg/hqdefault.jpg",
-      "views": 34217,
+      "views": 34221,
       "likes": 751,
       "durationSec": 73
     },
@@ -1120,7 +1310,7 @@
       "channel": "포동단",
       "publishedAt": "2026-05-03T19:58:39Z",
       "thumb": "https://i.ytimg.com/vi/O2F_UNwaQNU/hqdefault.jpg",
-      "views": 23757,
+      "views": 23760,
       "likes": 126,
       "durationSec": 37
     },
@@ -1150,7 +1340,7 @@
       "channel": "잔담",
       "publishedAt": "2026-05-03T10:00:54Z",
       "thumb": "https://i.ytimg.com/vi/nJY4u19aD0s/hqdefault.jpg",
-      "views": 10716,
+      "views": 10718,
       "likes": 87,
       "durationSec": 93
     },
@@ -1160,7 +1350,7 @@
       "channel": "짧은플김",
       "publishedAt": "2026-05-03T09:00:27Z",
       "thumb": "https://i.ytimg.com/vi/NZCoYvYVwVw/hqdefault.jpg",
-      "views": 376946,
+      "views": 376947,
       "likes": 4098,
       "durationSec": 58
     },
@@ -1220,7 +1410,7 @@
       "channel": "BanaMongki",
       "publishedAt": "2026-05-02T07:17:53Z",
       "thumb": "https://i.ytimg.com/vi/XhF45eY5Mrw/hqdefault.jpg",
-      "views": 72544,
+      "views": 72545,
       "likes": 617,
       "durationSec": 54
     },
@@ -1230,7 +1420,7 @@
       "channel": "히아",
       "publishedAt": "2026-05-02T02:15:02Z",
       "thumb": "https://i.ytimg.com/vi/Nftnhps7Efc/hqdefault.jpg",
-      "views": 2674,
+      "views": 2676,
       "likes": 26,
       "durationSec": 64
     },
@@ -1240,7 +1430,7 @@
       "channel": "히아",
       "publishedAt": "2026-05-01T12:20:05Z",
       "thumb": "https://i.ytimg.com/vi/_-og6IomYhY/hqdefault.jpg",
-      "views": 7357,
+      "views": 7358,
       "likes": 45,
       "durationSec": 58
     },
