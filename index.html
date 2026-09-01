@@ -196,15 +196,13 @@
   }
   .status-line.error{ color:#e07a5f; }
 
-  /* 그리드 (masonry) */
+  /* 그리드 (고정 균일 그리드 — SCENE-FLIX 스타일 참고) */
   .grid{
     margin-top:36px;
-    column-count:2;
-    column-gap:16px;
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(160px, 1fr));
+    gap:14px;
   }
-  @media (min-width:640px){ .grid{ column-count:3; } }
-  @media (min-width:900px){ .grid{ column-count:4; } }
-  @media (min-width:1180px){ .grid{ column-count:5; } }
   .card{
     background:var(--bg-card);
     border:1px solid var(--border);
@@ -212,10 +210,6 @@
     overflow:hidden;
     cursor:pointer;
     transition:border-color 0.15s ease, transform 0.15s ease;
-    break-inside:avoid;
-    margin-bottom:16px;
-    display:block;
-    width:100%;
   }
   .card:hover{ border-color:var(--red-bright); transform:translateY(-2px); }
   .thumb-box{
@@ -372,6 +366,7 @@
 
   <div class="filter-bar">
     <select id="archiveSortSelect">
+      <option value="random" selected>랜덤순</option>
       <option value="date">최신순</option>
       <option value="viewCount">조회수순</option>
       <option value="likeCount">좋아요순</option>
@@ -714,6 +709,15 @@
     return (v.views || 0) + (v.likes || 0) * 5;
   }
 
+  function shuffleArray(arr){
+    const a = arr.slice();
+    for(let i = a.length - 1; i > 0; i--){
+      const j = Math.floor(Math.random() * (i + 1));
+      const tmp = a[i]; a[i] = a[j]; a[j] = tmp;
+    }
+    return a;
+  }
+
   function applyArchiveFilters(){
     const minViews = parseInt(minViewsSelect.value, 10) || 0;
     const sortBy = archiveSortSelect.value;
@@ -739,6 +743,8 @@
       rest = rest.slice().sort(function(a,b){ return (b.views||0) - (a.views||0); });
     } else if(sortBy === 'likeCount'){
       rest = rest.slice().sort(function(a,b){ return (b.likes||0) - (a.likes||0); });
+    } else if(sortBy === 'random'){
+      rest = shuffleArray(rest);
     } else {
       rest = rest.slice().sort(function(a,b){ return new Date(b.publishedAt||0) - new Date(a.publishedAt||0); });
     }
