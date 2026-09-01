@@ -413,7 +413,7 @@
     </select>
   </div>
 
-  <div class="tag-bar" id="tagBar"></div>
+  <div class="tag-bar" id="channelBar"></div>
 
   <details class="key-panel" id="keyPanel">
     <summary><span><span class="status-dot" id="keyStatusDot"></span>실시간 검색용 API 키 (선택)</span><span id="keyStatusText" style="color:var(--text-muted); font-weight:400;">미설정</span></summary>
@@ -731,57 +731,46 @@
   const archiveMeta = document.getElementById('archiveMeta');
   const archiveSortSelect = document.getElementById('archiveSortSelect');
   const minViewsSelect = document.getElementById('minViewsSelect');
-  const tagBar = document.getElementById('tagBar');
+  const channelBar = document.getElementById('channelBar');
   let archiveVideos = [];
-  let activeHashtag = null;
+  let activeChannel = null;
 
-  function extractHashtagsClient(text){
-    if(!text) return [];
-    const matches = text.match(/#[\w가-힣]+/g) || [];
-    return Array.from(new Set(matches));
-  }
-
-  function getVideoHashtags(v){
-    if(v.hashtags && v.hashtags.length) return v.hashtags;
-    return extractHashtagsClient(v.title);
-  }
-
-  function buildTagBar(){
+  function buildChannelBar(){
     const freq = {};
     archiveVideos.forEach(function(v){
-      getVideoHashtags(v).forEach(function(tag){
-        const key = tag.toLowerCase();
-        if(!freq[key]) freq[key] = { label: tag, count: 0 };
-        freq[key].count++;
-      });
+      const name = (v.channel || '').trim();
+      if(!name) return;
+      if(!freq[name]) freq[name] = 0;
+      freq[name]++;
     });
-    const sorted = Object.values(freq)
-      .sort(function(a,b){ return b.count - a.count; })
+    const sorted = Object.entries(freq)
+      .sort(function(a,b){ return b[1] - a[1]; })
       .slice(0, 16);
 
-    tagBar.innerHTML = '';
+    channelBar.innerHTML = '';
 
     const allBtn = document.createElement('button');
-    allBtn.className = 'tag-chip' + (activeHashtag === null ? ' active' : '');
+    allBtn.className = 'tag-chip' + (activeChannel === null ? ' active' : '');
     allBtn.textContent = '전체';
     allBtn.addEventListener('click', function(){
-      activeHashtag = null;
-      buildTagBar();
+      activeChannel = null;
+      buildChannelBar();
       applyArchiveFilters();
     });
-    tagBar.appendChild(allBtn);
+    channelBar.appendChild(allBtn);
 
-    sorted.forEach(function(item){
-      const key = item.label.toLowerCase();
+    sorted.forEach(function(entry){
+      const name = entry[0];
+      const count = entry[1];
       const btn = document.createElement('button');
-      btn.className = 'tag-chip' + (activeHashtag === key ? ' active' : '');
-      btn.textContent = item.label + ' (' + item.count + ')';
+      btn.className = 'tag-chip' + (activeChannel === name ? ' active' : '');
+      btn.textContent = name + ' (' + count + ')';
       btn.addEventListener('click', function(){
-        activeHashtag = (activeHashtag === key) ? null : key;
-        buildTagBar();
+        activeChannel = (activeChannel === name) ? null : name;
+        buildChannelBar();
         applyArchiveFilters();
       });
-      tagBar.appendChild(btn);
+      channelBar.appendChild(btn);
     });
   }
 
@@ -811,10 +800,8 @@
 
     let filtered = archiveVideos.filter(function(v){ return (v.views || 0) >= minViews; });
 
-    if(activeHashtag){
-      filtered = filtered.filter(function(v){
-        return getVideoHashtags(v).some(function(t){ return t.toLowerCase() === activeHashtag; });
-      });
+    if(activeChannel){
+      filtered = filtered.filter(function(v){ return v.channel === activeChannel; });
     }
 
     // 베스트 5 (조회수+좋아요 가중 점수 기준)
@@ -862,7 +849,7 @@
       const data = await res.json();
       archiveVideos = data.videos || [];
       archiveMeta.textContent = '마지막 자동 수집: ' + formatUpdatedAt(data.updatedAt) + ' · ' + (data.count || 0) + '개 영상';
-      buildTagBar();
+      buildChannelBar();
       applyArchiveFilters();
     } catch(err){
       archiveMeta.textContent = '';
