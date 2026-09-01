@@ -21,6 +21,12 @@ function parseISODuration(iso) {
   return h * 3600 + min * 60 + s;
 }
 
+function extractHashtags(text) {
+  if (!text) return [];
+  const matches = text.match(/#[\w가-힣]+/g) || [];
+  return [...new Set(matches)];
+}
+
 async function fetchSearchPage(pageToken) {
   const url = new URL('https://www.googleapis.com/youtube/v3/search');
   url.searchParams.set('part', 'snippet');
@@ -82,6 +88,7 @@ async function main() {
           thumb: (item.snippet.thumbnails.high || item.snippet.thumbnails.medium || item.snippet.thumbnails.default).url,
           views: item.statistics ? parseInt(item.statistics.viewCount || '0', 10) : 0,
           likes: item.statistics ? parseInt(item.statistics.likeCount || '0', 10) : 0,
+          hashtags: extractHashtags(item.snippet.title),
           durationSec,
         });
       }
