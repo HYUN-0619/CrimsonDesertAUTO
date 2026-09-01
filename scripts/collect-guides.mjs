@@ -64,6 +64,39 @@ function normalize(items, sourceLabel) {
   });
 }
 
+async function fetchOgImage(url) {
+  try {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(function () { controller.abort(); }, 6000);
+    const res = await fetch(url, {
+      signal: controller.signal,
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; CrimsonDesertArchiveBot/1.0)' },
+    });
+    clearTimeout(timeoutId);
+    if (!res.ok) return null;
+    const html = await res.text();
+    const match =
+      html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+      html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+    return match ? match[1] : null;
+  } catch (e) {
+    return null;
+  }
+}
+
+async function attachThumbnails(list) {
+  const batchSize = 8;
+  for (let i = 0; i < list.length; i += batchSize) {
+    const batch = list.slice(i, i + batchSize);
+    await Promise.all(
+      batch.map(async function (g) {
+        g.thumb = await fetchOgImage(g.link);
+      })
+    );
+  }
+  return list;
+}
+
 async function main() {
   const [webkr, blog, cafe] = await Promise.all([
     searchNaver('webkr', QUERY, DISPLAY),
@@ -92,6 +125,9 @@ async function main() {
     if (!b.date) return -1;
     return b.date.localeCompare(a.date);
   });
+
+  console.log('썸네일(OG 이미지) 수집 중...');
+  combined = await attachThumbnails(combined);
 
   const output = {
     query: QUERY,
