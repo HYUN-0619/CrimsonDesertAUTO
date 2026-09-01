@@ -159,6 +159,23 @@
     flex-wrap:wrap;
     gap:10px;
   }
+  .filter-bar{
+    max-width:640px;
+    margin:32px auto 0;
+    display:flex;
+    gap:10px;
+    justify-content:center;
+  }
+  .filter-bar select{
+    background:var(--bg-elevated);
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:10px 12px;
+    border-radius:3px;
+    font-family:inherit;
+    font-size:0.86rem;
+    flex:1;
+  }
   .controls input[type="text"]{ min-width:220px; }
   .controls select{
     background:#0f0c0a;
@@ -179,13 +196,15 @@
   }
   .status-line.error{ color:#e07a5f; }
 
-  /* 그리드 */
+  /* 그리드 (masonry) */
   .grid{
     margin-top:36px;
-    display:grid;
-    grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));
-    gap:18px;
+    column-count:2;
+    column-gap:16px;
   }
+  @media (min-width:640px){ .grid{ column-count:3; } }
+  @media (min-width:900px){ .grid{ column-count:4; } }
+  @media (min-width:1180px){ .grid{ column-count:5; } }
   .card{
     background:var(--bg-card);
     border:1px solid var(--border);
@@ -193,6 +212,10 @@
     overflow:hidden;
     cursor:pointer;
     transition:border-color 0.15s ease, transform 0.15s ease;
+    break-inside:avoid;
+    margin-bottom:16px;
+    display:block;
+    width:100%;
   }
   .card:hover{ border-color:var(--red-bright); transform:translateY(-2px); }
   .thumb-box{
@@ -203,6 +226,51 @@
     overflow:hidden;
   }
   .thumb-box img{ width:100%; height:100%; object-fit:cover; display:block; }
+  .preview-iframe{
+    position:absolute;
+    inset:0;
+    width:100%;
+    height:100%;
+    border:0;
+    pointer-events:none;
+    z-index:2;
+  }
+
+  /* 오늘의 베스트 캐러셀 */
+  .best-section{ margin-top:44px; }
+  .best-heading{
+    font-family:'Black Han Sans', sans-serif;
+    font-size:1.3rem;
+    color:var(--text);
+    margin-bottom:14px;
+    letter-spacing:0.5px;
+  }
+  .best-heading span{ color:var(--red-bright); }
+  .best-carousel{
+    display:flex;
+    gap:14px;
+    overflow-x:auto;
+    padding-bottom:10px;
+    scroll-snap-type:x proximity;
+    -webkit-overflow-scrolling:touch;
+  }
+  .best-carousel .card{
+    flex:0 0 auto;
+    width:200px;
+    scroll-snap-align:start;
+    margin-bottom:0;
+  }
+  .rank-badge{
+    position:absolute;
+    left:6px; top:6px;
+    background:var(--red);
+    color:#f4ece2;
+    font-family:'Black Han Sans', sans-serif;
+    font-size:0.78rem;
+    padding:2px 8px;
+    border-radius:3px;
+    z-index:3;
+  }
   .duration-badge{
     position:absolute;
     right:6px; bottom:6px;
@@ -229,9 +297,12 @@
     font-size:0.76rem;
     color:var(--text-muted);
     display:flex;
+    flex-wrap:wrap;
     justify-content:space-between;
+    gap:4px 8px;
   }
   .card-meta .ch{ color:var(--gold); }
+  .card-meta .likes{ color:var(--red-bright); }
 
   .load-more-wrap{ text-align:center; margin-top:36px; }
 
@@ -295,6 +366,21 @@
 
   <div class="crack-divider"></div>
 
+  <div class="filter-bar">
+    <select id="archiveSortSelect">
+      <option value="date">최신순</option>
+      <option value="viewCount">조회수순</option>
+      <option value="likeCount">좋아요순</option>
+    </select>
+    <select id="minViewsSelect">
+      <option value="0">조회수 전체</option>
+      <option value="500">500회 이상</option>
+      <option value="1000">1,000회 이상</option>
+      <option value="5000">5,000회 이상</option>
+      <option value="10000">10,000회 이상</option>
+    </select>
+  </div>
+
   <details class="key-panel" id="keyPanel">
     <summary><span><span class="status-dot" id="keyStatusDot"></span>실시간 검색용 API 키 (선택)</span><span id="keyStatusText" style="color:var(--text-muted); font-weight:400;">미설정</span></summary>
     <div class="key-panel-body">
@@ -325,6 +411,11 @@
   </div>
 
   <div class="status-line" id="statusLine"></div>
+
+  <section class="best-section" id="bestSection" style="display:none;">
+    <div class="best-heading">🔥 오늘의 <span>베스트</span> 쇼츠</div>
+    <div class="best-carousel" id="bestCarousel"></div>
+  </section>
 
   <main class="grid" id="grid"></main>
 
@@ -366,6 +457,31 @@
   const modalBackdrop = document.getElementById('modalBackdrop');
   const modalIframe = document.getElementById('modalIframe');
   const modalClose = document.getElementById('modalClose');
+  const bestSection = document.getElementById('bestSection');
+  const bestCarousel = document.getElementById('bestCarousel');
+
+  const supportsHoverPreview = window.matchMedia &&
+    window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+
+  function attachHoverPreview(thumbBox, videoId){
+    if(!supportsHoverPreview) return;
+    let hoverTimer = null;
+    let iframeEl = null;
+    thumbBox.addEventListener('mouseenter', function(){
+      hoverTimer = setTimeout(function(){
+        iframeEl = document.createElement('iframe');
+        iframeEl.className = 'preview-iframe';
+        iframeEl.src = 'https://www.youtube.com/embed/' + videoId +
+          '?autoplay=1&mute=1&controls=0&modestbranding=1&playsinline=1&loop=1&playlist=' + videoId;
+        iframeEl.setAttribute('allow', 'autoplay; encrypted-media');
+        thumbBox.appendChild(iframeEl);
+      }, 450);
+    });
+    thumbBox.addEventListener('mouseleave', function(){
+      clearTimeout(hoverTimer);
+      if(iframeEl){ iframeEl.remove(); iframeEl = null; }
+    });
+  }
 
   let nextPageToken = null;
   let currentQuery = '';
@@ -422,27 +538,37 @@
     return num.toLocaleString('ko-KR') + '회';
   }
 
-  function renderCards(videos){
-    videos.forEach(function(v){
+  function formatLikes(n){
+    const num = parseInt(n || 0, 10);
+    if(num <= 0) return '';
+    return '♥ ' + num.toLocaleString('ko-KR');
+  }
+
+  function renderCards(videos, container, showRank){
+    const target = container || grid;
+    videos.forEach(function(v, idx){
       const card = document.createElement('div');
       card.className = 'card';
       card.innerHTML =
         '<div class="thumb-box">' +
+          (showRank ? '<span class="rank-badge">' + (idx+1) + '위</span>' : '') +
           '<img src="' + v.thumb + '" alt="" loading="lazy">' +
           '<span class="duration-badge">' + formatDuration(v.durationSec) + '</span>' +
         '</div>' +
         '<div class="card-body">' +
           '<div class="card-title"></div>' +
-          '<div class="card-meta"><span class="ch"></span><span class="views"></span></div>' +
+          '<div class="card-meta"><span class="ch"></span><span class="views"></span><span class="likes"></span></div>' +
         '</div>';
       card.querySelector('.card-title').textContent = v.title;
       card.querySelector('.ch').textContent = v.channel;
       card.querySelector('.views').textContent = formatViews(v.views);
+      card.querySelector('.likes').textContent = formatLikes(v.likes);
+      attachHoverPreview(card.querySelector('.thumb-box'), v.id);
       card.addEventListener('click', function(){
         modalIframe.src = 'https://www.youtube.com/embed/' + v.id + '?autoplay=1';
         modalBackdrop.classList.add('open');
       });
-      grid.appendChild(card);
+      target.appendChild(card);
     });
   }
 
@@ -523,12 +649,13 @@
             channel: item.snippet.channelTitle,
             thumb: (item.snippet.thumbnails.high || item.snippet.thumbnails.medium || item.snippet.thumbnails.default).url,
             views: item.statistics ? item.statistics.viewCount : 0,
+            likes: item.statistics ? item.statistics.likeCount : 0,
             durationSec: durationSec
           };
         })
         .filter(function(v){ return v.durationSec > 0 && v.durationSec <= durationLimit; });
 
-      if(!pageToken){ grid.innerHTML = ''; }
+      if(!pageToken){ grid.innerHTML = ''; bestSection.style.display = 'none'; }
       renderCards(shorts);
 
       nextPageToken = searchData.nextPageToken || null;
@@ -568,6 +695,9 @@
   });
 
   const archiveMeta = document.getElementById('archiveMeta');
+  const archiveSortSelect = document.getElementById('archiveSortSelect');
+  const minViewsSelect = document.getElementById('minViewsSelect');
+  let archiveVideos = [];
 
   function formatUpdatedAt(iso){
     try{
@@ -576,15 +706,60 @@
     } catch(e){ return iso; }
   }
 
+  function bestScore(v){
+    return (v.views || 0) + (v.likes || 0) * 5;
+  }
+
+  function applyArchiveFilters(){
+    const minViews = parseInt(minViewsSelect.value, 10) || 0;
+    const sortBy = archiveSortSelect.value;
+
+    let filtered = archiveVideos.filter(function(v){ return (v.views || 0) >= minViews; });
+
+    // 베스트 5 (조회수+좋아요 가중 점수 기준)
+    const best = filtered.slice().sort(function(a,b){ return bestScore(b) - bestScore(a); }).slice(0, 5);
+    const bestIds = new Set(best.map(function(v){ return v.id; }));
+
+    bestCarousel.innerHTML = '';
+    if(best.length > 0 && filtered.length > 5){
+      bestSection.style.display = 'block';
+      renderCards(best, bestCarousel, true);
+    } else {
+      bestSection.style.display = 'none';
+    }
+
+    // 나머지 컴팩트 리스트 (베스트 제외)
+    let rest = filtered.filter(function(v){ return !bestIds.has(v.id) || filtered.length <= 5; });
+
+    if(sortBy === 'viewCount'){
+      rest = rest.slice().sort(function(a,b){ return (b.views||0) - (a.views||0); });
+    } else if(sortBy === 'likeCount'){
+      rest = rest.slice().sort(function(a,b){ return (b.likes||0) - (a.likes||0); });
+    } else {
+      rest = rest.slice().sort(function(a,b){ return new Date(b.publishedAt||0) - new Date(a.publishedAt||0); });
+    }
+
+    grid.innerHTML = '';
+    renderCards(rest, grid, false);
+
+    if(filtered.length === 0){
+      setStatus('조건에 맞는 영상이 없습니다. 조회수 기준을 낮춰보세요.');
+    } else {
+      setStatus('총 ' + filtered.length + '개 영상 표시 중 (전체 ' + archiveVideos.length + '개 중 필터링)');
+    }
+  }
+
+  archiveSortSelect.addEventListener('change', applyArchiveFilters);
+  minViewsSelect.addEventListener('change', applyArchiveFilters);
+
   async function loadArchive(){
     try{
       const res = await fetch('./data/shorts.json', { cache: 'no-store' });
       if(!res.ok) throw new Error('아카이브 파일 없음');
       const data = await res.json();
-      grid.innerHTML = '';
-      renderCards(data.videos || []);
+      archiveVideos = data.videos || [];
       archiveMeta.textContent = '마지막 자동 수집: ' + formatUpdatedAt(data.updatedAt) + ' · ' + (data.count || 0) + '개 영상';
-      setStatus('총 ' + (data.count || 0) + '개 영상 표시 중 (자동 수집)');
+      applyArchiveFilters();
     } catch(err){
       archiveMeta.textContent = '';
       setStatus('아직 자동 수집된 아카이브가 없습니다. 아래에서 직접 검색해보세요.');
