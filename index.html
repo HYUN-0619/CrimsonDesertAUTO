@@ -610,6 +610,7 @@
     <div class="controls">
       <input type="text" id="guideSearchInput" placeholder="제목·내용으로 검색 (예: 보스, 채집, 인벤토리)">
     </div>
+    <div class="tag-bar" id="guideSourceBar"></div>
     <div class="status-line" id="guidesStatusLine"></div>
     <div class="guide-list" id="guideList"></div>
   </section>
@@ -677,6 +678,7 @@
   }
 
   let allGuides = [];
+  let activeGuideSource = null;
 
   function renderGuideList(guides){
     const guideList = document.getElementById('guideList');
@@ -709,23 +711,64 @@
       guideList.appendChild(a);
     });
     guidesStatusLine.textContent = guides.length === 0
-      ? '검색 결과가 없습니다.'
+      ? '조건에 맞는 공략글이 없습니다.'
       : '총 ' + guides.length + '개 공략글' + (guides.length !== allGuides.length ? ' (전체 ' + allGuides.length + '개 중 필터링)' : '');
   }
 
-  const guideSearchInput = document.getElementById('guideSearchInput');
-  guideSearchInput.addEventListener('input', function(){
-    const q = guideSearchInput.value.trim().toLowerCase();
-    if(!q){
-      renderGuideList(allGuides);
-      return;
-    }
-    const filtered = allGuides.filter(function(g){
-      return (g.title || '').toLowerCase().includes(q) ||
-             (g.summary || '').toLowerCase().includes(q);
+  function buildGuideSourceBar(){
+    const guideSourceBar = document.getElementById('guideSourceBar');
+    const freq = {};
+    allGuides.forEach(function(g){
+      const name = (g.source || '').trim();
+      if(!name) return;
+      freq[name] = (freq[name] || 0) + 1;
     });
+    const sorted = Object.entries(freq).sort(function(a,b){ return b[1] - a[1]; });
+
+    guideSourceBar.innerHTML = '';
+
+    const allBtn = document.createElement('button');
+    allBtn.className = 'tag-chip' + (activeGuideSource === null ? ' active' : '');
+    allBtn.textContent = '전체';
+    allBtn.addEventListener('click', function(){
+      activeGuideSource = null;
+      buildGuideSourceBar();
+      applyGuideFilters();
+    });
+    guideSourceBar.appendChild(allBtn);
+
+    sorted.forEach(function(entry){
+      const name = entry[0];
+      const count = entry[1];
+      const btn = document.createElement('button');
+      btn.className = 'tag-chip' + (activeGuideSource === name ? ' active' : '');
+      btn.textContent = name + ' (' + count + ')';
+      btn.addEventListener('click', function(){
+        activeGuideSource = (activeGuideSource === name) ? null : name;
+        buildGuideSourceBar();
+        applyGuideFilters();
+      });
+      guideSourceBar.appendChild(btn);
+    });
+  }
+
+  function applyGuideFilters(){
+    const q = guideSearchInput.value.trim().toLowerCase();
+    let filtered = allGuides;
+    if(activeGuideSource){
+      filtered = filtered.filter(function(g){ return g.source === activeGuideSource; });
+    }
+    if(q){
+      filtered = filtered.filter(function(g){
+        return (g.title || '').toLowerCase().includes(q) ||
+               (g.summary || '').toLowerCase().includes(q);
+      });
+    }
     renderGuideList(filtered);
-  });
+  }
+
+  const guideSearchInput = document.getElementById('guideSearchInput');
+  guideSearchInput.addEventListener('input', applyGuideFilters);
 
   async function loadGuides(){
     const guidesMeta = document.getElementById('guidesMeta');
@@ -737,7 +780,8 @@
       allGuides = data.guides || [];
 
       guidesMeta.textContent = '마지막 자동 수집: ' + new Date(data.updatedAt).toLocaleString('ko-KR', { year:'numeric', month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit' }) + ' · ' + (data.count || 0) + '개 글';
-      renderGuideList(allGuides);
+      buildGuideSourceBar();
+      applyGuideFilters();
     } catch(err){
       guidesStatusLine.textContent = err.message || '공략글을 불러오지 못했습니다.';
     }
