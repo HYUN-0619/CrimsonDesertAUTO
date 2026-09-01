@@ -595,6 +595,9 @@
       <p id="guidesMeta" style="margin-top:8px; font-size:0.82rem; color:var(--gold);"></p>
     </header>
     <div class="crack-divider"></div>
+    <div class="controls">
+      <input type="text" id="guideSearchInput" placeholder="제목·내용으로 검색 (예: 보스, 채집, 인벤토리)">
+    </div>
     <div class="status-line" id="guidesStatusLine"></div>
     <div class="guide-list" id="guideList"></div>
   </section>
@@ -661,37 +664,59 @@
     return d.slice(0,4) + '.' + d.slice(4,6) + '.' + d.slice(6,8);
   }
 
-  async function loadGuides(){
+  let allGuides = [];
+
+  function renderGuideList(guides){
     const guideList = document.getElementById('guideList');
+    const guidesStatusLine = document.getElementById('guidesStatusLine');
+    guideList.innerHTML = '';
+    guides.forEach(function(g){
+      const a = document.createElement('a');
+      a.className = 'guide-card';
+      a.href = g.link;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.innerHTML =
+        '<span class="guide-source"></span>' +
+        '<div class="guide-title"></div>' +
+        '<div class="guide-summary"></div>' +
+        '<div class="guide-meta"></div>';
+      a.querySelector('.guide-source').textContent = g.source || '';
+      a.querySelector('.guide-title').textContent = g.title || '';
+      a.querySelector('.guide-summary').textContent = g.summary || '';
+      a.querySelector('.guide-meta').textContent = (g.author ? g.author + ' · ' : '') + formatGuideDate(g.date);
+      guideList.appendChild(a);
+    });
+    guidesStatusLine.textContent = guides.length === 0
+      ? '검색 결과가 없습니다.'
+      : '총 ' + guides.length + '개 공략글' + (guides.length !== allGuides.length ? ' (전체 ' + allGuides.length + '개 중 필터링)' : '');
+  }
+
+  const guideSearchInput = document.getElementById('guideSearchInput');
+  guideSearchInput.addEventListener('input', function(){
+    const q = guideSearchInput.value.trim().toLowerCase();
+    if(!q){
+      renderGuideList(allGuides);
+      return;
+    }
+    const filtered = allGuides.filter(function(g){
+      return (g.title || '').toLowerCase().includes(q) ||
+             (g.summary || '').toLowerCase().includes(q);
+    });
+    renderGuideList(filtered);
+  });
+
+  async function loadGuides(){
     const guidesMeta = document.getElementById('guidesMeta');
     const guidesStatusLine = document.getElementById('guidesStatusLine');
     try{
       const res = await fetch('./data/guides.json', { cache: 'no-store' });
       if(!res.ok) throw new Error('아직 수집된 공략글이 없습니다.');
       const data = await res.json();
-      const guides = data.guides || [];
+      allGuides = data.guides || [];
 
       guidesMeta.textContent = '마지막 자동 수집: ' + new Date(data.updatedAt).toLocaleString('ko-KR', { year:'numeric', month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit' }) + ' · ' + (data.count || 0) + '개 글';
-      guidesStatusLine.textContent = '총 ' + guides.length + '개 공략글';
-
-      guideList.innerHTML = '';
-      guides.forEach(function(g){
-        const a = document.createElement('a');
-        a.className = 'guide-card';
-        a.href = g.link;
-        a.target = '_blank';
-        a.rel = 'noopener';
-        a.innerHTML =
-          '<span class="guide-source"></span>' +
-          '<div class="guide-title"></div>' +
-          '<div class="guide-summary"></div>' +
-          '<div class="guide-meta"></div>';
-        a.querySelector('.guide-source').textContent = g.source || '';
-        a.querySelector('.guide-title').textContent = g.title || '';
-        a.querySelector('.guide-summary').textContent = g.summary || '';
-        a.querySelector('.guide-meta').textContent = (g.author ? g.author + ' · ' : '') + formatGuideDate(g.date);
-        guideList.appendChild(a);
-      });
+      renderGuideList(allGuides);
     } catch(err){
       guidesStatusLine.textContent = err.message || '공략글을 불러오지 못했습니다.';
     }
