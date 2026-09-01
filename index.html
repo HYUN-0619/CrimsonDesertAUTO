@@ -196,26 +196,55 @@
   }
   .status-line.error{ color:#e07a5f; }
 
-  /* 그리드 (고정 균일 그리드 — SCENE-FLIX 스타일 참고) */
+  /* 그리드 (고정 크기 160x340) */
   .grid{
     margin-top:36px;
     display:grid;
-    grid-template-columns:repeat(auto-fill, minmax(160px, 1fr));
-    gap:14px;
+    grid-template-columns:repeat(auto-fill, 160px);
+    justify-content:center;
+    gap:16px;
   }
   .card{
+    position:relative;
     background:var(--bg-card);
-    border:1px solid var(--border);
-    border-radius:5px;
+    border-radius:6px;
     overflow:hidden;
     cursor:pointer;
-    transition:border-color 0.15s ease, transform 0.15s ease;
+    width:160px;
+    box-shadow:
+      0 0 0 1px rgba(0,255,242,0.35),
+      0 0 10px rgba(255,32,121,0.18);
+    transition:box-shadow 0.2s ease, transform 0.15s ease;
   }
-  .card:hover{ border-color:var(--red-bright); transform:translateY(-2px); }
+  .card:hover{
+    transform:translateY(-2px);
+    box-shadow:
+      0 0 0 1px rgba(0,255,242,0.7),
+      0 0 6px rgba(0,255,242,0.5),
+      0 0 18px rgba(255,32,121,0.45);
+  }
+  /* 사이버펑크 코너 브라켓 */
+  .card::before, .card::after{
+    content:"";
+    position:absolute;
+    width:14px; height:14px;
+    z-index:4;
+    pointer-events:none;
+  }
+  .card::before{
+    top:4px; left:4px;
+    border-top:2px solid #00fff2;
+    border-left:2px solid #00fff2;
+  }
+  .card::after{
+    bottom:4px; right:4px;
+    border-bottom:2px solid #ff2079;
+    border-right:2px solid #ff2079;
+  }
   .thumb-box{
     position:relative;
     width:100%;
-    aspect-ratio:9/16;
+    height:340px;
     background:#000;
     overflow:hidden;
   }
