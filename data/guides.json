@@ -1,8 +1,26 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-02T10:38:03.714Z",
+  "updatedAt": "2026-09-02T15:58:08.158Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은 사막 초보자 공략 총정리",
+      "summary": "처음부터 이렇게 하면 후반이 훨씬 편해집니다 붉은 사막을 이제 막 시작하셨거나, 초반에 무엇부터... 맵을 100% 빨리 밝히는 것이 반드시 탐험 효율이 높은 것은 아니라는 점이 이번 공략에서 가장 차별적인... ",
+      "link": "https://blog.naver.com/mmhhahaha/224398926103",
+      "source": "블로그",
+      "author": "GAME ON",
+      "date": "20260902",
+      "thumb": null
+    },
+    {
+      "title": "붉은사막 전설의 동물 공략, 위치 및 선행 조건, 보상 총정리",
+      "summary": "별도의 공략이 필요합니다. 아래에서 지역과 위치, 등장 조건, 포획 방법과 보상을 순서대로... 전설 동물 #8 기계 물고기 지역 : 붉은사막 위치 : 붉은산맥 요새 북동쪽 지도에서는 파란색 연못처럼 표시되지만... ",
+      "link": "https://blog.naver.com/travous/224398842409",
+      "source": "블로그",
+      "author": "게임어바웃",
+      "date": "20260902",
+      "thumb": null
+    },
     {
       "title": "붉은사막 혜안의 탑 퍼즐 공략 정답 알려드림",
       "summary": "그럼, 지금부터 붉은사막 혜안의 탑 퍼즐 공략과 함께 1~3층 정답까지 자세히 알려드리겠습니다. 붉은사막 혜안의 탑 위치와 입구 들어가는 방법 혜안의 탑 위치는 지도에 표시된 STEEL MOUNTAINS 글자에서 북서쪽... ",
@@ -256,24 +274,6 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 듀헤이븐 동력 연결 순서 공략",
-      "summary": "붉은사막 진행하다 보면 특정 장치에서 막히는 순간이 오곤 하죠. 오늘은 붉은사막 듀헤이븐 동력 연결 순서에 대해 자세히 알아보겠습니다. 붉은사막 듀헤이븐 지역의 동력 연결 장치는 메인 전원부터 순서대로... ",
-      "link": "https://blog.naver.com/du4321/224370925733",
-      "source": "블로그",
-      "author": "디지털 노마드를 꿈꾸며",
-      "date": "20260807",
-      "thumb": null
-    },
-    {
-      "title": "[\"붉은사막공략\" / \"농장에서 농사짓기 추천\"  & 어비스기어재료 \"어....",
-      "summary": "붉은사막공략은 현재 대체로 많은 능력자들과 똑띡이들 도움으로 플레이가 수월하게 되었지만 검색으로는 만족 못하고 이해하기 힘들어하는 비주류로 플레이어인 나의 방식에 맞게 게임을 진행해 나가면서... ",
-      "link": "https://blog.naver.com/hunja05/224370962203",
-      "source": "블로그",
-      "author": "썸머집사 훈자의 하루하루",
-      "date": "20260807",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -298,7 +298,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
     },
     {
       "title": "붉은사막 초반에 도움 되는 팁, 공략, 가이드 모음",
@@ -319,15 +319,6 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 | 오픈월드 액션 어드벤처 - Pearl Abyss",
-      "summary": "힘을 되찾아, 한계를 넘어서다. 지금, 여러분의 여정이 시작됩니다.",
-      "link": "https://crimsondesert.pearlabyss.com/ko-KR/Main/Index",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/1f1b11124fa20250925065603135.jpg"
-    },
-    {
       "title": "붉은사막 공략 - Unisquads",
       "summary": "붉은사막은 광활한 피웰 대륙을 배경으로 전투, 탐험, 퍼즐, 장비 수집을 함께 다루는 오픈월드 액션 어드벤처 게임이다. 이 공략 모음은 초반 진행부터 장비 획득, 퍼즐 풀이, 보스전, 탐험 수집 요소까지 한곳에서 확인....",
       "link": "https://unisquads.io/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89%20%EA%B3%B5%EB%9E%B5",
@@ -344,6 +335,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
+    },
+    {
+      "title": "붉은사막 | 오픈월드 액션 어드벤처 - Pearl Abyss",
+      "summary": "힘을 되찾아, 한계를 넘어서다. 지금, 여러분의 여정이 시작됩니다.",
+      "link": "https://crimsondesert.pearlabyss.com/ko-KR/Main/Index",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/1f1b11124fa20250925065603135.jpg"
     },
     {
       "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
@@ -364,15 +364,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202604/303149_305462_4843.jpg"
     },
     {
-      "title": "[붉은사막 공략 ⑧] 담금질 심화편, 장비 최종 강화까지 ‘순쉬운 파밍’",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302738",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302738_304712_177.png"
-    },
-    {
       "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
@@ -380,6 +371,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
+    },
+    {
+      "title": "[붉은사막 공략 ⑧] 담금질 심화편, 장비 최종 강화까지 ‘순쉬운 파밍’",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302738",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302738_304712_177.png"
     },
     {
       "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
@@ -391,13 +391,13 @@
       "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
     },
     {
-      "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302691",
+      "title": "[붉은사막 공략 EX] 최고난도 보스 원한다면, ‘압도적인 존재’에 도전하자",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 지난 이야기를 통",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302959",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302959_305110_428.jpg"
     },
     {
       "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
@@ -409,15 +409,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
     },
     {
-      "title": "[붉은사막 공략 EX] 최고난도 보스 원한다면, ‘압도적인 존재’에 도전하자",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 지난 이야기를 통",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302959",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302959_305110_428.jpg"
-    },
-    {
       "title": "붉은사막 초반부 막히는 구간 공략 모음",
       "summary": "붉은사막 초반부 막히는 구간 공략 모음입니다. 아직 익숙해지지 않는 초반부라 공략을 보면서 익히시면 더 빨리 적응하실 수 있을 것입니다. 공략이 없으면 풀기 어려운 것들 위주로 모아보았습니다.",
       "link": "https://in.naver.com/meonmoong/topic/935011679332640",
@@ -425,6 +416,15 @@
       "author": null,
       "date": null,
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjAzMjdfMjE4/MDAxNzc0NTc1MDAxMDgx.QQRdnRx5tpvljeIOu9Sog975jY6aD6zI1wVeOxdM19Ag.RBUOui-VQ17sP4miOo707DwgrQft76O4SpXZspi5gcUg.PNG/67ad.png?type=w700"
+    },
+    {
+      "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302691",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
     },
     {
       "title": "붉은사막/보스 - 나무위키",
@@ -463,15 +463,6 @@
       "thumb": null
     },
     {
-      "title": "[붉은사막 공략 ②] 생활의 기초, 채광·사냥·채집 ‘일상 그 자체’",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302569",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
-    },
-    {
       "title": "붉은사막 공략 및 팁 정리",
       "summary": "이 글은 붉은사막 (Crimson Desert) 공략 및 팁에 대해 정리하고 있습니다. 붉은 사막의 메인 의뢰(메인 퀘스트), 세력 의뢰, 각종 유니크 장비와 수집품들의 위치, 그외 게임플레이에 도움이 될만한 각종 팁들을 한곳에 모아 ....",
       "link": "https://nspxgame.com/crimson-desert/41860/",
@@ -488,6 +479,15 @@
       "author": null,
       "date": null,
       "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
+    },
+    {
+      "title": "[붉은사막 공략 ②] 생활의 기초, 채광·사냥·채집 ‘일상 그 자체’",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302569",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
     },
     {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
