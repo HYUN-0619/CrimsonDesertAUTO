@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-03T15:46:35.133Z",
+  "updatedAt": "2026-09-03T20:29:46.313Z",
   "count": 90,
   "guides": [
     {
@@ -481,15 +481,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
     },
     {
-      "title": "새소식 - 붉은사막",
-      "summary": "패치 노트 버전 2.00.02 (전 플랫폼 핫픽스) ; 패치 노트 버전 2.00.01 (전 플랫폼 핫픽스) ; 알려진 문제점 ; 붉은사막 Enhanced 업데이트, 지금 만나보세요 ; 새로운 언어 지원 및 설정 가이드 ; 패치 노트 버전 2.00.00 ; 붉은사막의....",
-      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
-    },
-    {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
       "summary": "펄어비스의 오픈월드 액션 어드벤처 '붉은사막'은 유저들의 두뇌와 도전정신을 자극하는 고난이도 퍼즐로 무장했다.상세한 가이드가 없어 퍼즐을 해결했을 때의 쾌감도 크",
       "link": "https://www.playforum.net/news/articleView.html?idxno=634060",
@@ -497,6 +488,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.playforum.net/news/photo/202603/634060_62173_3410.jpg"
+    },
+    {
+      "title": "새소식 - 붉은사막",
+      "summary": "미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스) ; 패치 노트 버전 2.00.01 (전 플랫폼 핫픽스)",
+      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
     },
     {
       "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
