@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-04T02:54:50.419Z",
+  "updatedAt": "2026-09-04T10:35:34.137Z",
   "count": 90,
   "guides": [
     {
@@ -283,15 +283,6 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 정보공략 모음 26093 업데이트",
-      "summary": "붉은사막 공략 및 팁 정보들을 모아둔 글입니다 댓글로 원하시는 정보가 있거나 잘못된 정보가 있을 경우 댓글 또는 쪽지로 알려주시면 수정하겠습니다 최근 업데이트 2026 9 3 일반 붉은사막 미지의 여정 DLC 정보 및 예약....",
-      "link": "https://bbs.ruliweb.com/community/board/185595/read/71",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://i1.ruliweb.com/ori/26/03/05/19cbde442b347f450.webp"
-    },
-    {
       "title": "붉은사막 인벤 : 붉은사막 공략 모음 (이것만 보면 끝) - 붉은사막 인벤 팁과 노....",
       "summary": "붉은사막 공략 모음 (26.04.10 업데이트)👍 처음 게임을 시작한 유저를 위한 압축 가이드🔗붉은사막 초반 실전 압축 공략 (돈벌이, 장비 파밍)🔗붉은사막 초반 적응 가이드💡 메인 스토리 공략🔗챕터1 첫만남 공략 [자세....",
       "link": "https://www.inven.co.kr/board/crimson/6511/86",
@@ -299,6 +290,15 @@
       "author": null,
       "date": null,
       "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
+    },
+    {
+      "title": "붉은사막 정보공략 모음 26093 업데이트",
+      "summary": "붉은사막 공략 및 팁 정보들을 모아둔 글입니다 댓글로 원하시는 정보가 있거나 잘못된 정보가 있을 경우 댓글 또는 쪽지로 알려주시면 수정하겠습니다 최근 업데이트 2026 9 3 일반 붉은사막 미지의 여정 DLC 정보 및 예약....",
+      "link": "https://bbs.ruliweb.com/community/board/185595/read/71",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://i1.ruliweb.com/ori/26/03/05/19cbde442b347f450.webp"
     },
     {
       "title": "붉은사막 초반에 도움 되는 팁, 공략, 가이드 모음",
@@ -337,15 +337,6 @@
       "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
     },
     {
-      "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
-      "summary": "붉은사막 초보 공략으로, 메인 스토리 중심 진행과 장비 강화, 자원 수급, 이동 팁까지 초반에 필요한 내용을 한 번에 정리했다.",
-      "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-beginner-guide.html",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
-    },
-    {
       "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302890",
@@ -353,6 +344,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
+    },
+    {
+      "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
+      "summary": "붉은사막 초보 공략으로, 메인 스토리 중심 진행과 장비 강화, 자원 수급, 이동 팁까지 초반에 필요한 내용을 한 번에 정리했다.",
+      "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-beginner-guide.html",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
     },
     {
       "title": "[붉은사막 공략 ⑧] 담금질 심화편, 장비 최종 강화까지 ‘순쉬운 파밍’",
@@ -454,6 +454,15 @@
       "thumb": "https://nspxgame.com/wp-content/uploads/2026/04/2026-04-12_Vp5zdZvdFfkGgcThjm.jpg"
     },
     {
+      "title": "붉은사막/업데이트",
+      "summary": "개요 주요 업데이트: 출시 이후의 여정 붉은사막의 업데이트를 정리해 놓은 문서. 2. 2026년 3월 2.1. 1.00.02 (3월 20일) 패치노트 버전 1.00.02 - 2026년 3월 20일 진행 퀘스트 챕터 3 시작 구간에 어비스 기어를 보다... ",
+      "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
+    },
+    {
       "title": "[붉은사막 공략 ③] 본격적인 모험의 시간, ‘용병단’ 재건 필수",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302635",
@@ -463,13 +472,13 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302635_304478_550.png"
     },
     {
-      "title": "붉은사막/업데이트",
-      "summary": "개요 주요 업데이트: 출시 이후의 여정 붉은사막의 업데이트를 정리해 놓은 문서. 2. 2026년 3월 2.1. 1.00.02 (3월 20일) 패치노트 버전 1.00.02 - 2026년 3월 20일 진행 퀘스트 챕터 3 시작 구간에 어비스 기어를 보다... ",
-      "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8",
+      "title": "새소식 - 붉은사막",
+      "summary": "패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스)",
+      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
     },
     {
       "title": "[붉은사막 공략 ②] 생활의 기초, 채광·사냥·채집 ‘일상 그 자체’",
@@ -488,15 +497,6 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.playforum.net/news/photo/202603/634060_62173_3410.jpg"
-    },
-    {
-      "title": "새소식 - 붉은사막",
-      "summary": "미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스) ; 패치 노트 버전 2.00.01 (전 플랫폼 핫픽스)",
-      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
     },
     {
       "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
