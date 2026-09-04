@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-04T10:35:34.137Z",
+  "updatedAt": "2026-09-04T15:45:14.304Z",
   "count": 90,
   "guides": [
+    {
+      "title": "[붉은사막] 36. 베일 속의 마녀 (1/2) : 고행의 성소 수복하기 공략 / 상....",
+      "summary": "#붉은사막공략 #붉은사막스토리 #붉은사막챕터9 #붉은사막베일속의마녀 #붉은사막헥세마리 #붉은사막고행의성소 #붉은사막동력핵 #붉은사막융합로동력핵 #붉은사막쿠쿠새무쇠솥 #붉은사막섭리의힘... ",
+      "link": "https://blog.naver.com/op5321/224401392448",
+      "source": "블로그",
+      "author": "박기린의 기린파크",
+      "date": "20260904",
+      "thumb": null
+    },
     {
       "title": "칼만 휘두르던 '붉은사막'이 바다로 간다…펄어비스 주가 들썩이는 ....",
       "summary": "펄어비스, '붉은사막' 신규 DLC 다음 달 16일 출시…콘솔·PC 동시 공략 나선다 국내 게임사들의 고질적인 약점 중 하나는 '원히트 원더(One-hit wonder·단 하나의 히트작)'에 리스크가 지나치게 집중된다는 점이다.... ",
@@ -265,15 +274,6 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 깨진 침묵 탐문을 위해 얻은 정보 정답 공략",
-      "summary": "붉은사막 깨진 침묵 탐문을 위해 얻은 정보 정답 공략 안녕하세요 게임 블로거 제이메르입니다.... 델레시아 의뢰 중 하나인 '깨진 침묵'은 붉은여우 무역소에서 시작되는 추리형 퀘스트입니다. 입고 검수... ",
-      "link": "https://blog.naver.com/zeimer/224372437009",
-      "source": "블로그",
-      "author": "제이메르의 게임 이야기",
-      "date": "20260808",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
+      "thumb": null
     },
     {
       "title": "붉은사막 정보공략 모음 26093 업데이트",
@@ -382,15 +382,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302959_305110_428.jpg"
     },
     {
-      "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
-    },
-    {
       "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
       "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
       "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
@@ -398,6 +389,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
+    },
+    {
+      "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
     },
     {
       "title": "[붉은사막 공략 EX] 3분에 600실버 벌기?! ‘붉은 사막’, 도박 콘텐츠 속임수 적....",
@@ -505,7 +505,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
+      "thumb": null
     },
     {
       "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
@@ -541,7 +541,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+      "thumb": null
     },
     {
       "title": "붉은사막 공략게시글 왜 삭제됫을까요 ? ㅠㅠ",
