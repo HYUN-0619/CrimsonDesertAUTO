@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-07T02:52:55.326Z",
+  "updatedAt": "2026-09-07T11:35:08.556Z",
   "count": 90,
   "guides": [
     {
@@ -337,15 +337,6 @@
       "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
     },
     {
-      "title": "붉은사막/보스 - 나무위키",
-      "summary": "실제로 붉은사막에서 실질적인 재미를 느낄 수 있는 구간이기도 하다. 소위 말하는 억까 패턴으로 물약 스팸을 유도하는 것이 아닌 정석적인 공략이 가능하게끔 만들어져 있고 페이즈마다 색다른 패턴을 선보여... ",
-      "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EB%B3%B4%EC%8A%A4",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
-    },
-    {
       "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
       "summary": "붉은사막 초보 공략으로, 메인 스토리 중심 진행과 장비 강화, 자원 수급, 이동 팁까지 초반에 필요한 내용을 한 번에 정리했다.",
       "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-beginner-guide.html",
@@ -353,6 +344,15 @@
       "author": null,
       "date": null,
       "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
+    },
+    {
+      "title": "붉은사막 | 오픈월드 액션 어드벤처 - Pearl Abyss",
+      "summary": "힘을 되찾아, 한계를 넘어서다. 지금, 여러분의 여정이 시작됩니다.",
+      "link": "https://crimsondesert.pearlabyss.com/ko-KR/Main/Index",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/1f1b11124fa20250925065603135.jpg"
     },
     {
       "title": "[붉은사막 공략 ⑧] 담금질 심화편, 장비 최종 강화까지 ‘순쉬운 파밍’",
@@ -427,6 +427,15 @@
       "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
     },
     {
+      "title": "붉은사막/보스 - 나무위키",
+      "summary": "실제로 붉은사막에서 실질적인 재미를 느낄 수 있는 구간이기도 하다. 소위 말하는 억까 패턴으로 물약 스팸을 유도하는 것이 아닌 정석적인 공략이 가능하게끔 만들어져 있고 페이즈마다 색다른 패턴을 선보여... ",
+      "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EB%B3%B4%EC%8A%A4",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
+    },
+    {
       "title": "붉은사막 초반부 막히는 구간 공략 모음",
       "summary": "붉은사막 초반부 막히는 구간 공략 모음입니다. 아직 익숙해지지 않는 초반부라 공략을 보면서 익히시면 더 빨리 적응하실 수 있을 것입니다. 공략이 없으면 풀기 어려운 것들 위주로 모아보았습니다.",
       "link": "https://in.naver.com/meonmoong/topic/935011679332640",
@@ -454,15 +463,6 @@
       "thumb": "https://nspxgame.com/wp-content/uploads/2026/04/2026-04-12_Vp5zdZvdFfkGgcThjm.jpg"
     },
     {
-      "title": "붉은사막 | 오픈월드 액션 어드벤처 - Pearl Abyss",
-      "summary": "힘을 되찾아, 한계를 넘어서다. 지금, 여러분의 여정이 시작됩니다.",
-      "link": "https://crimsondesert.pearlabyss.com/ko-KR/Main/Index",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/1f1b11124fa20250925065603135.jpg"
-    },
-    {
       "title": "붉은사막/업데이트",
       "summary": "개요 주요 업데이트: 출시 이후의 여정 붉은사막의 업데이트를 정리해 놓은 문서. 2. 2026년 3월 2.1. 1.00.02 (3월 20일) 패치노트 버전 1.00.02 - 2026년 3월 20일 진행 퀘스트 챕터 3 시작 구간에 어비스 기어를 보다... ",
       "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8",
@@ -472,6 +472,15 @@
       "thumb": null
     },
     {
+      "title": "[붉은사막 공략 ②] 생활의 기초, 채광·사냥·채집 ‘일상 그 자체’",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302569",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
+    },
+    {
       "title": "새소식 - 붉은사막",
       "summary": "패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스)",
       "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
@@ -479,15 +488,6 @@
       "author": null,
       "date": null,
       "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
-    },
-    {
-      "title": "[붉은사막 공략 ②] 생활의 기초, 채광·사냥·채집 ‘일상 그 자체’",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302569",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
     },
     {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
@@ -506,6 +506,15 @@
       "author": null,
       "date": null,
       "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
+    },
+    {
+      "title": "[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #....",
+      "summary": "도장쾅!의 '[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #도장쾅' 조회수 2.3만회, 좋아요 97개. 조회수 추이와 성장 분석을 확인하세요.",
+      "link": "https://ranktube.co.kr/video/wwGRvbY-olg",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://i.ytimg.com/vi/wwGRvbY-olg/hqdefault.jpg"
     },
     {
       "title": "[공략] 붉은사막 기술 아무거나 찍었다가 아티팩트 날렸다고?",
@@ -533,15 +542,6 @@
       "author": null,
       "date": null,
       "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
-    },
-    {
-      "title": "[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #....",
-      "summary": "도장쾅!의 '[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #도장쾅' 조회수 2.3만회, 좋아요 97개. 조회수 추이와 성장 분석을 확인하세요.",
-      "link": "https://ranktube.co.kr/video/wwGRvbY-olg",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://i.ytimg.com/vi/wwGRvbY-olg/hqdefault.jpg"
     },
     {
       "title": "붉은사막 공략게시글 왜 삭제됫을까요 ? ㅠㅠ",
