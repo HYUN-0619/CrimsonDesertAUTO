@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-08T10:34:37.149Z",
+  "updatedAt": "2026-09-08T15:59:02.764Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은사막 유적 공략 총정리! 기어 제작식·주요 아이템·유적별 획득....",
+      "summary": "죄악의 붉은 장미 속죄의 강철 비 2. 리치우드 유적파견 게임 내 소요 시간 : 2일 리치우드 유적파견에서... 모두 항상 건강하고 행복하세요 #붉은사막, #붉은사막공략, #붉은사막유적, #붉은사막기어... ",
+      "link": "https://blog.naver.com/zovo3/224405295349",
+      "source": "블로그",
+      "author": "밤물결의 게임블록",
+      "date": "20260908",
+      "thumb": null
+    },
     {
       "title": "붉은사막 세력 의뢰 '그레이스 가문' 공략",
       "summary": "붉은사막 에르난드 지역의 세력 의뢰를 진행하다 보면 그레이스 가문과 관련된 의뢰를 만나게 됩니다.... 여기서부터가 이번 그레이스 가문 공략에서 가장 헤매기 쉬운 부분입니다. 글렌브라이트 저택 지하실... ",
@@ -265,15 +274,6 @@
       "thumb": null
     },
     {
-      "title": "압도적인 몰입감의 시작! 붉은사막을 위한 조이트론 유선 모바일 컨....",
-      "summary": "붉은사막의 복잡한 콤보를 터치로 구현하기엔 한계가 분명하죠. 조이트론 유선 모바일 컨트롤러 프로 붉은사막을 쓰면 이야기가... 상품 스펙 정리 조이트론 컨트롤러 프로 붉은사막  네이버 최저가 확인하기... ",
-      "link": "https://blog.naver.com/miko4842/224390152025",
-      "source": "블로그",
-      "author": "정성",
-      "date": "20260826",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -337,22 +337,13 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
     },
     {
-      "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
-      "summary": "붉은사막 초보 공략으로, 메인 스토리 중심 진행과 장비 강화, 자원 수급, 이동 팁까지 초반에 필요한 내용을 한 번에 정리했다.",
-      "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-beginner-guide.html",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
-    },
-    {
       "title": "붉은사막 | 오픈월드 액션 어드벤처 - Pearl Abyss",
       "summary": "힘을 되찾아, 한계를 넘어서다. 지금, 여러분의 여정이 시작됩니다.",
-      "link": "https://crimsondesert.pearlabyss.com/ko-KR/Main/Index",
+      "link": "https://crimsondesert.pearlabyss.com/",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/1f1b11124fa20250925065603135.jpg"
+      "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/8877b8d99a620250925065605708.jpg"
     },
     {
       "title": "[붉은사막 공략 ⑧] 담금질 심화편, 장비 최종 강화까지 ‘순쉬운 파밍’",
@@ -362,6 +353,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302738_304712_177.png"
+    },
+    {
+      "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
+      "summary": "붉은사막 초보 공략으로, 메인 스토리 중심 진행과 장비 강화, 자원 수급, 이동 팁까지 초반에 필요한 내용을 한 번에 정리했다.",
+      "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-beginner-guide.html",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
     },
     {
       "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
@@ -496,7 +496,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+      "thumb": null
     },
     {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
@@ -526,15 +526,6 @@
       "thumb": "https://i.ytimg.com/vi/wwGRvbY-olg/hqdefault.jpg"
     },
     {
-      "title": "[공략] 붉은사막 기술 아무거나 찍었다가 아티팩트 날렸다고?",
-      "summary": "펄어비스가 선보인 오픈 월드 액션 어드벤처 붉은사막에서 가장 많은 플레이어가 막히는 지점은 보스 공략이 아니라 기술 포인트 운용이다. 경험치도 없고 레벨업도 없는 붉은사막의 성장 구조는 기존 RPG와 완전히 다른....",
-      "link": "http://www.gamey.kr/news/articleView.html?idxno=3016519",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.gamey.kr/news/thumbnail/202603/3016519_162058_2229_v150.jpg"
-    },
-    {
       "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
       "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
       "link": "https://www.fmkorea.com/9624081887",
@@ -542,6 +533,15 @@
       "author": null,
       "date": null,
       "thumb": null
+    },
+    {
+      "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
+      "summary": "붉은사막 도약의 탑, 하늘길 작동시키기, 킬덴항아리 퍼즐 공략 모음입니다. 자세한 공략이 궁금하신 분은 '블로그에서 더보기'를 누르면 확인할 수 있습니다.",
+      "link": "https://in.naver.com/hoyagame/topic/948692258707648",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA1MDVfNTkg/MDAxNzc3OTE0OTU2MTk0.4P8UgxMJpv1vMrGuLoJE6HbKp1aCd-dUIcyys1pZ3Sog.FyTz5RjeYVdMjXDHTE1At2bxljTCQwYJWemq368r5_Mg.PNG/fab2.png?type=w700"
     },
     {
       "title": "붉은사막 공략게시글 왜 삭제됫을까요 ? ㅠㅠ",
