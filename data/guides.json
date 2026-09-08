@@ -1,14 +1,41 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-07T21:07:03.637Z",
+  "updatedAt": "2026-09-08T03:03:06.655Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은사막 세력 의뢰 '서키스 가문' 숙적의 말로 공략",
+      "summary": "붉은사막에서 서키스 가문 세력 의뢰를 진행하다 보면 후반부에 숙적의 말로 퀘스트가 등장합니다.... 이번 글에서는 붉은사막 숙적의 말로 선행 조건부터 월터 랜포드 위치, 퀘스트 진행 순서와 보상까지... ",
+      "link": "https://blog.naver.com/travous/224404520892",
+      "source": "블로그",
+      "author": "게임어바웃",
+      "date": "20260908",
+      "thumb": null
+    },
+    {
+      "title": "붉은사막 바람의장막 스킬 배우기 위치 사용법 울부짖는 언덕 퍼즐 ....",
+      "summary": "03: 울부짖는 언덕 공략 다음으로 붉은사막 울부짖는 언덕 퍼즐 공략입니다. 기믹은 아주 간단합니다. 정면을 보시면 물이 가득차 있고 우측 상단 제가 이미지에 표시해드린 곳을 보시면 '레버'같은 게 하나... ",
+      "link": "https://blog.naver.com/webdeveloping/224404197022",
+      "source": "블로그",
+      "author": "아 오늘 금요일인 줄 알았네",
+      "date": "20260908",
+      "thumb": null
+    },
     {
       "title": "붉은사막 축복의 성소 동력핵 위치 공략｜닫힌 문 여는 법",
       "summary": "붉은사막 축복의 성소에서 가장 자주 막히는 지점은 두 번째 동력핵이 있는 닫힌 방입니다. 성소를... 동력핵 공략의 핵심은 위치 자체보다 석탑의 불 붙이기라고 볼 수 있습니다. 문이 열린 뒤 안쪽에서 둥근... ",
       "link": "https://techpost.tistory.com/793",
       "source": "블로그",
       "author": "테크포스트",
+      "date": "20260907",
+      "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png"
+    },
+    {
+      "title": "[붉은사막] 36. 베일 속의 마녀 (1/2) : 고행의 성소 수복하기 공략 / 상....",
+      "summary": "원문 보기 (네이버 블로그) 📎 원문 링크: [붉은사막] 36. 베일 속의 마녀 (1/2) : 고행의 성소 수복하기 공략 / 상자, 기둥, 동력핵 위치 🌐 PC 링크: https://blog.naver.com/op5321/224401392448 📱 모바일 raw URL(구글... ",
+      "link": "https://arnopark.tistory.com/1381",
+      "source": "블로그",
+      "author": "박기린",
       "date": "20260907",
       "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png"
     },
@@ -247,33 +274,6 @@
       "thumb": null
     },
     {
-      "title": "2026 공략 가이드 예정 리스트",
-      "summary": "공략 가이드 리스트 - 붉은 사막 2026.03.20 붉은 사막 - 007: 퍼스트 라이트 2026.05.26 007 - 데이브 더 다이버: 인 더 정글 2026.06.18 인 더 정글 - 어쌔신 크리드: 블랙플래그 리싱크드 2026.07.09... ",
-      "link": "https://blog.naver.com/leejr9613/224389959835",
-      "source": "블로그",
-      "author": "SSINGOM",
-      "date": "20260825",
-      "thumb": null
-    },
-    {
-      "title": "[\"붉은사막공략\" / \"붉은사막초반 양털모으기\" \"대도의장갑+늑대언덕....",
-      "summary": "조금씩 늘려나갈 필요가 있는데 그 이야기는 다음에 계속... #붉은사막공략 #붉은사막양털모으기 #붉은사막초반양모모으기 #붉은사막늑대캠프양등록 #붉은사막담금질재료 #붉은사막양모공략 #붉은사막양털공략",
-      "link": "https://blog.naver.com/hunja05/224389507460",
-      "source": "블로그",
-      "author": "썸머집사 훈자의 하루하루",
-      "date": "20260825",
-      "thumb": null
-    },
-    {
-      "title": "오픈월드 대작! '붉은사막'의 출시 후 첫 할인 소식과 일정 총정리",
-      "summary": "꿀정보와 게임 쿠폰, 이벤트 소식, 공략을 적어드릴게요. 오늘은 전 세계 게이머들의 시선을 사로잡은 오픈월드 액션 어드벤처 대작! '붉은사막'의 출시 후 첫 할인 소식과 일정 총정리에 대해... ",
-      "link": "https://blog.naver.com/parker1531/224389343705",
-      "source": "블로그",
-      "author": "동동이의 게임세상♥",
-      "date": "20260825",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
+      "thumb": null
     },
     {
       "title": "붉은사막 정보공략 모음 2693 업데이트",
@@ -418,15 +418,6 @@
       "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
     },
     {
-      "title": "[붉은사막 공략 EX] 3분에 600실버 벌기?! ‘붉은 사막’, 도박 콘텐츠 속임수 적....",
-      "summary": "‘붉은 사막’은 계속해서 돈을 쓸 장소가 많아 항상 돈이 부족한 편이다. 무기 소켓을 확장하고 음식을 사고 먹기를 반복하다 보면 이내 통장이 빈털털이가 되기 십상",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=303149",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202604/303149_305462_4843.jpg"
-    },
-    {
       "title": "붉은사막/보스 - 나무위키",
       "summary": "실제로 붉은사막에서 실질적인 재미를 느낄 수 있는 구간이기도 하다. 소위 말하는 억까 패턴으로 물약 스팸을 유도하는 것이 아닌 정석적인 공략이 가능하게끔 만들어져 있고 페이즈마다 색다른 패턴을 선보여... ",
       "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EB%B3%B4%EC%8A%A4",
@@ -434,6 +425,15 @@
       "author": null,
       "date": null,
       "thumb": null
+    },
+    {
+      "title": "[붉은사막 공략 EX] 3분에 600실버 벌기?! ‘붉은 사막’, 도박 콘텐츠 속임수 적....",
+      "summary": "‘붉은 사막’은 계속해서 돈을 쓸 장소가 많아 항상 돈이 부족한 편이다. 무기 소켓을 확장하고 음식을 사고 먹기를 반복하다 보면 이내 통장이 빈털털이가 되기 십상",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=303149",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202604/303149_305462_4843.jpg"
     },
     {
       "title": "붉은사막 초반부 막히는 구간 공략 모음",
@@ -481,15 +481,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
     },
     {
-      "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
-      "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
-      "link": "https://www.inven.co.kr/board/crimson/6511/354",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
-    },
-    {
       "title": "새소식 - 붉은사막",
       "summary": "패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스)",
       "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
@@ -497,6 +488,15 @@
       "author": null,
       "date": null,
       "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
+    },
+    {
+      "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
+      "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
+      "link": "https://www.inven.co.kr/board/crimson/6511/354",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
     },
     {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
@@ -514,7 +514,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
+      "thumb": null
     },
     {
       "title": "[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #....",
