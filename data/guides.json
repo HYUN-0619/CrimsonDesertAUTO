@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-08T15:59:02.764Z",
+  "updatedAt": "2026-09-08T20:43:33.401Z",
   "count": 90,
   "guides": [
     {
@@ -364,6 +364,15 @@
       "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
     },
     {
+      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
+    },
+    {
       "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
@@ -380,15 +389,6 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302959_305110_428.jpg"
-    },
-    {
-      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
     },
     {
       "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
@@ -487,7 +487,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
+      "thumb": null
     },
     {
       "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
@@ -496,7 +496,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
     },
     {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
@@ -517,15 +517,6 @@
       "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
-      "title": "[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #....",
-      "summary": "도장쾅!의 '[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #도장쾅' 조회수 2.3만회, 좋아요 97개. 조회수 추이와 성장 분석을 확인하세요.",
-      "link": "https://ranktube.co.kr/video/wwGRvbY-olg",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://i.ytimg.com/vi/wwGRvbY-olg/hqdefault.jpg"
-    },
-    {
       "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
       "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
       "link": "https://www.fmkorea.com/9624081887",
@@ -533,6 +524,15 @@
       "author": null,
       "date": null,
       "thumb": null
+    },
+    {
+      "title": "[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #....",
+      "summary": "도장쾅!의 '[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #도장쾅' 조회수 2.3만회, 좋아요 97개. 조회수 추이와 성장 분석을 확인하세요.",
+      "link": "https://ranktube.co.kr/video/wwGRvbY-olg",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://i.ytimg.com/vi/wwGRvbY-olg/hqdefault.jpg"
     },
     {
       "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
