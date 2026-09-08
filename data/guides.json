@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-08T03:03:06.655Z",
+  "updatedAt": "2026-09-08T10:34:37.149Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은사막 세력 의뢰 '그레이스 가문' 공략",
+      "summary": "붉은사막 에르난드 지역의 세력 의뢰를 진행하다 보면 그레이스 가문과 관련된 의뢰를 만나게 됩니다.... 여기서부터가 이번 그레이스 가문 공략에서 가장 헤매기 쉬운 부분입니다. 글렌브라이트 저택 지하실... ",
+      "link": "https://blog.naver.com/travous/224404847581",
+      "source": "블로그",
+      "author": "게임어바웃",
+      "date": "20260908",
+      "thumb": null
+    },
     {
       "title": "붉은사막 세력 의뢰 '서키스 가문' 숙적의 말로 공략",
       "summary": "붉은사막에서 서키스 가문 세력 의뢰를 진행하다 보면 후반부에 숙적의 말로 퀘스트가 등장합니다.... 이번 글에서는 붉은사막 숙적의 말로 선행 조건부터 월터 랜포드 위치, 퀘스트 진행 순서와 보상까지... ",
@@ -265,15 +274,6 @@
       "thumb": null
     },
     {
-      "title": "PS5 게임 붉은사막 금욕의 성소 공략 쉽게 클리어",
-      "summary": "PS5 게임 | 붉은사막 금욕의 성소 | 공략 쉽게 클리어 안녕하세요! 게임 인플루언서 아오금입니다. 지난번 면죄의 성소에 이어서 이번에는 금욕의 성소 공략을 준비했습니다. 마찬가지로 '지혜의 마녀' 서브... ",
-      "link": "https://blog.naver.com/webdeveloping/224390028080",
-      "source": "블로그",
-      "author": "아 오늘 금요일인 줄 알았네",
-      "date": "20260825",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
     },
     {
       "title": "붉은사막 정보공략 모음 2693 업데이트",
@@ -496,7 +496,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
     },
     {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
@@ -514,7 +514,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
       "title": "[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #....",
