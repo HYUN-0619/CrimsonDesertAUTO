@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-08T20:43:33.401Z",
+  "updatedAt": "2026-09-09T03:04:09.376Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은사막 붉은강 고대유적 퀘스트 퍼즐 맞추기 해결방법",
+      "summary": "붉은강 고대유적 위치 및 현장 구조 분석 2. 퍼즐 메커니즘 및 핵심 힌트 해석 3. 회전판 퍼즐 단계별... 점이 있으면 댓글로 남겨주세요! 다음에도 도움이 되는 붉은사막 공략으로 찾아뵙겠습니다. 감사합니다.",
+      "link": "https://blog.naver.com/cera9608/224392360389",
+      "source": "블로그",
+      "author": "산빼데쓰의 플스게임 아카이브",
+      "date": "20260909",
+      "thumb": null
+    },
     {
       "title": "붉은사막 유적 공략 총정리! 기어 제작식·주요 아이템·유적별 획득....",
       "summary": "죄악의 붉은 장미 속죄의 강철 비 2. 리치우드 유적파견 게임 내 소요 시간 : 2일 리치우드 유적파견에서... 모두 항상 건강하고 행복하세요 #붉은사막, #붉은사막공략, #붉은사막유적, #붉은사막기어... ",
@@ -265,15 +274,6 @@
       "thumb": null
     },
     {
-      "title": "위기의 게임산업 (3·끝) 글로벌 공략, 이젠 선택 아닌 필수",
-      "summary": "글로벌 공략, 이젠 선택 아닌 필수 국내 성장판 닫힌 K게임 '슈퍼IP'로 세계 홀려야 산다 韓 점유율 7.2%로 4위 그쳐 中은 美 제치고 1위에 올라 배틀그라운드·붉은사막처럼 콘텐츠... ",
-      "link": "https://blog.naver.com/informationbank/224391863861",
-      "source": "블로그",
-      "author": "Information Archive",
-      "date": "20260827",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -292,15 +292,6 @@
       "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
     },
     {
-      "title": "붉은사막 정보공략 모음 2693 업데이트",
-      "summary": "붉은사막 공략 및 팁 정보들을 모아둔 글입니다 댓글로 원하시는 정보가 있거나 잘못된 정보가 있을 경우 댓글 또는 쪽지로 알려주시면 수정하겠습니다 최근 업데이트 2026 9 3 일반 붉은사막 미지의 여정 DLC 정보 및 예약....",
-      "link": "https://bbs.ruliweb.com/community/board/185595/read/71",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://i1.ruliweb.com/ori/26/03/05/19cbde442b347f450.webp"
-    },
-    {
       "title": "붉은사막 초반에 도움 되는 팁, 공략, 가이드 모음",
       "summary": "붉은사막 초반에 도움 되는 팁, 공략, 가이드를 모아봤습니다. 옵션 설정부터 시작해서 어떤 스킬트리를 타야 할지 헤매는 분들이 있으시다면 참고하시기 바랍니다.",
       "link": "https://in.naver.com/midday/topic/960175835056512",
@@ -308,6 +299,15 @@
       "author": null,
       "date": null,
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA2MDZfMTg2/MDAxNzgwNzE4NzI3NjU0.Rja1PTH-ZwpgKF_QQX7ZHN_y9EfasVOqphV4tRCLaBkg.qfv6ZT9pZ-JIUHNjoQImmGMG5zrAmsaKJ1Ps611c5CYg.PNG/5b95.png?type=w700"
+    },
+    {
+      "title": "붉은사막 정보공략 모음 2693 업데이트",
+      "summary": "붉은사막 공략 및 팁 정보들을 모아둔 글입니다 댓글로 원하시는 정보가 있거나 잘못된 정보가 있을 경우 댓글 또는 쪽지로 알려주시면 수정하겠습니다 최근 업데이트 2026 9 3 일반 붉은사막 미지의 여정 DLC 정보 및 예약....",
+      "link": "https://bbs.ruliweb.com/community/board/185595/read/71",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://i1.ruliweb.com/ori/26/03/05/19cbde442b347f450.webp"
     },
     {
       "title": "붉은사막 인벤",
@@ -472,6 +472,15 @@
       "thumb": null
     },
     {
+      "title": "새소식 - 붉은사막",
+      "summary": "패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스)",
+      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
+    },
+    {
       "title": "[붉은사막 공략 ②] 생활의 기초, 채광·사냥·채집 ‘일상 그 자체’",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302569",
@@ -479,15 +488,6 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
-    },
-    {
-      "title": "새소식 - 붉은사막",
-      "summary": "패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스)",
-      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
     },
     {
       "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
@@ -535,13 +535,13 @@
       "thumb": "https://i.ytimg.com/vi/wwGRvbY-olg/hqdefault.jpg"
     },
     {
-      "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
-      "summary": "붉은사막 도약의 탑, 하늘길 작동시키기, 킬덴항아리 퍼즐 공략 모음입니다. 자세한 공략이 궁금하신 분은 '블로그에서 더보기'를 누르면 확인할 수 있습니다.",
-      "link": "https://in.naver.com/hoyagame/topic/948692258707648",
+      "title": "[공략] 붉은사막 기술 아무거나 찍었다가 아티팩트 날렸다고?",
+      "summary": "펄어비스가 선보인 오픈 월드 액션 어드벤처 붉은사막에서 가장 많은 플레이어가 막히는 지점은 보스 공략이 아니라 기술 포인트 운용이다. 경험치도 없고 레벨업도 없는 붉은사막의 성장 구조는 기존 RPG와 완전히 다른....",
+      "link": "http://www.gamey.kr/news/articleView.html?idxno=3016519",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA1MDVfNTkg/MDAxNzc3OTE0OTU2MTk0.4P8UgxMJpv1vMrGuLoJE6HbKp1aCd-dUIcyys1pZ3Sog.FyTz5RjeYVdMjXDHTE1At2bxljTCQwYJWemq368r5_Mg.PNG/fab2.png?type=w700"
+      "thumb": "https://cdn.gamey.kr/news/thumbnail/202603/3016519_162058_2229_v150.jpg"
     },
     {
       "title": "붉은사막 공략게시글 왜 삭제됫을까요 ? ㅠㅠ",
