@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-10T10:37:17.899Z",
+  "updatedAt": "2026-09-10T15:50:26.146Z",
   "count": 90,
   "guides": [
     {
@@ -508,15 +508,6 @@
       "thumb": "https://cdn.playforum.net/news/photo/202603/634060_62173_3410.jpg"
     },
     {
-      "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
-      "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
-      "link": "https://www.fmkorea.com/9624081887",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
-    },
-    {
       "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
       "summary": "붉은사막 유적 · 퍼즐 공략 모음 공지입니다 (26.04.03)[ㄱ]🔗강철 산맥의 유적 공략🔗거석 왕관 공략🔗검은장벽 유적🔗그림자숲 어비스 표석 퍼즐🔗그레이스 영지 해맞이 평야 기믹🔗고대인의 틈 큐브 3종🔗고독의 ....",
       "link": "https://www.inven.co.kr/board/crimson/6511/260",
@@ -524,6 +515,15 @@
       "author": null,
       "date": null,
       "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
+    },
+    {
+      "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
+      "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
+      "link": "https://www.fmkorea.com/9624081887",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
     },
     {
       "title": "[공략] 붉은사막 기술 아무거나 찍었다가 아티팩트 날렸다고?",
