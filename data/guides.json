@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-11T02:59:42.999Z",
+  "updatedAt": "2026-09-11T10:36:26.156Z",
   "count": 90,
   "guides": [
     {
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
+      "thumb": null
     },
     {
       "title": "붉은사막 초반에 도움 되는 팁, 공략, 가이드 모음",
@@ -325,7 +325,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
     },
     {
       "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
@@ -373,6 +373,15 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302738_304712_177.png"
     },
     {
+      "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
+    },
+    {
       "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
@@ -389,15 +398,6 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302959_305110_428.jpg"
-    },
-    {
-      "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
       "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
@@ -478,16 +478,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
-    },
-    {
-      "title": "새소식 - 붉은사막",
-      "summary": "패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스)",
-      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
+      "thumb": null
     },
     {
       "title": "[붉은사막 공략 ②] 생활의 기초, 채광·사냥·채집 ‘일상 그 자체’",
@@ -499,13 +490,22 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
     },
     {
+      "title": "새소식 - 붉은사막",
+      "summary": "패치노트 2.02.00 ; 패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스) ; 패치 노트 버전 2.00.01 (전 플랫폼 핫픽스) ; 알려진 문제점 ; 붉은사막 Enhanced 업데이트, 지금 만나....",
+      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
+    },
+    {
       "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
       "summary": "붉은사막 유적 · 퍼즐 공략 모음 공지입니다 (26.04.03)[ㄱ]🔗강철 산맥의 유적 공략🔗거석 왕관 공략🔗검은장벽 유적🔗그림자숲 어비스 표석 퍼즐🔗그레이스 영지 해맞이 평야 기믹🔗고대인의 틈 큐브 3종🔗고독의 ....",
       "link": "https://www.inven.co.kr/board/crimson/6511/260",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
+      "thumb": null
     },
     {
       "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
