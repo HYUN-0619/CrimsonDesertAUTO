@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-10T20:25:26.106Z",
+  "updatedAt": "2026-09-11T02:59:42.999Z",
   "count": 90,
   "guides": [
+    {
+      "title": "K게임, 모바일 넘어 콘솔로…AAA 타이틀 새 성장축",
+      "summary": "세계 60조 콘솔 시장 겨냥…크래프톤·엔씨 등 신작 확대 시프트업 신작 ‘프로젝트 스피릿’(왼쪽)과 펄어비스의 붉은사막(출처=시프트업, 펄어비스) 국내 게임사들이 콘솔 시장 공략에 속도를 내고... ",
+      "link": "https://blog.naver.com/dealsite/224407947729",
+      "source": "블로그",
+      "author": "딜사이트",
+      "date": "20260911",
+      "thumb": null
+    },
     {
       "title": "붉은사막 세력 의뢰 '카론소 트롤 연합' 파괴된 호수의 결계석 공략",
       "summary": "붉은사막에서 카론소 트롤연합 세력 의뢰를 진행하다 보면, 카론소 호수 주변에 흩어진 결계석 4개를 찾아야 하는 ‘파괴된 호수의 결계석’ 의뢰가 열립니다. 목표 지점은 표시되지만 결계석이 우물 아래나... ",
@@ -265,15 +274,6 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 메아리 절벽 고대유적 퍼즐 풀기 공략",
-      "summary": "오늘은 붉은사막 에르난지 지역에 위치한 '메아리 절벽 고대유적' 퍼즐 공략을 정리해 드릴려고 합니다. 이번 퍼즐은 바둑판 모양의 격자 돌판 위에서 지정된 문양들을 순서대로 찾아가는 일종의 동선 찾기... ",
-      "link": "https://blog.naver.com/cera9608/224377678870",
-      "source": "블로그",
-      "author": "산빼데쓰의 플스게임 아카이브",
-      "date": "20260828",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -325,7 +325,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
+      "thumb": null
     },
     {
       "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
@@ -346,15 +346,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
     },
     {
-      "title": "붉은사막/보스 - 나무위키",
-      "summary": "실제로 붉은사막에서 실질적인 재미를 느낄 수 있는 구간이기도 하다. 소위 말하는 억까 패턴으로 물약 스팸을 유도하는 것이 아닌 정석적인 공략이 가능하게끔 만들어져 있고 페이즈마다 색다른 패턴을 선보여... ",
-      "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EB%B3%B4%EC%8A%A4",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
-    },
-    {
       "title": "붉은사막 | 오픈월드 액션 어드벤처 - Pearl Abyss",
       "summary": "힘을 되찾아, 한계를 넘어서다. 지금, 여러분의 여정이 시작됩니다.",
       "link": "https://crimsondesert.pearlabyss.com/",
@@ -362,6 +353,15 @@
       "author": null,
       "date": null,
       "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/8877b8d99a620250925065605708.jpg"
+    },
+    {
+      "title": "붉은사막/보스 - 나무위키",
+      "summary": "실제로 붉은사막에서 실질적인 재미를 느낄 수 있는 구간이기도 하다. 소위 말하는 억까 패턴으로 물약 스팸을 유도하는 것이 아닌 정석적인 공략이 가능하게끔 만들어져 있고 페이즈마다 색다른 패턴을 선보여... ",
+      "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EB%B3%B4%EC%8A%A4",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
     },
     {
       "title": "[붉은사막 공략 ⑧] 담금질 심화편, 장비 최종 강화까지 ‘순쉬운 파밍’",
@@ -400,15 +400,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
-      "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
-    },
-    {
       "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302691",
@@ -416,6 +407,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
+    },
+    {
+      "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
     },
     {
       "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
@@ -472,6 +472,15 @@
       "thumb": null
     },
     {
+      "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
+      "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
+      "link": "https://www.inven.co.kr/board/crimson/6511/354",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+    },
+    {
       "title": "새소식 - 붉은사막",
       "summary": "패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스)",
       "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
@@ -490,13 +499,22 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
     },
     {
-      "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
-      "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
-      "link": "https://www.inven.co.kr/board/crimson/6511/354",
+      "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
+      "summary": "붉은사막 유적 · 퍼즐 공략 모음 공지입니다 (26.04.03)[ㄱ]🔗강철 산맥의 유적 공략🔗거석 왕관 공략🔗검은장벽 유적🔗그림자숲 어비스 표석 퍼즐🔗그레이스 영지 해맞이 평야 기믹🔗고대인의 틈 큐브 3종🔗고독의 ....",
+      "link": "https://www.inven.co.kr/board/crimson/6511/260",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
+    },
+    {
+      "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
+      "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
+      "link": "https://www.fmkorea.com/9624081887",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
     },
     {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
@@ -515,24 +533,6 @@
       "author": null,
       "date": null,
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA1MDVfNTkg/MDAxNzc3OTE0OTU2MTk0.4P8UgxMJpv1vMrGuLoJE6HbKp1aCd-dUIcyys1pZ3Sog.FyTz5RjeYVdMjXDHTE1At2bxljTCQwYJWemq368r5_Mg.PNG/fab2.png?type=w700"
-    },
-    {
-      "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
-      "summary": "붉은사막 유적 · 퍼즐 공략 모음 공지입니다 (26.04.03)[ㄱ]🔗강철 산맥의 유적 공략🔗거석 왕관 공략🔗검은장벽 유적🔗그림자숲 어비스 표석 퍼즐🔗그레이스 영지 해맞이 평야 기믹🔗고대인의 틈 큐브 3종🔗고독의 ....",
-      "link": "https://www.inven.co.kr/board/crimson/6511/260",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
-    },
-    {
-      "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
-      "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
-      "link": "https://www.fmkorea.com/9624081887",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
     },
     {
       "title": "붉은사막 전설 무기 종결 양손검, 활 입수 방법 공략",
