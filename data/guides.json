@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-11T15:52:04.675Z",
+  "updatedAt": "2026-09-11T20:26:19.400Z",
   "count": 90,
   "guides": [
     {
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
     },
     {
       "title": "붉은사막 초반에 도움 되는 팁, 공략, 가이드 모음",
@@ -325,7 +325,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
     },
     {
       "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
@@ -463,18 +463,18 @@
       "thumb": "https://nspxgame.com/wp-content/uploads/2026/04/2026-04-12_Vp5zdZvdFfkGgcThjm.jpg"
     },
     {
-      "title": "붉은사막/업데이트",
-      "summary": "개요 주요 업데이트: 출시 이후의 여정 붉은사막의 업데이트를 정리해 놓은 문서. 2. 2026년 3월 2.1. 1.00.02 (3월 20일) 패치노트 버전 1.00.02 - 2026년 3월 20일 진행 퀘스트 챕터 3 시작 구간에 어비스 기어를 보다... ",
-      "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
-    },
-    {
       "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
       "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
       "link": "https://www.inven.co.kr/board/crimson/6511/354",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+    },
+    {
+      "title": "붉은사막/업데이트",
+      "summary": "개요 주요 업데이트: 출시 이후의 여정 붉은사막의 업데이트를 정리해 놓은 문서. 2. 2026년 3월 2.1. 1.00.02 (3월 20일) 패치노트 버전 1.00.02 - 2026년 3월 20일 진행 퀘스트 챕터 3 시작 구간에 어비스 기어를 보다... ",
+      "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8",
       "source": "웹문서",
       "author": null,
       "date": null,
@@ -505,7 +505,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
       "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
