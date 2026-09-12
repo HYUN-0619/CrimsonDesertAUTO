@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-12T03:07:08.168Z",
+  "updatedAt": "2026-09-12T10:05:49.346Z",
   "count": 90,
   "guides": [
     {
@@ -373,15 +373,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302738_304712_177.png"
     },
     {
-      "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
-    },
-    {
       "title": "[붉은사막 공략 EX] 최고난도 보스 원한다면, ‘압도적인 존재’에 도전하자",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 지난 이야기를 통",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302959",
@@ -398,6 +389,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
+    },
+    {
+      "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
       "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
@@ -487,7 +487,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
+      "thumb": null
     },
     {
       "title": "새소식 - 붉은사막",
