@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-13T03:09:02.108Z",
+  "updatedAt": "2026-09-13T11:05:27.329Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은사막 세력 의뢰 '타리브 소서러' 공략, 생명의 조각·안티쿰 처....",
+      "summary": "붉은사막 데메니스 지역 타리브 소서러 세력 의뢰는 수호나무의 빛을 되살리고, 진실의 문에서... 별자리의 정확한 위치와 관찰 방법은 아래 공략을 참고하세요. 산 정상의 빛의 기둥 고대 유적의 비밀을... ",
+      "link": "https://blog.naver.com/travous/224410260576",
+      "source": "블로그",
+      "author": "게임어바웃",
+      "date": "20260913",
+      "thumb": null
+    },
     {
       "title": "붉은사막 별의 검 얻는법, 별자리 13개 위치와 관측 방법 총정리",
       "summary": "기록’ 공략에서 자세히 확인할 수 있습니다. 붉은사막 별자리 관측 방법 별자리는 밤이 아니어도... 코끼리 자리 위치: 델레시아 뱀꼬리 장벽, 인근 어비스 표석 북동쪽 관측 방법: 뱀꼬리처럼 굽은 붉은 바위길... ",
@@ -265,15 +274,6 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 탐욕의 열매 풀리는 실마리 정답 공략",
-      "summary": "붉은사막 탐욕의 열매 풀리는 실마리 정답 공략 안녕하세요 게임 블로거 제이메르입니다. 붉은사막 - 붉은모래 농장 지역 의뢰 '탐욕의 열매'는 사막 수박이 지속해서 사라지는 사건을 해결해야 하는 추리형... ",
-      "link": "https://blog.naver.com/zeimer/224395818310",
-      "source": "블로그",
-      "author": "제이메르의 게임 이야기",
-      "date": "20260831",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
     },
     {
       "title": "붉은사막 초반에 도움 되는 팁, 공략, 가이드 모음",
@@ -400,15 +400,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
-      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
-      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
-      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
-    },
-    {
       "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
@@ -416,6 +407,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
+    },
+    {
+      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
+      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
+      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
     },
     {
       "title": "[붉은사막 공략 EX] 3분에 600실버 벌기?! ‘붉은 사막’, 도박 콘텐츠 속임수 적....",
@@ -460,7 +460,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
     },
     {
       "title": "붉은사막/업데이트",
