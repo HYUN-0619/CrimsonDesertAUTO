@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-13T11:05:27.329Z",
+  "updatedAt": "2026-09-13T15:36:41.687Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은사막 위안의 성소 공략 안툼브라의 지팡이 보스전",
+      "summary": "이번 붉은사막 공략은 이전과 마찬가지로 '바리' 파트인데요. 다른 성소들과 특별한 차이점은 없으나 이번 위안의 성소 해방을 위해서는 안툼브라의 지팡이와 보스전을 치러야 합니다. 공격력이 상당히 강한... ",
+      "link": "https://blog.naver.com/webdeveloping/224410570638",
+      "source": "블로그",
+      "author": "아 오늘 금요일인 줄 알았네",
+      "date": "20260913",
+      "thumb": null
+    },
     {
       "title": "붉은사막 세력 의뢰 '타리브 소서러' 공략, 생명의 조각·안티쿰 처....",
       "summary": "붉은사막 데메니스 지역 타리브 소서러 세력 의뢰는 수호나무의 빛을 되살리고, 진실의 문에서... 별자리의 정확한 위치와 관찰 방법은 아래 공략을 참고하세요. 산 정상의 빛의 기둥 고대 유적의 비밀을... ",
@@ -265,15 +274,6 @@
       "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png"
     },
     {
-      "title": "붉은사막 혜안의 탑 퍼즐 공략 정답 알려드림",
-      "summary": "그럼, 지금부터 붉은사막 혜안의 탑 퍼즐 공략과 함께 1~3층 정답까지 자세히 알려드리겠습니다. 붉은사막 혜안의 탑 위치와 입구 들어가는 방법 혜안의 탑 위치는 지도에 표시된 STEEL MOUNTAINS 글자에서 북서쪽... ",
-      "link": "https://blog.naver.com/dekiruho123/224396977132",
-      "source": "블로그",
-      "author": "호야는 게임중",
-      "date": "20260901",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -496,7 +496,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
       "title": "새소식 - 붉은사막",
