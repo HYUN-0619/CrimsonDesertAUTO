@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-13T20:19:16.585Z",
+  "updatedAt": "2026-09-14T03:22:01.384Z",
   "count": 90,
   "guides": [
     {
@@ -346,15 +346,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
     },
     {
-      "title": "붉은사막 | 오픈월드 액션 어드벤처 - Pearl Abyss",
-      "summary": "힘을 되찾아, 한계를 넘어서다. 지금, 여러분의 여정이 시작됩니다.",
-      "link": "https://crimsondesert.pearlabyss.com/",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/8877b8d99a620250925065605708.jpg"
-    },
-    {
       "title": "붉은사막/보스 - 나무위키",
       "summary": "실제로 붉은사막에서 실질적인 재미를 느낄 수 있는 구간이기도 하다. 소위 말하는 억까 패턴으로 물약 스팸을 유도하는 것이 아닌 정석적인 공략이 가능하게끔 만들어져 있고 페이즈마다 색다른 패턴을 선보여... ",
       "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EB%B3%B4%EC%8A%A4",
@@ -362,6 +353,15 @@
       "author": null,
       "date": null,
       "thumb": null
+    },
+    {
+      "title": "붉은사막 | 오픈월드 액션 어드벤처 - Pearl Abyss",
+      "summary": "힘을 되찾아, 한계를 넘어서다. 지금, 여러분의 여정이 시작됩니다.",
+      "link": "https://crimsondesert.pearlabyss.com/",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/8877b8d99a620250925065605708.jpg"
     },
     {
       "title": "[붉은사막 공략 ⑧] 담금질 심화편, 장비 최종 강화까지 ‘순쉬운 파밍’",
@@ -400,15 +400,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
-      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
-      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
-      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
-    },
-    {
       "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
@@ -416,6 +407,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
+    },
+    {
+      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
+      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
+      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
     },
     {
       "title": "[붉은사막 공략 EX] 3분에 600실버 벌기?! ‘붉은 사막’, 도박 콘텐츠 속임수 적....",
