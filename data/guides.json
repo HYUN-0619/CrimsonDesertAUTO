@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-15T16:14:40.862Z",
+  "updatedAt": "2026-09-15T20:52:08.261Z",
   "count": 90,
   "guides": [
     {
@@ -319,15 +319,6 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 공략 - Unisquads",
-      "summary": "붉은사막은 광활한 피웰 대륙을 배경으로 전투, 탐험, 퍼즐, 장비 수집을 함께 다루는 오픈월드 액션 어드벤처 게임이다. 이 공략 모음은 초반 진행부터 장비 획득, 퍼즐 풀이, 보스전, 탐험 수집 요소까지 한곳에서 확인....",
-      "link": "https://unisquads.io/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89%20%EA%B3%B5%EB%9E%B5",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
-    },
-    {
       "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302890",
@@ -335,6 +326,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
+    },
+    {
+      "title": "붉은사막 공략 - Unisquads",
+      "summary": "붉은사막은 광활한 피웰 대륙을 배경으로 전투, 탐험, 퍼즐, 장비 수집을 함께 다루는 오픈월드 액션 어드벤처 게임이다. 이 공략 모음은 초반 진행부터 장비 획득, 퍼즐 풀이, 보스전, 탐험 수집 요소까지 한곳에서 확인....",
+      "link": "https://unisquads.io/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89%20%EA%B3%B5%EB%9E%B5",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
     },
     {
       "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
@@ -391,6 +391,15 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
     },
     {
+      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
+      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
+      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
+    },
+    {
       "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
@@ -409,13 +418,13 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
-      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
-      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
-      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
+      "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302691",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
     },
     {
       "title": "[붉은사막 공략 EX] 3분에 600실버 벌기?! ‘붉은 사막’, 도박 콘텐츠 속임수 적....",
@@ -427,13 +436,13 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202604/303149_305462_4843.jpg"
     },
     {
-      "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
+      "title": "[붉은사막 공략 ③] 본격적인 모험의 시간, ‘용병단’ 재건 필수",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302691",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302635",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302635_304478_550.png"
     },
     {
       "title": "붉은사막 초반부 막히는 구간 공략 모음",
@@ -452,15 +461,6 @@
       "author": null,
       "date": null,
       "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
-    },
-    {
-      "title": "[붉은사막 공략 ③] 본격적인 모험의 시간, ‘용병단’ 재건 필수",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302635",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302635_304478_550.png"
     },
     {
       "title": "[붉은사막 공략 ②] 생활의 기초, 채광·사냥·채집 ‘일상 그 자체’",
@@ -526,15 +526,6 @@
       "thumb": "https://cdn.playforum.net/news/photo/202603/634060_62173_3410.jpg"
     },
     {
-      "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
-      "summary": "붉은사막 도약의 탑, 하늘길 작동시키기, 킬덴항아리 퍼즐 공략 모음입니다. 자세한 공략이 궁금하신 분은 '블로그에서 더보기'를 누르면 확인할 수 있습니다.",
-      "link": "https://in.naver.com/hoyagame/topic/948692258707648",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA1MDVfNTkg/MDAxNzc3OTE0OTU2MTk0.4P8UgxMJpv1vMrGuLoJE6HbKp1aCd-dUIcyys1pZ3Sog.FyTz5RjeYVdMjXDHTE1At2bxljTCQwYJWemq368r5_Mg.PNG/fab2.png?type=w700"
-    },
-    {
       "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
       "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
       "link": "https://www.fmkorea.com/9624081887",
@@ -542,6 +533,15 @@
       "author": null,
       "date": null,
       "thumb": null
+    },
+    {
+      "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
+      "summary": "붉은사막 도약의 탑, 하늘길 작동시키기, 킬덴항아리 퍼즐 공략 모음입니다. 자세한 공략이 궁금하신 분은 '블로그에서 더보기'를 누르면 확인할 수 있습니다.",
+      "link": "https://in.naver.com/hoyagame/topic/948692258707648",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA1MDVfNTkg/MDAxNzc3OTE0OTU2MTk0.4P8UgxMJpv1vMrGuLoJE6HbKp1aCd-dUIcyys1pZ3Sog.FyTz5RjeYVdMjXDHTE1At2bxljTCQwYJWemq368r5_Mg.PNG/fab2.png?type=w700"
     },
     {
       "title": "붉은사막 공략게시글 왜 삭제됫을까요 ? ㅠㅠ",
