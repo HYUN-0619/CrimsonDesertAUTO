@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-16T03:19:32.565Z",
+  "updatedAt": "2026-09-16T10:51:01.056Z",
   "count": 90,
   "guides": [
+    {
+      "title": "[\"붉은사막공략+모험일지공략\" / \"지식\",\"수중동물\",\"대형바닷물고기\"....",
+      "summary": "#붉은사막 #붉은사막공략 #붉은사막모험일지공략 #붉은사막수중동물 #붉은사마대형참돔 #붉은사막돛새치 #붉은사막철갑상어 #붉은사막낚시 #붉은사막통발 #붉은사막지식습득 #붉은사막NPC #붉은사막NPC리세",
+      "link": "https://blog.naver.com/hunja05/224413628269",
+      "source": "블로그",
+      "author": "썸머집사 훈자의 하루하루",
+      "date": "20260916",
+      "thumb": null
+    },
     {
       "title": "붉은사막 위안의 성소 공략 안툼브라의 지팡이 보스전",
       "summary": "이번 붉은사막 공략은 이전과 마찬가지로 '바리' 파트인데요. 다른 성소들과 특별한 차이점은 없으나 이번 위안의 성소 해방을 위해서는 안툼브라의 지팡이와 보스전을 치러야 합니다. 공격력이 상당히 강한... ",
@@ -265,15 +274,6 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 최고의 어비스 기어 공략 - 성능별 핵심 장비 및 획득처 가....",
-      "summary": "붉은사막에서 게임 플레이를 최적화하기 위해 필수적으로 얻어야 하는 최고의 어비스 기어 목록을 안내해 드립니다. 각 장비 슬롯에 장착할 수 있는 최고의 어비스 기어와 그 강력한 효과를 지금 바로 확인해... ",
-      "link": "https://techpost.tistory.com/742",
-      "source": "블로그",
-      "author": "테크포스트",
-      "date": "20260902",
-      "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png"
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -334,7 +334,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
+      "thumb": null
     },
     {
       "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
@@ -391,15 +391,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
     },
     {
-      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
-    },
-    {
       "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
       "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
       "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
@@ -409,13 +400,13 @@
       "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
     },
     {
-      "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
+      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
     },
     {
       "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
@@ -425,6 +416,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
+    },
+    {
+      "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
       "title": "[붉은사막 공략 EX] 3분에 600실버 벌기?! ‘붉은 사막’, 도박 콘텐츠 속임수 적....",
@@ -463,15 +463,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
     },
     {
-      "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
-      "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
-      "link": "https://www.inven.co.kr/board/crimson/6511/354",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
-    },
-    {
       "title": "붉은사막 공략 및 팁 정리",
       "summary": "이 글은 붉은사막 (Crimson Desert) 공략 및 팁에 대해 정리하고 있습니다. 붉은 사막의 메인 의뢰(메인 퀘스트), 세력 의뢰, 각종 유니크 장비와 수집품들의 위치, 그외 게임플레이에 도움이 될만한 각종 팁들을 한곳에 모아 ....",
       "link": "https://nspxgame.com/crimson-desert/41860/",
@@ -479,6 +470,15 @@
       "author": null,
       "date": null,
       "thumb": "https://nspxgame.com/wp-content/uploads/2026/04/2026-04-12_Vp5zdZvdFfkGgcThjm.jpg"
+    },
+    {
+      "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
+      "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
+      "link": "https://www.inven.co.kr/board/crimson/6511/354",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
     },
     {
       "title": "붉은사막/업데이트",
