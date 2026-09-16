@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-16T16:07:25.084Z",
+  "updatedAt": "2026-09-16T20:52:35.556Z",
   "count": 90,
   "guides": [
     {
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
+      "thumb": null
     },
     {
       "title": "붉은사막 초반에 도움 되는 팁, 공략, 가이드 모음",
@@ -319,15 +319,6 @@
       "thumb": null
     },
     {
-      "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302890",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
-    },
-    {
       "title": "붉은사막 공략 - Unisquads",
       "summary": "붉은사막은 광활한 피웰 대륙을 배경으로 전투, 탐험, 퍼즐, 장비 수집을 함께 다루는 오픈월드 액션 어드벤처 게임이다. 이 공략 모음은 초반 진행부터 장비 획득, 퍼즐 풀이, 보스전, 탐험 수집 요소까지 한곳에서 확인....",
       "link": "https://unisquads.io/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89%20%EA%B3%B5%EB%9E%B5",
@@ -344,6 +335,15 @@
       "author": null,
       "date": null,
       "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
+    },
+    {
+      "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302890",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
     },
     {
       "title": "붉은사막/보스 - 나무위키",
@@ -535,13 +535,13 @@
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA3MTBfNDcg/MDAxNzgzNjg1ODg0MTQ1.7GkYXGspQjBZI_CkSCJr9RSV3JrWbdDn_I9_QDpK2vwg.6NtB3CThsGt_OGTF9LN5EbIBfPvoTWfxcTrFLHkWabAg.PNG/a65b.png?type=w700"
     },
     {
-      "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
-      "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
-      "link": "https://www.fmkorea.com/9624081887",
+      "title": "[붉은사막 공략 ⑨] 글리치 혹은 ‘비기’, 공중 등반·전진 가속 ‘액션의 자유....",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302833",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302833_304867_054.gif"
     },
     {
       "title": "붉은사막 공략게시글 왜 삭제됫을까요 ? ㅠㅠ",
