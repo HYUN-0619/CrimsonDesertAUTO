@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-17T10:57:28.560Z",
+  "updatedAt": "2026-09-17T16:14:26.208Z",
   "count": 90,
   "guides": [
     {
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
+      "thumb": null
     },
     {
       "title": "붉은사막 초반에 도움 되는 팁, 공략, 가이드 모음",
@@ -391,15 +391,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
     },
     {
-      "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
-    },
-    {
       "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
@@ -407,6 +398,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
+    },
+    {
+      "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
       "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
@@ -478,7 +478,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+      "thumb": null
     },
     {
       "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
