@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-18T15:49:46.963Z",
+  "updatedAt": "2026-09-18T20:24:07.424Z",
   "count": 90,
   "guides": [
     {
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
     },
     {
       "title": "붉은사막 초반에 도움 되는 팁, 공략, 가이드 모음",
@@ -391,15 +391,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
     },
     {
-      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
-    },
-    {
       "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302691",
@@ -407,6 +398,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
+    },
+    {
+      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
     },
     {
       "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
@@ -478,7 +478,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
     },
     {
       "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
@@ -523,16 +523,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
-    },
-    {
-      "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
-      "summary": "펄어비스의 오픈월드 액션 어드벤처 '붉은사막'은 유저들의 두뇌와 도전정신을 자극하는 고난이도 퍼즐로 무장했다.상세한 가이드가 없어 퍼즐을 해결했을 때의 쾌감도 크",
-      "link": "https://www.playforum.net/news/articleView.html?idxno=634060",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.playforum.net/news/photo/202603/634060_62173_3410.jpg"
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
       "title": "붉은사막 전설 무기 종결 양손검, 활 입수 방법 공략",
@@ -542,6 +533,15 @@
       "author": null,
       "date": null,
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA3MTBfNDcg/MDAxNzgzNjg1ODg0MTQ1.7GkYXGspQjBZI_CkSCJr9RSV3JrWbdDn_I9_QDpK2vwg.6NtB3CThsGt_OGTF9LN5EbIBfPvoTWfxcTrFLHkWabAg.PNG/a65b.png?type=w700"
+    },
+    {
+      "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
+      "summary": "펄어비스의 오픈월드 액션 어드벤처 '붉은사막'은 유저들의 두뇌와 도전정신을 자극하는 고난이도 퍼즐로 무장했다.상세한 가이드가 없어 퍼즐을 해결했을 때의 쾌감도 크",
+      "link": "https://www.playforum.net/news/articleView.html?idxno=634060",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.playforum.net/news/photo/202603/634060_62173_3410.jpg"
     },
     {
       "title": "붉은사막 공략게시글 왜 삭제됫을까요 ? ㅠㅠ",
