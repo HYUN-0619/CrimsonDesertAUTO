@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-20T03:24:06.867Z",
+  "updatedAt": "2026-09-20T10:37:32.124Z",
   "count": 90,
   "guides": [
     {
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
     },
     {
       "title": "붉은사막 정보공략 모음 2693 업데이트",
@@ -391,15 +391,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
     },
     {
-      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
-      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
-      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
-    },
-    {
       "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302691",
@@ -407,6 +398,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
+    },
+    {
+      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
+      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
+      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
     },
     {
       "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
@@ -487,7 +487,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
     },
     {
       "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
@@ -514,7 +514,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
