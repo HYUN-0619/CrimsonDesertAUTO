@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-21T12:00:15.996Z",
+  "updatedAt": "2026-09-21T18:11:09.617Z",
   "count": 90,
   "guides": [
     {
@@ -289,7 +289,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/column/2026/03/17/news/i1961372091.png"
     },
     {
       "title": "붉은사막 정보공략 모음 2693 업데이트",
@@ -436,15 +436,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202604/303149_305462_4843.jpg"
     },
     {
-      "title": "붉은사막 초반부 막히는 구간 공략 모음",
-      "summary": "붉은사막 초반부 막히는 구간 공략 모음입니다. 아직 익숙해지지 않는 초반부라 공략을 보면서 익히시면 더 빨리 적응하실 수 있을 것입니다. 공략이 없으면 풀기 어려운 것들 위주로 모아보았습니다.",
-      "link": "https://in.naver.com/meonmoong/topic/935011679332640",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://influencer-phinf.pstatic.net/MjAyNjAzMjdfMjE4/MDAxNzc0NTc1MDAxMDgx.QQRdnRx5tpvljeIOu9Sog975jY6aD6zI1wVeOxdM19Ag.RBUOui-VQ17sP4miOo707DwgrQft76O4SpXZspi5gcUg.PNG/67ad.png?type=w700"
-    },
-    {
       "title": "붉은사막 공략 및 팁 정리",
       "summary": "이 글은 붉은사막 (Crimson Desert) 공략 및 팁에 대해 정리하고 있습니다. 붉은 사막의 메인 의뢰(메인 퀘스트), 세력 의뢰, 각종 유니크 장비와 수집품들의 위치, 그외 게임플레이에 도움이 될만한 각종 팁들을 한곳에 모아 ....",
       "link": "https://nspxgame.com/crimson-desert/41860/",
@@ -463,13 +454,22 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302569_304374_834.png"
     },
     {
+      "title": "붉은사막 초반부 막히는 구간 공략 모음",
+      "summary": "붉은사막 초반부 막히는 구간 공략 모음입니다. 아직 익숙해지지 않는 초반부라 공략을 보면서 익히시면 더 빨리 적응하실 수 있을 것입니다. 공략이 없으면 풀기 어려운 것들 위주로 모아보았습니다.",
+      "link": "https://in.naver.com/meonmoong/topic/935011679332640",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://influencer-phinf.pstatic.net/MjAyNjAzMjdfMjE4/MDAxNzc0NTc1MDAxMDgx.QQRdnRx5tpvljeIOu9Sog975jY6aD6zI1wVeOxdM19Ag.RBUOui-VQ17sP4miOo707DwgrQft76O4SpXZspi5gcUg.PNG/67ad.png?type=w700"
+    },
+    {
       "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
       "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
       "link": "https://www.inven.co.kr/board/crimson/6511/354",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
     },
     {
       "title": "[공략] 붉은사막 기술 아무거나 찍었다가 아티팩트 날렸다고?",
@@ -514,7 +514,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
       "title": "새소식 - 붉은사막",
@@ -542,6 +542,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.playforum.net/news/photo/202603/634060_62173_3410.jpg"
+    },
+    {
+      "title": "다시할지 고민하다 결국 굴뚝 청소를 했습니다",
+      "summary": "붉은 사막 많이 개선되었다고 해서 처음부터 다시 하는 중입니다. 스토리도 조금 보완된 것 같고 퍼즐도 간소화된 것 같은 느낌이 들어요. 처음할 때는 공략도 보지 않고 굴뚝 청소만 1시간 하면서 욕했던 기억이 있는데... ",
+      "link": "https://cafe.naver.com/ps3friend/2349557",
+      "source": "카페",
+      "author": "PS5와 친구들 [PS/PS5/VR/PS5PRO/PRO/플스/플레이스테이션/프로]",
+      "date": null,
+      "thumb": null
     },
     {
       "title": "붉은사막 공략게시글 왜 삭제됫을까요 ? ㅠㅠ",
@@ -799,15 +808,6 @@
       "title": "붉은사막 음식 종결템 삼계탕 : 새고기 국물요리 무한생산 방법(집마카페 ....",
       "summary": "사전조건 - 캠프 확장으로 집과 우물이 있어야함 - 재료 중 소금은 무한파밍이 안되는데 각 지역 채소상인에게 구매 : 12시 자정에 리젠됨 *이 요리만 있다면 보스도 손쉽고 회복 연달아 안해도 되죠!! 종결이라... ",
       "link": "https://cafe.naver.com/zipmunity/10482",
-      "source": "카페",
-      "author": "[집뮤니티] 유튜버 집마 홀릭이 만든 게임 소통 커뮤니티",
-      "date": null,
-      "thumb": null
-    },
-    {
-      "title": "붉은사막 희귀템 산삼 무한파밍 방법(용기 레벨업에 중요)",
-      "summary": "산삼 캐기->어비스 순간이동 후 다시오면 리젠 *공략은 제가 테스트 해보고 올리고 있습니다. - 씨앗을 심어라.. 이런 공략이 대부분이지만 이렇게 쉽게 수급할 수 있습니다. 일단 여기 어비스를 활성화 시켜줍니다 산삼은... ",
-      "link": "https://cafe.naver.com/zipmunity/10480",
       "source": "카페",
       "author": "[집뮤니티] 유튜버 집마 홀릭이 만든 게임 소통 커뮤니티",
       "date": null,
