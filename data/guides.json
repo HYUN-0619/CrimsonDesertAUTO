@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-22T03:18:38.566Z",
+  "updatedAt": "2026-09-22T10:58:09.695Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은사막 초보자 공략｜처음 시작할 때 꼭 알아야 할 전투·성장·탐....",
+      "summary": "붉은사막을 처음 시작하면 생각보다 익혀야 할 시스템이 많습니다.... 오늘은 붉은사막을 처음 시작하는 분들을 위해 전투 기본기·심연의... ※ 본문은 2026년 9월 22일 기준 붉은사막 버전 2.03.01과 공개된 게임... ",
+      "link": "https://blog.naver.com/neoncat_playlab/224419887814",
+      "source": "블로그",
+      "author": "네온캣 플레이랩",
+      "date": "20260922",
+      "thumb": null
+    },
     {
       "title": "[붉은사막모험일지공략/\"붉은사막대형민물고기위치 \"(붉은사막전기....",
       "summary": "마지막으로 민물고기 도감에서 제일 어려웠던 \"전기뱀장어\" \"붉은호수\" 마녀집 호수에서 잡힌다고... #붉은사막공략 #붉은사막수중동물 #붉은사막전기뱀장어 #붉은사막거대미꾸라지 #붉은사막피라냐... ",
@@ -265,15 +274,6 @@
       "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png"
     },
     {
-      "title": "붉은사막 숲의 아이들 공략, 아라·발란·알더·플로리안 샤이 위치 ....",
-      "summary": "붉은사막에서 포로린 숲 지킴이 세력 퀘스트를 진행하다 보면 ’숲의... 발란 위치 - 아름다운 사막 두 번째 샤이 발란은 아라에 비하면 비교적 쉽게 찾을 수 있습니다. 발란이 있는 곳은 타슈칼프 지역의 붉은... ",
-      "link": "https://blog.naver.com/travous/224400167216",
-      "source": "블로그",
-      "author": "게임어바웃",
-      "date": "20260903",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -325,7 +325,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
     },
     {
       "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
@@ -400,15 +400,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
     },
     {
-      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
-      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
-      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
-    },
-    {
       "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
@@ -416,6 +407,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
+    },
+    {
+      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
+      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
+      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
     },
     {
       "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
