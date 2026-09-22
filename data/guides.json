@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-22T10:58:09.695Z",
+  "updatedAt": "2026-09-22T16:16:27.784Z",
   "count": 90,
   "guides": [
+    {
+      "title": "[붉은사막모험일지공략/\"붉은사막비행동물공략\"\"붉은사막도감작\"]",
+      "summary": "\"들새\"종류에서는 사막 쪽 마찬가지로 포탈 반복타기로 \"노랑부리소등쪼기새\" 때려잡고 의외로 \"물새... #붉은사막공략 #붉은사막도감작 #붉은사막모험일지 #붉은사막비행동물 #붉은사막물새 #붉은사막맹금류... ",
+      "link": "https://blog.naver.com/hunja05/224420184847",
+      "source": "블로그",
+      "author": "썸머집사 훈자의 하루하루",
+      "date": "20260922",
+      "thumb": null
+    },
     {
       "title": "붉은사막 초보자 공략｜처음 시작할 때 꼭 알아야 할 전투·성장·탐....",
       "summary": "붉은사막을 처음 시작하면 생각보다 익혀야 할 시스템이 많습니다.... 오늘은 붉은사막을 처음 시작하는 분들을 위해 전투 기본기·심연의... ※ 본문은 2026년 9월 22일 기준 붉은사막 버전 2.03.01과 공개된 게임... ",
@@ -265,15 +274,6 @@
       "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png"
     },
     {
-      "title": "붉은사막 초반 탐험 공략 - 반드시 방문해야 할 장소 추천",
-      "summary": "붉은사막의 광활한 피웰 대륙을 탐험할 때, 초반에 특정 장소들을 미리 방문하면 유용한 전리품과 자원을 얻어 탐험을 훨씬 수월하게 진행할 수 있습니다. 게임 시작 직후 반드시 들러야 할 최고의 장소들을... ",
-      "link": "https://techpost.tistory.com/753",
-      "source": "블로그",
-      "author": "테크포스트",
-      "date": "20260903",
-      "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Ftistory_admin%2Fstatic%2Fimages%2FopenGraph%2Fopengraph.png"
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -445,15 +445,6 @@
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjAzMjdfMjE4/MDAxNzc0NTc1MDAxMDgx.QQRdnRx5tpvljeIOu9Sog975jY6aD6zI1wVeOxdM19Ag.RBUOui-VQ17sP4miOo707DwgrQft76O4SpXZspi5gcUg.PNG/67ad.png?type=w700"
     },
     {
-      "title": "새소식 - 붉은사막",
-      "summary": "패치 노트 버전 2.03.01 (전 플랫폼 핫픽스) ; 알려진 문제점 ; 패치노트 2.03.00 ; 패치노트 2.02.00 ; 패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스) ; 패치 노트 버전 2.00.....",
-      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
-    },
-    {
       "title": "붉은사막 공략 및 팁 정리",
       "summary": "이 글은 붉은사막 (Crimson Desert) 공략 및 팁에 대해 정리하고 있습니다. 붉은 사막의 메인 의뢰(메인 퀘스트), 세력 의뢰, 각종 유니크 장비와 수집품들의 위치, 그외 게임플레이에 도움이 될만한 각종 팁들을 한곳에 모아 ....",
       "link": "https://nspxgame.com/crimson-desert/41860/",
@@ -488,6 +479,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.gamey.kr/news/thumbnail/202603/3016519_162058_2229_v150.jpg"
+    },
+    {
+      "title": "새소식 - 붉은사막",
+      "summary": "패치 노트 버전 2.03.01 (전 플랫폼 핫픽스) ; 알려진 문제점 ; 패치노트 2.03.00 ; 패치노트 2.02.00 ; 패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.02 (전 플랫폼 핫픽스) ; 패치 노트 버전 2.00.....",
+      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
     },
     {
       "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
