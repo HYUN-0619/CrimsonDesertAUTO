@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-25T03:25:35.639Z",
+  "updatedAt": "2026-09-25T11:08:29.861Z",
   "count": 90,
   "guides": [
     {
@@ -481,15 +481,6 @@
       "thumb": "https://cdn.gameple.co.kr/news/photo/202603/215251_243664_4632.jpg"
     },
     {
-      "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
-      "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
-      "link": "https://www.inven.co.kr/board/crimson/6511/354",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
-    },
-    {
       "title": "새소식 - 붉은사막",
       "summary": "패치 노트 버전 2.03.02 (전 플랫폼 핫픽스) ; 패치 노트 버전 2.03.01 (전 플랫폼 핫픽스) ; 알려진 문제점 ; 패치노트 2.03.00 ; 패치노트 2.02.00 ; 패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.....",
       "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
@@ -497,6 +488,15 @@
       "author": null,
       "date": null,
       "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
+    },
+    {
+      "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
+      "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
+      "link": "https://www.inven.co.kr/board/crimson/6511/354",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
     },
     {
       "title": "붉은사막/업데이트",
