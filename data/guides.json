@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-27T11:24:22.681Z",
+  "updatedAt": "2026-09-27T16:23:49.257Z",
   "count": 90,
   "guides": [
     {
@@ -382,15 +382,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
     },
     {
-      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
-    },
-    {
       "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
@@ -398,6 +389,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
+    },
+    {
+      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
     },
     {
       "title": "[붉은사막 공략 ⑧] 담금질 심화편, 장비 최종 강화까지 ‘순쉬운 파밍’",
@@ -505,7 +505,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
     },
     {
       "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
