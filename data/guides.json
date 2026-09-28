@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-09-27T20:52:37.706Z",
+  "updatedAt": "2026-09-28T03:38:35.296Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은사막 혹한의 탑 퀘스트 깨는법 및 획득 아이템",
+      "summary": "게임 블로거 산빼데쓰입니다~ 오늘은 붉은사막에서 어비스 타락의 통로 관문인 '혹한의 탑' 퀘스트 공략을 가져와 봤습니다. 이번 퀘스트는 진행 방식 자체는 그리 어렵지 않지만, 위치 감각이 없으면 탑 내부와... ",
+      "link": "https://blog.naver.com/cera9608/224415828055",
+      "source": "블로그",
+      "author": "산빼데쓰의 플스게임 아카이브",
+      "date": "20260928",
+      "thumb": null
+    },
     {
       "title": "붉은사막 참회의 성소 공략 해방 및 정화 바리 파트 마무리",
       "summary": "붉은사막 | 참회의 성소 공략 | 해방 및 정화 방법, 바리 파트 마무리 안녕하세요! 게임 인플루언서... 바리는 실버 울프 마운틴 아랫쪽 '붉은 호수'에 위치해 있습니다. 이미 한 번쯤은 가보신 곳일텐데요.... ",
@@ -265,15 +274,6 @@
       "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FekIc8H%2FdJMb99OnhvV%2FAAAAAAAAAAAAAAAAAAAAAB482dPriPqP3o61bVBdImMyF3n6FFFMBaz-vQzdg8vu%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1790780399%26allow_ip%3D%26allow_referer%3D%26signature%3D1N92dle%252FrFeZIF7Hz9FOxH20dDU%253D"
     },
     {
-      "title": "붉은사막 캐릭터별 최고 방어구 공략 - 세트 효과 및 획득 가이드",
-      "summary": "붉은사막의 각 캐릭터에게 장착할 수 있는 최고의 방어구 세트 목록입니다. 클리프 최고 방어구 세트... 제작 팁: 이 방어구 세트는 델레시아와 붉은사막 전역을 탐험하며 특정 설계도를 수집한 후... ",
-      "link": "https://techpost.tistory.com/752",
-      "source": "블로그",
-      "author": "테크포스트",
-      "date": "20260903",
-      "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FUiOeH%2FdJMcab6BOCw%2FAAAAAAAAAAAAAAAAAAAAAMS6SbgdWJlF5fkKiCMPcfLdMh4kWb1_eLg_ctrgJhJh%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1790780399%26allow_ip%3D%26allow_referer%3D%26signature%3Dsf4bVoSTxIje3NBF1Y5suPdgGVc%253D"
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -325,25 +325,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
-    },
-    {
-      "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302890",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
-    },
-    {
-      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
-      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
-      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
+      "thumb": null
     },
     {
       "title": "붉은사막/보스 - 나무위키",
@@ -353,6 +335,15 @@
       "author": null,
       "date": null,
       "thumb": null
+    },
+    {
+      "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302890",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
     },
     {
       "title": "[붉은사막 공략 EX] 최고난도 보스 원한다면, ‘압도적인 존재’에 도전하자",
@@ -371,6 +362,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
+    },
+    {
+      "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
+      "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
+      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
     },
     {
       "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
@@ -463,15 +463,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302635_304478_550.png"
     },
     {
-      "title": "새소식 - 붉은사막",
-      "summary": "패치 노트 버전 2.03.02 (전 플랫폼 핫픽스) ; 패치 노트 버전 2.03.01 (전 플랫폼 핫픽스) ; 알려진 문제점 ; 패치노트 2.03.00 ; 패치노트 2.02.00 ; 패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.....",
-      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
-    },
-    {
       "title": "붉은사막 공략 및 팁 정리",
       "summary": "이 글은 붉은사막 (Crimson Desert) 공략 및 팁에 대해 정리하고 있습니다. 붉은 사막의 메인 의뢰(메인 퀘스트), 세력 의뢰, 각종 유니크 장비와 수집품들의 위치, 그외 게임플레이에 도움이 될만한 각종 팁들을 한곳에 모아 ....",
       "link": "https://nspxgame.com/crimson-desert/41860/",
@@ -479,6 +470,15 @@
       "author": null,
       "date": null,
       "thumb": "https://nspxgame.com/wp-content/uploads/2026/04/2026-04-12_Vp5zdZvdFfkGgcThjm.jpg"
+    },
+    {
+      "title": "새소식 - 붉은사막",
+      "summary": "패치 노트 버전 2.03.02 (전 플랫폼 핫픽스) ; 패치 노트 버전 2.03.01 (전 플랫폼 핫픽스) ; 알려진 문제점 ; 패치노트 2.03.00 ; 패치노트 2.02.00 ; 패치 노트 버전 2.01.00 ; 미지의 여정 DLC 예약 구매 관련 안내 ; 패치 노트 버전 2.00.....",
+      "link": "https://crimsondesert.pearlabyss.com/ko-KR/News/Notice",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://static.pearlcdn.com/asset/brand/cd/contents_cd/img/meta/default.jpg"
     },
     {
       "title": "붉은사막/업데이트",
@@ -505,16 +505,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
-    },
-    {
-      "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
-      "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
-      "link": "https://www.inven.co.kr/board/crimson/6511/354",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
       "title": "[붉은사막 공략 ②] 생활의 기초, 채광·사냥·채집 ‘일상 그 자체’",
@@ -542,6 +533,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.playforum.net/news/photo/202603/634060_62173_3410.jpg"
+    },
+    {
+      "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
+      "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
+      "link": "https://www.fmkorea.com/9624081887",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
     },
     {
       "title": "다시할지 고민하다 결국 굴뚝 청소를 했습니다",
