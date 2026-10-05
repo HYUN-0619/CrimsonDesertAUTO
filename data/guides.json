@@ -1,8 +1,80 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-10-05T04:02:38.232Z",
+  "updatedAt": "2026-10-05T13:36:00.111Z",
   "count": 90,
   "guides": [
+    {
+      "title": "블루 아카이브 현상수배 2배 공략｜BD·기술 노트 어디부터 파밍할까....",
+      "summary": "고가도로 → 게헨나 · 산해경 · 발키리 · 하이랜더 사막 기찻길 → 트리니티 · 백귀야행 · 아리우스 교실 → 밀레니엄 · 아비도스 · 붉은겨울 · 와일드헌트 관련 스킬 성장 재료와 오파츠를 획득할 수... ",
+      "link": "https://blog.naver.com/lys020207/224432257263",
+      "source": "블로그",
+      "author": "류도의 게임로그",
+      "date": "20261005",
+      "thumb": null
+    },
+    {
+      "title": "76. 용과같이 극2 리뷰 : 이렇게 재밌는게 넘쳐나는데~",
+      "summary": "특별히 공략집을 요구하지 않는다는 데에 있습니다. 구작에 해당되는 3,4,5를 해보면 어디로 가서 무엇을 구해야하는지 공략을 보지 않으면 찾기 어렵게 만들어 가볍게 즐겨야할 서브 퀘스트를 불쾌하게 만든게... ",
+      "link": "https://blog.naver.com/qltlf642/224432189585",
+      "source": "블로그",
+      "author": "게임 리뷰 제작소",
+      "date": "20261005",
+      "thumb": null
+    },
+    {
+      "title": "기어스 오브 워 E-Day 공략 초보 무기 추천 호드 시즈 직업 PC 사양",
+      "summary": "초보 공략, 엄폐와 이동부터 기본은 시리즈 특유의 엄폐 기반 TPS입니다. 이번에는 기존... 이번 공략의 핵심 포인트 3가지 엄폐와 슬라이드, 숄더 스왑 등 새로운 이동 방식 활용 교전 거리에... ",
+      "link": "https://blog.naver.com/jjsabu/224432181887",
+      "source": "블로그",
+      "author": "짱사부",
+      "date": "20261005",
+      "thumb": null
+    },
+    {
+      "title": "[스팀출시예정] 붉은사막  DLC : 미지의 여정 출시 정보와",
+      "summary": "본편 붉은사막(Enhanced 업데이트 적용) 보유 필수(79,800원) 권장 사양 Ryzen 5 5600 / i5-11600K, RX 6700 XT / RTX... 게임인가 붉은사막 본편의 첫 유료 DLC입니다. 기존 파이웰 대륙을 벗어나 배를 타고 바다의 섬을... ",
+      "link": "https://blog.naver.com/simsimhadani/224432157862",
+      "source": "블로그",
+      "author": "simsimlab",
+      "date": "20261005",
+      "thumb": null
+    },
+    {
+      "title": "붉은사막 게임팁",
+      "summary": "gl/ko #붉은사막 #CrimsonDesert #붉은사막공략 #붉은사막게임팁 #붉은사막초보 #붉은사막초보공략 #붉은사막팁 #붉은사막스킬 #붉은사막장비 #붉은사막어비스 #어비스아티팩트 #붉은사막기력 #붉은사막전투... ",
+      "link": "https://blog.naver.com/alpha_gamer/224432061508",
+      "source": "블로그",
+      "author": "알파게이머의 해보고 싶은게임",
+      "date": "20261005",
+      "thumb": null
+    },
+    {
+      "title": "3박4일 울룰루여행 1일차 붉은사막 도착 필드오브라이트 투어가요",
+      "summary": "저는 왜인지 모르게 사막에 늘 가고 싶었던 사람입니다, 어릴때 미국여행을 갔을때 불의계곡에 다녀와서 그런지 웃기게도 붉은 사막에 대한 노스텔지아가 늘 은은하게 자리했던 것 같아요. 그래서 붉은 흙... ",
+      "link": "https://blog.naver.com/nakedprosciutto/224431981276",
+      "source": "블로그",
+      "author": "여행합니다람쥐️",
+      "date": "20261005",
+      "thumb": null
+    },
+    {
+      "title": "붉은사막 DLC 미지의 여정 출시일 연기, 가격·할인·예약 특전 정리",
+      "summary": "사막에 드리운 불길한 기운과 정치적 갈등, 시간을 초월한 여정, 해저에 잠든 고대의 비밀을 다루는 이야기가 파이웰 곳곳에서 펼쳐집니다. 4. 붉은사막 DLC 예약 구매 특전 예약 구매자는 클리프·웅카... ",
+      "link": "https://blog.naver.com/travous/224431890096",
+      "source": "블로그",
+      "author": "게임어바웃",
+      "date": "20261005",
+      "thumb": null
+    },
+    {
+      "title": "gta6 출시일 전 게임 추천. 플레이스테이션5 프로 놀고 있다면?",
+      "summary": "마지막으로 붉은사막입니다. 스토리 빼고 타격감, 그래픽 모두 챙긴 게임인데요. 붉은사막은 펄어비스가 개발한 오픈월드 액션 어드벤처로, 전쟁으로 분열된 파이웰 대륙과 용병 클리프의 생존기를 다룹니다.... ",
+      "link": "https://blog.naver.com/blackwz/224431935967",
+      "source": "블로그",
+      "author": "블랙의 게임 앤 라이프",
+      "date": "20261005",
+      "thumb": null
+    },
     {
       "title": "붉은사막 PC판이 완전히 달라졌다? 4만8천 개 오브젝트 월드 에디터 ....",
       "summary": "붉은사막 PC판에서 상당히 흥미로운 모드가 등장했습니다. 이름은 ‘World Builder’. 쉽게 말하면 붉은사막의 거대한 오픈월드 안에... 그렇다면 붉은사막 PC판이 이제 정말 샌드박스 게임처럼 바뀌는 걸까요?... ",
@@ -49,15 +121,6 @@
       "thumb": null
     },
     {
-      "title": "마인크래프트 10월4일 최신 쿠폰 공략 이번 변화는 체감부터 다릅니....",
-      "summary": "52 버전과 Wilderness Bound, 오로라 망토 코드, 초반 생존 공략을... 포플러나무 주변에는 붉은 관목과 낙엽, 선반버섯이 생성됩니다.... 전리품 상자에서는 고대 도시, 폐광, 사막 피라미드, 따뜻한 바다 폐허... ",
-      "link": "https://blog.naver.com/liilllilililiii/224431354326",
-      "source": "블로그",
-      "author": "루엔 공략저장소",
-      "date": "20261004",
-      "thumb": null
-    },
-    {
       "title": "붉은사막 데미안 황금 광휘 세트 공략, 방어구·광휘의 방패·리베리....",
       "summary": "황금 광휘 판금 망토 위치 망토는 붉은 새벽 마을에서 가장 높은 탑 꼭대기의 상자에 있습니다. 탑을... 붉은사막 지역의 푸른 낙원 오아시스로 이동합니다. 오아시스 북쪽에서 아래로 내려가는 구덩이를... ",
       "link": "https://blog.naver.com/travous/224431342976",
@@ -81,15 +144,6 @@
       "link": "https://blog.naver.com/jeans276/224427197401",
       "source": "블로그",
       "author": "난이 블로그",
-      "date": "20261004",
-      "thumb": null
-    },
-    {
-      "title": "루미 마스터 10월4일 최신 쿠폰 공략 기다린 보람이 있네요｜Peach Cat ....",
-      "summary": "정글과 사막, 화산을 돌아다니며 수백 종의 루미를 포획하고 진화시키는 몬스터 테이밍 RPG예요. 불... 티어표만 보고 한 마리를 고르기보다 속성 빈자리와 실제 편성 목적을 먼저 보는 것이 이번 공략의... ",
-      "link": "https://blog.naver.com/liilllilililiii/224431084475",
-      "source": "블로그",
-      "author": "루엔 공략저장소",
       "date": "20261004",
       "thumb": null
     },
@@ -220,60 +274,6 @@
       "thumb": null
     },
     {
-      "title": "젤다 시간의 오카리나 사전예약 시작, 판매처마다 특전이 다르다는....",
-      "summary": "반면 시간의 오카리나는 전 세계 게이머들에게 추억으로 자리 잡은 고전의 귀환이라는 점에서, 서로 다른 매력으로 각자의 팬층을 공략할 것이라는 전망이 많습니다. 또한 비슷한 시기 펄어비스의 붉은사막... ",
-      "link": "https://blog.naver.com/ahenekdurl/224429487909",
-      "source": "블로그",
-      "author": "모두 다 여기",
-      "date": "20261002",
-      "thumb": null
-    },
-    {
-      "title": "PS5® 붉은사막! 기록물 - 벽에 새겨진 기록 지식작 공략 영상!",
-      "summary": "PS5® 붉은사막! 기록물 - 벽에 새겨진 기록 지식작 공략 영상! 영상이 보이지 않을 때 : https://www.youtube.com/watch?v=izgP_trVDDM 해당 영상은 기록물 - 벽에 새겨진 기록 - 벽화 17개의 공략 영상입니다.... ",
-      "link": "https://blog.naver.com/ekakqhrauscl/224429472999",
-      "source": "블로그",
-      "author": "사신청룡의 잡다한 블로그",
-      "date": "20261002",
-      "thumb": null
-    },
-    {
-      "title": "[함양스카이뷰CC 1박2일 골프패키지] 지리산 단풍 뷰 36홀 라운드 및 ....",
-      "summary": "프리미엄골프 사막여우입니다🦊 오늘은 함양스카이뷰CC 1박2일 골프패키지 소식을 들고 여러분을... 지점을 공략하는 세심한 클럽 선택이 요구됩니다. 그린 언듈레이션도 매끄럽게 잘 형성되어 있어서... ",
-      "link": "https://premiumgolf.tistory.com/4935",
-      "source": "블로그",
-      "author": "프리미엄골프 골프투어 & 골프회원권",
-      "date": "20261002",
-      "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FuSbKP%2FdJMcadp3WK1%2FAAAAAAAAAAAAAAAAAAAAAF_aXrXvfl14-ucnBm802KzkLgHL4VUGruDfEplqmM1Z%2Ftfile.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3D6pKImX3D4hCf3pWWD91V4Pf28gU%253D"
-    },
-    {
-      "title": "메이플 플래닛 에반출시!! 사냥터.스킬 등 육성법 이벤트까지 이 글 ....",
-      "summary": "아리안트 사막 퀘스트와 사냥 병행 42~50 커닝스퀘어 퀘스트 사헬지대 2, 마가티아 연구소 B-3 여러... 미나르숲: 붉은 켄타우로스의 영역 리프레 와이번 지역 브레스 활용, 몬스터 속성 확인 108~200 미나르숲... ",
-      "link": "https://blog.naver.com/game-changgo/224429337198",
-      "source": "블로그",
-      "author": "게임 창고 : 게임 다이어리",
-      "date": "20261002",
-      "thumb": null
-    },
-    {
-      "title": "엔씨소프트 & 펄어비스 주가, 미래 게임 판도를 바꿀 핵심은?",
-      "summary": "펄어비스는 '검은사막' IP의 글로벌 확장과 더불어, 현재 개발 중인 신작들의 성과가 주가에 큰 영향을... 환율 변동성은 물론이고, 각 국가별 시장의 특성과 이용자들의 성향을 얼마나 잘 파악하고 공략하는지가... ",
-      "link": "https://blog.naver.com/enddltm7/224427811449",
-      "source": "블로그",
-      "author": "붉은황소 투자 전망",
-      "date": "20261002",
-      "thumb": null
-    },
-    {
-      "title": "2026-10-02 아침 뉴스 브리핑",
-      "summary": "────────────────────────────── ■ 정치 ◆ 이재명 대통령, 국군의날 기념사에서 전작권 환수·대북 대화 복원 촉구 이재명 대통령은 제78주년... ",
-      "link": "https://blog.naver.com/hanyjuny/224429010800",
-      "source": "블로그",
-      "author": "불꽃남자",
-      "date": "20261002",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -355,15 +355,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302738_304712_177.png"
     },
     {
-      "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
-    },
-    {
       "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
       "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
       "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
@@ -400,13 +391,13 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302959_305110_428.jpg"
     },
     {
-      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
+      "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
     },
     {
       "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
@@ -416,6 +407,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
+    },
+    {
+      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
     },
     {
       "title": "[붉은사막 공략 EX] 3분에 600실버 벌기?! ‘붉은 사막’, 도박 콘텐츠 속임수 적....",
@@ -454,15 +454,6 @@
       "thumb": "https://cdn.gamey.kr/news/thumbnail/202603/3016519_162058_2229_v150.jpg"
     },
     {
-      "title": "붉은사막 공략 및 팁 정리",
-      "summary": "이 글은 붉은사막 (Crimson Desert) 공략 및 팁에 대해 정리하고 있습니다. 붉은 사막의 메인 의뢰(메인 퀘스트), 세력 의뢰, 각종 유니크 장비와 수집품들의 위치, 그외 게임플레이에 도움이 될만한 각종 팁들을 한곳에 모아 ....",
-      "link": "https://nspxgame.com/crimson-desert/41860/",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://nspxgame.com/wp-content/uploads/2026/04/2026-04-12_Vp5zdZvdFfkGgcThjm.jpg"
-    },
-    {
       "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
       "summary": "붉은사막 도약의 탑, 하늘길 작동시키기, 킬덴항아리 퍼즐 공략 모음입니다. 자세한 공략이 궁금하신 분은 '블로그에서 더보기'를 누르면 확인할 수 있습니다.",
       "link": "https://in.naver.com/hoyagame/topic/948692258707648",
@@ -470,6 +461,15 @@
       "author": null,
       "date": null,
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA1MDVfNTkg/MDAxNzc3OTE0OTU2MTk0.4P8UgxMJpv1vMrGuLoJE6HbKp1aCd-dUIcyys1pZ3Sog.FyTz5RjeYVdMjXDHTE1At2bxljTCQwYJWemq368r5_Mg.PNG/fab2.png?type=w700"
+    },
+    {
+      "title": "붉은사막 공략 및 팁 정리",
+      "summary": "이 글은 붉은사막 (Crimson Desert) 공략 및 팁에 대해 정리하고 있습니다. 붉은 사막의 메인 의뢰(메인 퀘스트), 세력 의뢰, 각종 유니크 장비와 수집품들의 위치, 그외 게임플레이에 도움이 될만한 각종 팁들을 한곳에 모아 ....",
+      "link": "https://nspxgame.com/crimson-desert/41860/",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://nspxgame.com/wp-content/uploads/2026/04/2026-04-12_Vp5zdZvdFfkGgcThjm.jpg"
     },
     {
       "title": "붉은사막/업데이트",
@@ -508,15 +508,6 @@
       "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
-      "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
-      "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
-      "link": "https://www.fmkorea.com/9624081887",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
-    },
-    {
       "title": "붉은사막 초반 퍼즐 고대 유적 어비스 흔적 동력핵 공략 모음",
       "summary": "붉은사막 초반에 등장하는 퍼즐 균형을 잃은 어비스 흔적 동력핵 활성화 방법과 고대 유적 비밀 풀기 퀘스트 공략 모음입니다. 자세한 공략은 '블로그에서 더보기'를 누르면 확인 할 수 있습니다.",
       "link": "https://in.naver.com/hoyagame/topic/940906642622688",
@@ -524,6 +515,15 @@
       "author": null,
       "date": null,
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA0MTNfMjM2/MDAxNzc2MDE0MDY2OTYx.msvzN7XkbBw0_k1ac_JAacsUrsFaRK3EzVABRl3q264g.cs_AOgU-Ddr8iCK2pljAZduw89ZKt2bPPHyq1gUSfw0g.PNG/ad98.png?type=w700"
+    },
+    {
+      "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
+      "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
+      "link": "https://www.fmkorea.com/9624081887",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
     },
     {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
@@ -540,6 +540,15 @@
       "link": "https://crimson.inven.co.kr/dataninfo/guide/?bidx=314917",
       "source": "웹문서",
       "author": null,
+      "date": null,
+      "thumb": null
+    },
+    {
+      "title": "[정리] GTA6 피해 출시일 옮긴 게임들｜페이블 2027년 2월 공식 · 포르자 호라....",
+      "summary": "③ 붉은사막 등 다른 게임은 회사가 GTA6를 언급한 적 없어요 — 매체 추측이에요 ■ 게임별 정리 • 페이블 — 2027.2.23 · Xbox 맷 부티 \"자기만의 출시 창이 필요\" (공식, GTA6 등 대작 언급) • 포르자... ",
+      "link": "https://cafe.naver.com/kimsere/30749",
+      "source": "카페",
+      "author": "GTA6 대한민국 대표 커뮤니티 | GTA VI COMMUNITY",
       "date": null,
       "thumb": null
     },
@@ -801,15 +810,6 @@
       "link": "https://cafe.naver.com/tmxk9999/82420",
       "source": "카페",
       "author": "괴공카",
-      "date": null,
-      "thumb": null
-    },
-    {
-      "title": "붉은사막 하차합니다..",
-      "summary": "초반이긴 한데.. (메인의뢰 뜻밖의 선물, 혼란의 에르난드 진행 중) 너무 복잡하고 어려워요 ㅠ 전투가 어렵다기 보다는 너무 방대하고, 기술도 너무 많고, 아이템 같은 것도.. 해야 할 것도 너무 많고 조작법도 어렵고.. 뭐가... ",
-      "link": "https://cafe.naver.com/ps3friend/2348106",
-      "source": "카페",
-      "author": "PS5와 친구들 [PS/PS5/VR/PS5PRO/PRO/플스/플레이스테이션/프로]",
       "date": null,
       "thumb": null
     }
