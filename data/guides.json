@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-10-10T16:58:07.160Z",
+  "updatedAt": "2026-10-10T21:09:39.908Z",
   "count": 90,
   "guides": [
     {
@@ -382,15 +382,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
-      "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
-    },
-    {
       "title": "[붉은사막 공략 EX] 최고난도 보스 원한다면, ‘압도적인 존재’에 도전하자",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 지난 이야기를 통",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302959",
@@ -398,6 +389,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302959_305110_428.jpg"
+    },
+    {
+      "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302646",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
     },
     {
       "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
@@ -517,15 +517,6 @@
       "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
     },
     {
-      "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
-      "summary": "붉은사막 유적 · 퍼즐 공략 모음 공지입니다 (26.04.03)[ㄱ]🔗강철 산맥의 유적 공략🔗거석 왕관 공략🔗검은장벽 유적🔗그림자숲 어비스 표석 퍼즐🔗그레이스 영지 해맞이 평야 기믹🔗고대인의 틈 큐브 3종🔗고독의 ....",
-      "link": "https://www.inven.co.kr/board/crimson/6511/260",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
-    },
-    {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
       "summary": "펄어비스의 오픈월드 액션 어드벤처 '붉은사막'은 유저들의 두뇌와 도전정신을 자극하는 고난이도 퍼즐로 무장했다.상세한 가이드가 없어 퍼즐을 해결했을 때의 쾌감도 크",
       "link": "https://www.playforum.net/news/articleView.html?idxno=634060",
@@ -533,6 +524,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.playforum.net/news/photo/202603/634060_62173_3410.jpg"
+    },
+    {
+      "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
+      "summary": "붉은사막 유적 · 퍼즐 공략 모음 공지입니다 (26.04.03)[ㄱ]🔗강철 산맥의 유적 공략🔗거석 왕관 공략🔗검은장벽 유적🔗그림자숲 어비스 표석 퍼즐🔗그레이스 영지 해맞이 평야 기믹🔗고대인의 틈 큐브 3종🔗고독의 ....",
+      "link": "https://www.inven.co.kr/board/crimson/6511/260",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
       "title": "패치 노트 버전 2.00.00",
