@@ -1,8 +1,26 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-10-15T10:51:38.367Z",
+  "updatedAt": "2026-10-15T16:18:33.578Z",
   "count": 90,
   "guides": [
+    {
+      "title": "600만 장 돌파 '붉은사막' 굳히기냐, '아이온2'·넷마블 반격이냐",
+      "summary": "초대형 흥행 아이온2, 글로벌 공략으로 역전 노린다 이러한 붉은사막의 독주를 위협하는 대표적인 대항마는 엔씨소프트의 아이온2다. 지난해 11월 출시된 아이온2는 단 46일 만에 누적 매출 1000억 원을... ",
+      "link": "https://blog.naver.com/3rdangle/224443079094",
+      "source": "블로그",
+      "author": "서드앵글",
+      "date": "20261015",
+      "thumb": null
+    },
+    {
+      "title": "26년 출시 게임 메타크리틱 점수 TOP 10",
+      "summary": "무조건 성공할거라고 예상했던 울버린이나 기대작 중 하나였던 사로스가 실패했고, 전에 없던 엔진으로 엄청난 그래픽과 최적화를 보여줬던 붉은사막이 점수 공개 초기엔 망했다고 조롱받다가... ",
+      "link": "https://blog.naver.com/daybreakdoor/224443005115",
+      "source": "블로그",
+      "author": "너굴랭의 게임 기록실",
+      "date": "20261015",
+      "thumb": null
+    },
     {
       "title": "엘's 붉은사막 DLC 미지의 여정, 무엇이 달라질까? 출시일 변경부터 ....",
       "summary": "붉은사막 DLC 미지의 여정, 무엇이 달라질까? 붉은사막을 즐겼던 분들이라면 반가울 소식이 있다.... 붉은사막 DLC 출시일, 10월 30일로 변경! 먼저 출시 일정부터 확인하자. 당초 10월 16일 출시 예정이었지만... ",
@@ -256,24 +274,6 @@
       "thumb": null
     },
     {
-      "title": "게임 『플래닛 주 2』에서의 첫 동물들과 생물 지리구",
-      "summary": "1758) 붉은사슴 Red deer Cervus elaphus Linnaeus, 1758 멧돼지 Wild boar Sus scrofa Linnaeus... 1758) 사막뿔살무사 Desert horned viper Cerastes cerastes (Linnaeus, 1758) 불도롱뇽 Fire... ",
-      "link": "https://blog.naver.com/jason475/224440829056",
-      "source": "블로그",
-      "author": "Panthera Sanctuary",
-      "date": "20261014",
-      "thumb": null
-    },
-    {
-      "title": "“Are you Crazy?!”",
-      "summary": "개인적으로 코만도스 1과 코만도스 2만 클리어했고, 너무 오래전이라 공략같은 건 기억에 많이... 북아프리카 사막이나 유럽의 특정 들판 미션에 진입하면 사방이 보이지 않는 지뢰밭이라, 인간... ",
-      "link": "https://blog.naver.com/seongah0707/224440793754",
-      "source": "블로그",
-      "author": "프롤로그's",
-      "date": "20261013",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -337,6 +337,15 @@
       "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
     },
     {
+      "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
+      "summary": "붉은사막 초보 공략으로, 메인 스토리 중심 진행과 장비 강화, 자원 수급, 이동 팁까지 초반에 필요한 내용을 한 번에 정리했다.",
+      "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-beginner-guide.html",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
+    },
+    {
       "title": "[붉은사막 공략 ⑧] 담금질 심화편, 장비 최종 강화까지 ‘순쉬운 파밍’",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302738",
@@ -380,15 +389,6 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
-    },
-    {
-      "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
-      "summary": "붉은사막 초보 공략으로, 메인 스토리 중심 진행과 장비 강화, 자원 수급, 이동 팁까지 초반에 필요한 내용을 한 번에 정리했다.",
-      "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-beginner-guide.html",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
     },
     {
       "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
@@ -508,15 +508,6 @@
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjAzMjdfMjE4/MDAxNzc0NTc1MDAxMDgx.QQRdnRx5tpvljeIOu9Sog975jY6aD6zI1wVeOxdM19Ag.RBUOui-VQ17sP4miOo707DwgrQft76O4SpXZspi5gcUg.PNG/67ad.png?type=w700"
     },
     {
-      "title": "코앞에 숨겼다고? 붉은사막 마을에서 찾은 '전설 방패'",
-      "summary": "전 세계 회색갈기들의 무한 탐험이 파이웰 대륙을 밝힌다. 펄어비스 신작 '붉은사막'이 출시 후 장기 흥행을 이어나가고 있다. 출시 12일 만에 판매량 400만을 넘었고, 3주가 지난 현재도 스팀 글로벌 인기 4위에 머무르며 ....",
-      "link": "https://www.gameple.co.kr/news/articleView.html?idxno=215361",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.gameple.co.kr/news/photo/202604/215361_243964_4141.jpg"
-    },
-    {
       "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
       "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
       "link": "https://www.inven.co.kr/board/crimson/6511/354",
@@ -524,6 +515,15 @@
       "author": null,
       "date": null,
       "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+    },
+    {
+      "title": "코앞에 숨겼다고? 붉은사막 마을에서 찾은 '전설 방패'",
+      "summary": "전 세계 회색갈기들의 무한 탐험이 파이웰 대륙을 밝힌다. 펄어비스 신작 '붉은사막'이 출시 후 장기 흥행을 이어나가고 있다. 출시 12일 만에 판매량 400만을 넘었고, 3주가 지난 현재도 스팀 글로벌 인기 4위에 머무르며 ....",
+      "link": "https://www.gameple.co.kr/news/articleView.html?idxno=215361",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.gameple.co.kr/news/photo/202604/215361_243964_4141.jpg"
     },
     {
       "title": "쾌적한 붉은사막을 위한 챕터 3,4 퍼즐 가이드",
