@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-10-15T16:18:33.578Z",
+  "updatedAt": "2026-10-15T20:55:52.436Z",
   "count": 90,
   "guides": [
     {
@@ -100,7 +100,7 @@
       "source": "블로그",
       "author": "남인우 서울시장후보,고조선남려왕, 조선개국공신 의령부원군남씨25대 남인우",
       "date": "20261015",
-      "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fck8NXg%2FdJMcacE7hIA%2FAAAAAAAAAAAAAAAAAAAAADoLpJa8s0oBxzY5u73-Xr3-36TtqfqOK3LRhOhpx1oH%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DQilDFzRNn%252BzjVg%252FWhLuCOCB%252B8PM%253D"
+      "thumb": null
     },
     {
       "title": "원신 vs 붉은사막 플스게임 뭐가 더 재밌을까 플스5 플레이스테이션5",
@@ -355,6 +355,15 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302738_304712_177.png"
     },
     {
+      "title": "붉은사막 인벤",
+      "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
+      "link": "https://crimson.inven.co.kr/",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
+    },
+    {
       "title": "붉은사막 전설 무기 종결 양손검, 활 입수 방법 공략",
       "summary": "이번 토픽은 붉은사막 전설 무기 종결 양손검과 활 입수 방법 공략입니다. 자세한 내용이 궁금하신 분은 '블로그에서 더보기'를 눌러 확인해 주세요.",
       "link": "https://in.naver.com/hoyagame/topic/972330898196864",
@@ -371,15 +380,6 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
-    },
-    {
-      "title": "붉은사막 인벤",
-      "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
-      "link": "https://crimson.inven.co.kr/",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
     },
     {
       "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
@@ -427,15 +427,6 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
     },
     {
-      "title": "[붉은사막 공략 EX] 최고난도 보스 원한다면, ‘압도적인 존재’에 도전하자",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 지난 이야기를 통",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302959",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302959_305110_428.jpg"
-    },
-    {
       "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
       "summary": "붉은사막 도약의 탑, 하늘길 작동시키기, 킬덴항아리 퍼즐 공략 모음입니다. 자세한 공략이 궁금하신 분은 '블로그에서 더보기'를 누르면 확인할 수 있습니다.",
       "link": "https://in.naver.com/hoyagame/topic/948692258707648",
@@ -452,6 +443,15 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202604/303149_305462_4843.jpg"
+    },
+    {
+      "title": "[붉은사막 공략 EX] 최고난도 보스 원한다면, ‘압도적인 존재’에 도전하자",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 지난 이야기를 통",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302959",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302959_305110_428.jpg"
     },
     {
       "title": "[붉은사막 공략 ③] 본격적인 모험의 시간, ‘용병단’ 재건 필수",
@@ -535,13 +535,22 @@
       "thumb": "https://cdn.playforum.net/news/photo/202603/634060_62173_3410.jpg"
     },
     {
-      "title": "[공략] 붉은사막 기술 아무거나 찍었다가 아티팩트 날렸다고?",
-      "summary": "펄어비스가 선보인 오픈 월드 액션 어드벤처 붉은사막에서 가장 많은 플레이어가 막히는 지점은 보스 공략이 아니라 기술 포인트 운용이다. 경험치도 없고 레벨업도 없는 붉은사막의 성장 구조는 기존 RPG와 완전히 다른....",
-      "link": "http://www.gamey.kr/news/articleView.html?idxno=3016519",
+      "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
+      "summary": "초반에 돈 500원과 양손검 환도 얻기: 4. 전설 말 3종 위치 및 쉽게 길들이기: 5. 붉은사막 그래픽 최적화 설정법 영상 글로 정리: https://www.fmkorea.com/9622885860 즐거운 붉은 사막 라이프 되시길~",
+      "link": "https://www.fmkorea.com/9624081887",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.gamey.kr/news/thumbnail/202603/3016519_162058_2229_v150.jpg"
+      "thumb": null
+    },
+    {
+      "title": "붉은사막 그리고 엘든링",
+      "summary": "----------------------------------------------------- 붉은사막은 이미 구매해서 완전 극초반인데 뭔가 스토리도 중구난방에 키도 좀 이상하게 되어있는것 같고 전투가 캐주얼하지 않고 날것의 느낌이라서 어려운것 같은데... ",
+      "link": "https://cafe.naver.com/playps4/295867",
+      "source": "카페",
+      "author": "PS5 공식플카페[PS5 프로 플스5 프로VR PS6 플레이스테이션5PRO]",
+      "date": null,
+      "thumb": null
     },
     {
       "title": "베가스 하드번들을 곁들인 평화와 힐링농장 2년차 겨울 20일-28일 (2년차끝)",
@@ -799,15 +808,6 @@
       "title": "다시할지 고민하다 결국 굴뚝 청소를 했습니다",
       "summary": "붉은 사막 많이 개선되었다고 해서 처음부터 다시 하는 중입니다. 스토리도 조금 보완된 것 같고 퍼즐도 간소화된 것 같은 느낌이 들어요. 처음할 때는 공략도 보지 않고 굴뚝 청소만 1시간 하면서 욕했던 기억이 있는데... ",
       "link": "https://cafe.naver.com/ps3friend/2349557",
-      "source": "카페",
-      "author": "PS5와 친구들 [PS/PS5/VR/PS5PRO/PRO/플스/플레이스테이션/프로]",
-      "date": null,
-      "thumb": null
-    },
-    {
-      "title": "잠시 쉬었던 플스 다시금 해볼까해서 중고 찾았습니다",
-      "summary": "(동생이 사줬습니다) 붉은 사막... 이거... 퍼즐에서 막혀서 공략보고 살짝 맛보기만 했네요 빛으로 뭐 튕기는 것인가 그거... 그거에서 오래 걸리더라고요ㅜ 역시 컨트롤이 빡신 붉사...ㅜ 플스 카페 가입해놓고... ",
-      "link": "https://cafe.naver.com/ps3friend/2349499",
       "source": "카페",
       "author": "PS5와 친구들 [PS/PS5/VR/PS5PRO/PRO/플스/플레이스테이션/프로]",
       "date": null,
