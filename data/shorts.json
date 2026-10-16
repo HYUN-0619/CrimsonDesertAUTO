@@ -1,7 +1,7 @@
 {
   "query": "#붉은사막 shorts",
   "durationLimitSec": 180,
-  "updatedAt": "2026-10-16T16:19:01.342Z",
+  "updatedAt": "2026-10-16T20:40:56.465Z",
   "count": 150,
   "videos": [
     {
@@ -10,7 +10,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-10-16T03:00:04Z",
       "thumb": "https://i.ytimg.com/vi/xfieaAj8OAU/hqdefault.jpg",
-      "views": 1362,
+      "views": 1447,
       "likes": 26,
       "durationSec": 59
     },
@@ -20,7 +20,7 @@
       "channel": "서드앵글",
       "publishedAt": "2026-10-15T22:00:15Z",
       "thumb": "https://i.ytimg.com/vi/QumqSyXyGhs/hqdefault.jpg",
-      "views": 969,
+      "views": 970,
       "likes": 3,
       "durationSec": 40
     },
@@ -30,8 +30,8 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-10-15T03:00:31Z",
       "thumb": "https://i.ytimg.com/vi/6RwG6u_S--c/hqdefault.jpg",
-      "views": 8132,
-      "likes": 64,
+      "views": 8534,
+      "likes": 67,
       "durationSec": 62
     },
     {
@@ -40,7 +40,7 @@
       "channel": "성꼬락",
       "publishedAt": "2026-10-14T13:36:41Z",
       "thumb": "https://i.ytimg.com/vi/ZLq1zrAju3k/hqdefault.jpg",
-      "views": 1536,
+      "views": 1553,
       "likes": 6,
       "durationSec": 34
     },
@@ -50,8 +50,8 @@
       "channel": "BanaMongki",
       "publishedAt": "2026-10-11T12:36:43Z",
       "thumb": "https://i.ytimg.com/vi/e_FctImq8MY/hqdefault.jpg",
-      "views": 24737,
-      "likes": 224,
+      "views": 25211,
+      "likes": 245,
       "durationSec": 48
     },
     {
@@ -60,7 +60,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-10-08T03:00:11Z",
       "thumb": "https://i.ytimg.com/vi/QgoK18FbI_c/hqdefault.jpg",
-      "views": 4235,
+      "views": 4259,
       "likes": 49,
       "durationSec": 117
     },
@@ -80,7 +80,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-10-06T03:00:02Z",
       "thumb": "https://i.ytimg.com/vi/hKVgHfMAqGA/hqdefault.jpg",
-      "views": 3949,
+      "views": 3952,
       "likes": 34,
       "durationSec": 124
     },
@@ -90,7 +90,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-10-05T03:00:30Z",
       "thumb": "https://i.ytimg.com/vi/GpdpfJEO9z8/hqdefault.jpg",
-      "views": 5098,
+      "views": 5103,
       "likes": 52,
       "durationSec": 89
     },
@@ -110,7 +110,7 @@
       "channel": "포동단",
       "publishedAt": "2026-10-02T08:30:16Z",
       "thumb": "https://i.ytimg.com/vi/VWCAT6CmxIs/hqdefault.jpg",
-      "views": 7345,
+      "views": 7355,
       "likes": 74,
       "durationSec": 69
     },
@@ -120,7 +120,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-28T08:30:02Z",
       "thumb": "https://i.ytimg.com/vi/Kf2KZcYEPWA/hqdefault.jpg",
-      "views": 10624,
+      "views": 10625,
       "likes": 127,
       "durationSec": 44
     },
@@ -130,7 +130,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-09-28T03:00:18Z",
       "thumb": "https://i.ytimg.com/vi/WG1lwm-jC0w/hqdefault.jpg",
-      "views": 4167,
+      "views": 4169,
       "likes": 53,
       "durationSec": 142
     },
@@ -140,7 +140,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-09-27T03:00:29Z",
       "thumb": "https://i.ytimg.com/vi/Bb2j-MfQmZk/hqdefault.jpg",
-      "views": 3462,
+      "views": 3464,
       "likes": 50,
       "durationSec": 123
     },
@@ -150,8 +150,8 @@
       "channel": "포동단",
       "publishedAt": "2026-09-25T08:30:04Z",
       "thumb": "https://i.ytimg.com/vi/l325-KBRK_0/hqdefault.jpg",
-      "views": 303575,
-      "likes": 2426,
+      "views": 303860,
+      "likes": 2428,
       "durationSec": 50
     },
     {
@@ -160,7 +160,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-24T08:30:16Z",
       "thumb": "https://i.ytimg.com/vi/-_TSTIkluwE/hqdefault.jpg",
-      "views": 6323,
+      "views": 6326,
       "likes": 28,
       "durationSec": 44
     },
@@ -170,7 +170,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-23T08:30:24Z",
       "thumb": "https://i.ytimg.com/vi/W4LL5q9ea6Q/hqdefault.jpg",
-      "views": 6729,
+      "views": 6734,
       "likes": 43,
       "durationSec": 23
     },
@@ -190,7 +190,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-21T08:30:06Z",
       "thumb": "https://i.ytimg.com/vi/Nos8cTDB7u4/hqdefault.jpg",
-      "views": 18479,
+      "views": 18509,
       "likes": 96,
       "durationSec": 46
     },
@@ -220,7 +220,7 @@
       "channel": "NinDol",
       "publishedAt": "2026-09-16T13:54:58Z",
       "thumb": "https://i.ytimg.com/vi/1JMSpKi9Pr8/hqdefault.jpg",
-      "views": 28084,
+      "views": 28098,
       "likes": 158,
       "durationSec": 34
     },
@@ -240,7 +240,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-09-14T03:00:09Z",
       "thumb": "https://i.ytimg.com/vi/GrxHZ5ipa08/hqdefault.jpg",
-      "views": 4937,
+      "views": 4938,
       "likes": 45,
       "durationSec": 67
     },
@@ -250,7 +250,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-13T08:30:31Z",
       "thumb": "https://i.ytimg.com/vi/FDkGRjOOMOg/hqdefault.jpg",
-      "views": 33166,
+      "views": 33258,
       "likes": 205,
       "durationSec": 53
     },
@@ -260,7 +260,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-09-13T03:00:26Z",
       "thumb": "https://i.ytimg.com/vi/p57wzdqnogw/hqdefault.jpg",
-      "views": 3861,
+      "views": 3864,
       "likes": 33,
       "durationSec": 54
     },
@@ -270,7 +270,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-12T08:30:14Z",
       "thumb": "https://i.ytimg.com/vi/12qMvmyl6Os/hqdefault.jpg",
-      "views": 26214,
+      "views": 26236,
       "likes": 178,
       "durationSec": 43
     },
@@ -290,7 +290,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-10T08:30:30Z",
       "thumb": "https://i.ytimg.com/vi/uF9Olw0HgH0/hqdefault.jpg",
-      "views": 36048,
+      "views": 36079,
       "likes": 174,
       "durationSec": 52
     },
@@ -340,7 +340,7 @@
       "channel": "포동단",
       "publishedAt": "2026-08-31T08:30:35Z",
       "thumb": "https://i.ytimg.com/vi/guALpNHpo54/hqdefault.jpg",
-      "views": 3415,
+      "views": 3417,
       "likes": 13,
       "durationSec": 18
     },
@@ -350,7 +350,7 @@
       "channel": "퇴근후플스",
       "publishedAt": "2026-08-13T21:45:36Z",
       "thumb": "https://i.ytimg.com/vi/d39bdUbOjSM/hqdefault.jpg",
-      "views": 18009,
+      "views": 18019,
       "likes": 233,
       "durationSec": 39
     },
@@ -360,8 +360,8 @@
       "channel": "낭플 NANGPLE",
       "publishedAt": "2026-07-31T10:07:21Z",
       "thumb": "https://i.ytimg.com/vi/WJdhjb_x8Dg/hqdefault.jpg",
-      "views": 765669,
-      "likes": 11406,
+      "views": 765735,
+      "likes": 11407,
       "durationSec": 38
     },
     {
@@ -370,7 +370,7 @@
       "channel": "선재림",
       "publishedAt": "2026-07-29T09:15:37Z",
       "thumb": "https://i.ytimg.com/vi/BuEBkaNeUYc/hqdefault.jpg",
-      "views": 1380,
+      "views": 1381,
       "likes": 18,
       "durationSec": 59
     },
@@ -450,7 +450,7 @@
       "channel": "퇴근후플스",
       "publishedAt": "2026-07-07T11:56:47Z",
       "thumb": "https://i.ytimg.com/vi/TnRvxL5cxw4/hqdefault.jpg",
-      "views": 5645,
+      "views": 5648,
       "likes": 73,
       "durationSec": 46
     },
@@ -580,7 +580,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-06-07T12:00:12Z",
       "thumb": "https://i.ytimg.com/vi/iKyqqJv2Lus/hqdefault.jpg",
-      "views": 2121,
+      "views": 2122,
       "likes": 49,
       "durationSec": 52
     },
@@ -590,7 +590,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-06-06T12:00:16Z",
       "thumb": "https://i.ytimg.com/vi/8-NPED9RJ1A/hqdefault.jpg",
-      "views": 2373,
+      "views": 2374,
       "likes": 40,
       "durationSec": 55
     },
@@ -630,7 +630,7 @@
       "channel": "심심할 때 보는 저장용",
       "publishedAt": "2026-06-02T13:53:43Z",
       "thumb": "https://i.ytimg.com/vi/VVA2QeZO4PE/hqdefault.jpg",
-      "views": 109194,
+      "views": 109198,
       "likes": 827,
       "durationSec": 38
     },
@@ -640,7 +640,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-06-02T12:00:01Z",
       "thumb": "https://i.ytimg.com/vi/dusJBWiQ5eg/hqdefault.jpg",
-      "views": 2783,
+      "views": 2784,
       "likes": 44,
       "durationSec": 51
     },
@@ -650,7 +650,7 @@
       "channel": "미미",
       "publishedAt": "2026-06-02T11:47:34Z",
       "thumb": "https://i.ytimg.com/vi/fjXsibNNXZg/hqdefault.jpg",
-      "views": 1946,
+      "views": 1950,
       "likes": 10,
       "durationSec": 25
     },
@@ -670,7 +670,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-31T12:00:11Z",
       "thumb": "https://i.ytimg.com/vi/UkIXgx9sRAA/hqdefault.jpg",
-      "views": 16129,
+      "views": 16133,
       "likes": 199,
       "durationSec": 53
     },
@@ -680,7 +680,7 @@
       "channel": "짧은플김",
       "publishedAt": "2026-05-31T05:05:35Z",
       "thumb": "https://i.ytimg.com/vi/ldt2Crgy0C8/hqdefault.jpg",
-      "views": 120774,
+      "views": 120783,
       "likes": 1177,
       "durationSec": 76
     },
@@ -690,7 +690,7 @@
       "channel": "볼레이",
       "publishedAt": "2026-05-30T13:00:04Z",
       "thumb": "https://i.ytimg.com/vi/SEe224MLOoU/hqdefault.jpg",
-      "views": 1980,
+      "views": 1985,
       "likes": 11,
       "durationSec": 19
     },
@@ -730,7 +730,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-29T12:00:14Z",
       "thumb": "https://i.ytimg.com/vi/Vrni3aEzTjw/hqdefault.jpg",
-      "views": 1735,
+      "views": 1736,
       "likes": 41,
       "durationSec": 38
     },
@@ -740,7 +740,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-28T12:00:29Z",
       "thumb": "https://i.ytimg.com/vi/YEnfh5XtQLA/hqdefault.jpg",
-      "views": 7476,
+      "views": 7477,
       "likes": 87,
       "durationSec": 58
     },
@@ -750,7 +750,7 @@
       "channel": "히아",
       "publishedAt": "2026-05-28T09:42:09Z",
       "thumb": "https://i.ytimg.com/vi/1-2itQ-Lk78/hqdefault.jpg",
-      "views": 3662,
+      "views": 3664,
       "likes": 27,
       "durationSec": 78
     },
@@ -770,7 +770,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-27T12:00:21Z",
       "thumb": "https://i.ytimg.com/vi/kTFo5Ko9IbU/hqdefault.jpg",
-      "views": 4191,
+      "views": 4192,
       "likes": 72,
       "durationSec": 58
     },
@@ -790,7 +790,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-25T12:00:38Z",
       "thumb": "https://i.ytimg.com/vi/LfCPmQ1F_9A/hqdefault.jpg",
-      "views": 23310,
+      "views": 23311,
       "likes": 241,
       "durationSec": 60
     },
@@ -810,7 +810,7 @@
       "channel": "겜도릭스",
       "publishedAt": "2026-05-25T01:32:45Z",
       "thumb": "https://i.ytimg.com/vi/r9L4g0FonJ8/hqdefault.jpg",
-      "views": 6816,
+      "views": 6820,
       "likes": 140,
       "durationSec": 78
     },
@@ -820,7 +820,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-24T12:00:39Z",
       "thumb": "https://i.ytimg.com/vi/ZofU44yu0QA/hqdefault.jpg",
-      "views": 7925,
+      "views": 7926,
       "likes": 96,
       "durationSec": 40
     },
@@ -860,7 +860,7 @@
       "channel": "임윤도",
       "publishedAt": "2026-05-23T04:00:02Z",
       "thumb": "https://i.ytimg.com/vi/EXWwpvec1no/hqdefault.jpg",
-      "views": 8870,
+      "views": 8875,
       "likes": 50,
       "durationSec": 26
     },
@@ -870,7 +870,7 @@
       "channel": "프렁픽",
       "publishedAt": "2026-05-23T03:07:03Z",
       "thumb": "https://i.ytimg.com/vi/G0aWJ4vlPlA/hqdefault.jpg",
-      "views": 22435,
+      "views": 22436,
       "likes": 0,
       "durationSec": 26
     },
@@ -900,7 +900,7 @@
       "channel": "붉게물들다",
       "publishedAt": "2026-05-21T03:00:23Z",
       "thumb": "https://i.ytimg.com/vi/Cai8kgRj5uA/hqdefault.jpg",
-      "views": 52557,
+      "views": 52585,
       "likes": 913,
       "durationSec": 69
     },
@@ -950,7 +950,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-19T12:00:46Z",
       "thumb": "https://i.ytimg.com/vi/XoKFx04AAcM/hqdefault.jpg",
-      "views": 4907,
+      "views": 4908,
       "likes": 71,
       "durationSec": 87
     },
@@ -980,7 +980,7 @@
       "channel": "소갈딱",
       "publishedAt": "2026-05-19T02:54:03Z",
       "thumb": "https://i.ytimg.com/vi/qIDSi2cW4LY/hqdefault.jpg",
-      "views": 6375,
+      "views": 6380,
       "likes": 44,
       "durationSec": 50
     },
@@ -1000,7 +1000,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-18T12:01:03Z",
       "thumb": "https://i.ytimg.com/vi/YrmMlFT_1ik/hqdefault.jpg",
-      "views": 3387,
+      "views": 3388,
       "likes": 36,
       "durationSec": 48
     },
@@ -1110,7 +1110,7 @@
       "channel": "졸리는라디오",
       "publishedAt": "2026-05-14T13:39:46Z",
       "thumb": "https://i.ytimg.com/vi/pwwIOwTDt2k/hqdefault.jpg",
-      "views": 2008,
+      "views": 2010,
       "likes": 37,
       "durationSec": 107
     },
@@ -1130,7 +1130,7 @@
       "channel": "카멜X레온",
       "publishedAt": "2026-05-14T10:00:45Z",
       "thumb": "https://i.ytimg.com/vi/UAwWuo0v0GA/hqdefault.jpg",
-      "views": 23898,
+      "views": 23899,
       "likes": 250,
       "durationSec": 48
     },
@@ -1160,7 +1160,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-13T12:01:37Z",
       "thumb": "https://i.ytimg.com/vi/urHBV9zk1Y0/hqdefault.jpg",
-      "views": 2668,
+      "views": 2669,
       "likes": 59,
       "durationSec": 59
     },
@@ -1200,7 +1200,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-12T12:01:05Z",
       "thumb": "https://i.ytimg.com/vi/cddnUIvN0sg/hqdefault.jpg",
-      "views": 1882,
+      "views": 1883,
       "likes": 43,
       "durationSec": 59
     },
@@ -1280,7 +1280,7 @@
       "channel": "낭플 NANGPLE",
       "publishedAt": "2026-05-10T11:29:21Z",
       "thumb": "https://i.ytimg.com/vi/ofuN9pmZ0Zk/hqdefault.jpg",
-      "views": 73708,
+      "views": 73739,
       "likes": 394,
       "durationSec": 8
     },
@@ -1300,7 +1300,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-09T12:00:25Z",
       "thumb": "https://i.ytimg.com/vi/FcXqPK8k3j4/hqdefault.jpg",
-      "views": 4818,
+      "views": 4819,
       "likes": 90,
       "durationSec": 60
     },
@@ -1310,7 +1310,7 @@
       "channel": "졸리는라디오",
       "publishedAt": "2026-05-09T11:57:11Z",
       "thumb": "https://i.ytimg.com/vi/yXInghVv0UI/hqdefault.jpg",
-      "views": 10306,
+      "views": 10310,
       "likes": 66,
       "durationSec": 41
     },
@@ -1350,7 +1350,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-08T12:00:33Z",
       "thumb": "https://i.ytimg.com/vi/ETBiIFDHuYs/hqdefault.jpg",
-      "views": 4051,
+      "views": 4052,
       "likes": 69,
       "durationSec": 59
     },
@@ -1400,7 +1400,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-07T12:00:01Z",
       "thumb": "https://i.ytimg.com/vi/aAmbqUrOSm0/hqdefault.jpg",
-      "views": 4618,
+      "views": 4619,
       "likes": 39,
       "durationSec": 21
     },
@@ -1420,7 +1420,7 @@
       "channel": "앤이공",
       "publishedAt": "2026-05-06T10:06:36Z",
       "thumb": "https://i.ytimg.com/vi/i6Uy7NgWxvo/hqdefault.jpg",
-      "views": 33836,
+      "views": 33868,
       "likes": 30,
       "durationSec": 10
     },
@@ -1480,7 +1480,7 @@
       "channel": "향토끼",
       "publishedAt": "2026-05-04T12:01:30Z",
       "thumb": "https://i.ytimg.com/vi/u1mOTOWn4pI/hqdefault.jpg",
-      "views": 6642,
+      "views": 6643,
       "likes": 78,
       "durationSec": 47
     },
