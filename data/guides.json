@@ -1,8 +1,44 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-10-18T03:01:14.904Z",
+  "updatedAt": "2026-10-18T10:23:53.092Z",
   "count": 90,
   "guides": [
+    {
+      "title": "아키에이지 크로니클 데모 일정과 참여 방법",
+      "summary": "혼자 공략하는 재미와 함께 역할을 나눠 싸우는 재미를 비교해볼 수 있겠어요. 다만 솔로 입장이 가능하다는 설명을 모든 던전을 혼자 편하게 깰 수 있다는 뜻으로 받아들이기는 어렵습니다. 이번 고난도... ",
+      "link": "https://blog.naver.com/thth321000/224445407311",
+      "source": "블로그",
+      "author": "김춘삼의 테크 리뷰",
+      "date": "20261018",
+      "thumb": null
+    },
+    {
+      "title": "스타듀밸리 광산 공략 총정리｜광물 파밍부터 두루마리, 추천 모드....",
+      "summary": "박쥐, 붉은 슬라임 120 층 보상 : 해골 열쇠 사용처 : 사막의 해골 동굴에서 사용 석탄 얻는 방법 광산 여러 구간에서 획득 가능 일반 바위를 부수면 확률적으로 나옴 광산 수레 또는 광산에 떨어진... ",
+      "link": "https://blog.naver.com/game_hee_/224445526463",
+      "source": "블로그",
+      "author": "오늘도 게임중",
+      "date": "20261018",
+      "thumb": null
+    },
+    {
+      "title": "온실 딸기 재배에 대한",
+      "summary": "모양이 균일하고 예쁘며, 과육의 붉은 색감이 선명해 주로 고급 디저트 및 제과용 시장에서... 틈새시장 공략 및 연중 안정적인 스마트팜 운영에 필수적입니다. 알비온 , 시스케이프 , 샌 안드레아스... ",
+      "link": "https://blog.naver.com/olive-home/224445427365",
+      "source": "블로그",
+      "author": "OLIVE정원과하우스",
+      "date": "20261018",
+      "thumb": null
+    },
+    {
+      "title": "드래곤 퀘스트 VII Reimagined 8화｜다마 신전 완전 공략! 전직 시스템 ....",
+      "summary": "드래곤 퀘스트 VII Reimagined 8화｜다마 신전 완전 공략! 전직 시스템 해금과 봉마의 감옥 탈출 방법 다마 신전 · 스러진 마을 · 서쪽 동굴 · 산등성이 마을 · 봉마의 감옥 · 거울 퍼즐 · 이놉과 곤즈 · 콜로세움... ",
+      "link": "https://blog.naver.com/ccm484/224444462365",
+      "source": "블로그",
+      "author": "ccmong",
+      "date": "20261018",
+      "thumb": null
+    },
     {
       "title": "[대논문 2권] [고조선 의려왕, 남려왕, 관우 남무. 의령남씨 5,000년 직....",
       "summary": "[대논문 2권] [고조선 의려왕, 남려왕, 관우 남무. 의령남씨 5,000년 직계족보] 왕王=상商=고高=南남려 단군. UN대사/ UN대학원 국제안보 명예박사. 조선 정종대왕 25대 남인우. . 대한제국 추존 관우... ",
@@ -238,42 +274,6 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 세력 의뢰 '바이런 가문' 검은 심판관 공략 (+황금 맥주)",
-      "summary": "바이런 가문의 세력 의뢰 「검은 심판관」은 데메니스의 번핸드 채석장을 점거한 마줄을 처치하는 퀘스트입니다. 보상은 용병 파견 보상을 두 배로 늘려주는 황금맥주입니다. 의뢰는 세 단계로 이어지며... ",
-      "link": "https://blog.naver.com/travous/224441864811",
-      "source": "블로그",
-      "author": "게임어바웃",
-      "date": "20261015",
-      "thumb": null
-    },
-    {
-      "title": "붉은사막 세력의뢰 '마르셀 가문' 한밤의 서커스 공략, 배럴 남작 23....",
-      "summary": "목차 한밤의 서커스 선행 조건 의뢰 진행 순서 배럴 남작 23호 가니에 공략 퀘스트 보상과 알아둘 점 1. 한밤의 서커스 선행 조건 「한밤의 서커스」를 시작하려면 토렐 가문의 「붉은 파수꾼」과 아제리안... ",
-      "link": "https://blog.naver.com/travous/224441806448",
-      "source": "블로그",
-      "author": "게임어바웃",
-      "date": "20261014",
-      "thumb": null
-    },
-    {
-      "title": "붉은사막 세력 의뢰 아제리안 가문 퀘스트 공략, 트리스탄 전리품 ....",
-      "summary": "붉은사막 데메니스 지역의 아제리안 가문 세력 의뢰는 「화염의 기사단」입니다. 데메니스가 해방된 뒤... 이 글에서는 의뢰 해금 조건부터 하인과의 접선, 트리스탄 공략, 성 안에서 찾을 수 있는 장비까지... ",
-      "link": "https://blog.naver.com/travous/224441779058",
-      "source": "블로그",
-      "author": "게임어바웃",
-      "date": "20261014",
-      "thumb": null
-    },
-    {
-      "title": "정처없이 떠도는 날개들 007",
-      "summary": "크루제가 두샨베로의 공략의 준비를 갖추고 있는 중, 마을에 있는 부대는 탈출 준비를 진행하고 있다. 마을의 주변을 수중의 지뢰 전부를 사용해서 박아 넣고, 사용할 수가 없는 항공용 폭탄도 함정으로서 설치해... ",
-      "link": "https://blog.naver.com/skycat0907/224441722204",
-      "source": "블로그",
-      "author": "세계정복",
-      "date": "20261014",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -337,6 +337,15 @@
       "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/8877b8d99a620250925065605708.jpg"
     },
     {
+      "title": "붉은사막 공략 - Unisquads",
+      "summary": "붉은사막은 광활한 피웰 대륙을 배경으로 전투, 탐험, 퍼즐, 장비 수집을 함께 다루는 오픈월드 액션 어드벤처 게임이다. 이 공략 모음은 초반 진행부터 장비 획득, 퍼즐 풀이, 보스전, 탐험 수집 요소까지 한곳에서 확인....",
+      "link": "https://unisquads.io/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89%20%EA%B3%B5%EB%9E%B5",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
+    },
+    {
       "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
       "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
       "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
@@ -346,13 +355,13 @@
       "thumb": "https://cdn.gametoc.co.kr/news/photo/202603/107314_315514_4942.png"
     },
     {
-      "title": "붉은사막 공략 - Unisquads",
-      "summary": "붉은사막은 광활한 피웰 대륙을 배경으로 전투, 탐험, 퍼즐, 장비 수집을 함께 다루는 오픈월드 액션 어드벤처 게임이다. 이 공략 모음은 초반 진행부터 장비 획득, 퍼즐 풀이, 보스전, 탐험 수집 요소까지 한곳에서 확인....",
-      "link": "https://unisquads.io/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89%20%EA%B3%B5%EB%9E%B5",
+      "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302890",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
     },
     {
       "title": "붉은사막 전설 무기 종결 양손검, 활 입수 방법 공략",
@@ -373,13 +382,13 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302738_304712_177.png"
     },
     {
-      "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
+      "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302890",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
       "title": "붉은사막 인벤",
@@ -389,15 +398,6 @@
       "author": null,
       "date": null,
       "thumb": null
-    },
-    {
-      "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302865",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302865_304910_424.png"
     },
     {
       "title": "붉은사막 챕터7 귀향 공략, 3번의 보스 전투 시작 - 공략 - 붉은사막 인벤",
@@ -425,15 +425,6 @@
       "author": null,
       "date": null,
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA0MzBfMTU1/MDAxNzc3NTI4NDUwNjgw.ObNFyPMnHIsqSxifm3t53hLXDXYxUsHhZNTFr4outB8g.rP4PzFyAaptIvDUiSd3joTe5bl3-W7j26cGdSTr_1pIg.PNG/9113.png?type=w700"
-    },
-    {
-      "title": "[붉은사막 공략 EX] 3분에 600실버 벌기?! ‘붉은 사막’, 도박 콘텐츠 속임수 적....",
-      "summary": "‘붉은 사막’은 계속해서 돈을 쓸 장소가 많아 항상 돈이 부족한 편이다. 무기 소켓을 확장하고 음식을 사고 먹기를 반복하다 보면 이내 통장이 빈털털이가 되기 십상",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=303149",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202604/303149_305462_4843.jpg"
     },
     {
       "title": "[붉은사막 공략 ④] 모험 파트너 ‘전설 말’, 최고 속도 ‘로일러’를 얻어보....",
@@ -481,13 +472,13 @@
       "thumb": "https://nspxgame.com/wp-content/uploads/2026/04/2026-04-12_Vp5zdZvdFfkGgcThjm.jpg"
     },
     {
-      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
+      "title": "[붉은사막 공략 EX] 3분에 600실버 벌기?! ‘붉은 사막’, 도박 콘텐츠 속임수 적....",
+      "summary": "‘붉은 사막’은 계속해서 돈을 쓸 장소가 많아 항상 돈이 부족한 편이다. 무기 소켓을 확장하고 음식을 사고 먹기를 반복하다 보면 이내 통장이 빈털털이가 되기 십상",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=303149",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202604/303149_305462_4843.jpg"
     },
     {
       "title": "붉은사막 별의탑 광휘의 석탑 퍼즐 공략",
@@ -497,6 +488,15 @@
       "author": null,
       "date": null,
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA1MDNfNjQg/MDAxNzc3NzUyNzY0OTEx.2tul0dLJHqnoGxOd5LzZWzJb5EktfVL4GuE0pitV48gg.ARXhmHbO6dh0yKIYvK9KQ4qERumLznTefpsxKSnbWJQg.PNG/3454.png?type=w700"
+    },
+    {
+      "title": "[붉은사막 공략 ①] 성장의 기초, 시작은 ‘기초 체력’부터",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302568",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
     },
     {
       "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
