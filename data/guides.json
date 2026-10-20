@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-10-20T10:56:01.968Z",
+  "updatedAt": "2026-10-20T16:21:04.585Z",
   "count": 90,
   "guides": [
+    {
+      "title": "2부 마인크래프트 뱀파이어 모드 리뷰(헌터 편)",
+      "summary": "이번에는 정의의 편이 되어보자 1부에서는 뱀파이어에 다루었고, 이번에는 헌터다. 헌터는 뱀파이어에 비해 존재감이 강하진 않음. 대부분 유저들 헌터 vs 뱀파이어하면 뱀파이어 선택하는 거 같음. 아무래도... ",
+      "link": "https://blog.naver.com/qazwer244/224448327693",
+      "source": "블로그",
+      "author": "마크 리뷰",
+      "date": "20261021",
+      "thumb": null
+    },
     {
       "title": "붉은사막 첫 여정 공략 7편, 북부 탈환과 데메니스 잠입은 어떻게 다....",
       "summary": "[이미지 02] 붉은 목조 건물 곁에서 주민의 대화를 엿듣는 위치 / 출처: WoW Quests / 붉은사막 귀향·피의 대관식 공략 플레이 [이미지 03] 저항군 거점으로 내려가는 바닥 출입구 / 출처: WoW Quests / 붉은사막 귀향... ",
@@ -265,15 +274,6 @@
       "thumb": null
     },
     {
-      "title": "젤다 야숨 시작 가이드 ② 처음 10시간, 이게 다 정상입니다 | 시작의....",
-      "summary": "잡았던 적이 전부 다시 살아났다 밤하늘에 '붉은 달(블러드 문)'이 뜨면 필드의 적이 리셋됨 무기와... 붉은 조준선이 몸에 닿으면 곧 레이저가 날아옵니다. 초반에는 바위나 건물 뒤로 숨어 시야에서 벗어나는 게... ",
-      "link": "https://blog.naver.com/sonanddaddy/224444642777",
-      "source": "블로그",
-      "author": "아들들과 함께하는 이야기",
-      "date": "20261017",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -310,15 +310,6 @@
       "thumb": "https://i1.ruliweb.com/ori/26/03/05/19cbde442b347f450.webp"
     },
     {
-      "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
-      "summary": "붉은사막 초보 공략으로, 메인 스토리 중심 진행과 장비 강화, 자원 수급, 이동 팁까지 초반에 필요한 내용을 한 번에 정리했다.",
-      "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-beginner-guide.html",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
-    },
-    {
       "title": "붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/",
@@ -326,6 +317,15 @@
       "author": null,
       "date": null,
       "thumb": null
+    },
+    {
+      "title": "붉은사막 초보 시작 공략 | 초반 육성 + 장비·스킬 한 번에 이해하기",
+      "summary": "붉은사막 초보 공략으로, 메인 스토리 중심 진행과 장비 강화, 자원 수급, 이동 팁까지 초반에 필요한 내용을 한 번에 정리했다.",
+      "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-beginner-guide.html",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
     },
     {
       "title": "붉은사막/보스 - 나무위키",
@@ -542,6 +542,33 @@
       "author": null,
       "date": null,
       "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+    },
+    {
+      "title": "학살의 기사 판금 갑옷 셋트",
+      "summary": "[붉은사막] 학살의 판금장비 풀세트 얻는법 / 퀘스트 쉽게 깨는 법",
+      "link": "https://cafe.naver.com/karveon/18",
+      "source": "카페",
+      "author": "카르베온KARVEON",
+      "date": null,
+      "thumb": null
+    },
+    {
+      "title": "매구 부탁한 물건 회수",
+      "summary": "붉은사막 매구가 부탁한 물건 회수하기 위치 (의식을 위한 준비)",
+      "link": "https://cafe.naver.com/karveon/17",
+      "source": "카페",
+      "author": "카르베온KARVEON",
+      "date": null,
+      "thumb": null
+    },
+    {
+      "title": "버드군프로장터-종합 가격조정(스크롤 압박 최상!!)",
+      "summary": "닉네임 :버드군프로 연락 방법 :쪽지 판매 방법 : 택배거래 우선순위: 댓글-입금순 안녕하세요! 버드군프로입니다. 여러 다양 물품 판매합니다! 판매합니다! 글이 사진이 많습니다. 그럼... ",
+      "link": "https://cafe.naver.com/paramsx/646482",
+      "source": "카페",
+      "author": "구닥동",
+      "date": null,
+      "thumb": null
     },
     {
       "title": "지스타 2026 가실 분 필독! 붉은사막이랑 산나비 외전 풀린답니다 (무료 입장....",
@@ -783,33 +810,6 @@
       "link": "https://cafe.naver.com/ps3friend/2351994",
       "source": "카페",
       "author": "PS5와 친구들 [PS/PS5/VR/PS5PRO/PRO/플스/플레이스테이션/프로]",
-      "date": null,
-      "thumb": null
-    },
-    {
-      "title": "안녕하세요! 너무 재미있어요!!",
-      "summary": "붉은사막에서 가장 기대되는 콘텐츠는 무엇인가요? (예: 찰진 액션과 보스전 / 끝없는 탐험 / 장비 파밍과 룩딸 등) 끝없는 탐험 3. 가입 인사 한마디 부탁드립니다! 최근 인핸스드부터 시작했는데 너무 재밌습니다.... ",
-      "link": "https://cafe.naver.com/pywel/594",
-      "source": "카페",
-      "author": "붉은사막 팬카페",
-      "date": null,
-      "thumb": null
-    },
-    {
-      "title": "[정리] GTA6 피해 출시일 옮긴 게임들｜페이블 2027년 2월 공식 · 포르자 호라....",
-      "summary": "③ 붉은사막 등 다른 게임은 회사가 GTA6를 언급한 적 없어요 — 매체 추측이에요 ■ 게임별 정리 • 페이블 — 2027.2.23 · Xbox 맷 부티 \"자기만의 출시 창이 필요\" (공식, GTA6 등 대작 언급) • 포르자... ",
-      "link": "https://cafe.naver.com/kimsere/30749",
-      "source": "카페",
-      "author": "GTA6 대한민국 대표 커뮤니티 | GTA VI COMMUNITY",
-      "date": null,
-      "thumb": null
-    },
-    {
-      "title": "브라질 바렐린하스의 10월날씨 - 기온, 강수량, 렌소이스 모래사막 석호 건....",
-      "summary": "편광 선글라스, 스포츠 타월, 인공눈물(눈에 모래가 들어갔을 때 대비)을 반드시 가방에 챙겨주세요. 5. 10월 여행 추천 포인트 환상적인 붉은빛 사막 일몰 투어: 맑은 대기와 구름 한 점 없는 날씨 덕분에 10월은 일 년 중  ",
-      "link": "https://cafe.naver.com/hassrd/28555",
-      "source": "카페",
-      "author": "여행가서 모하지",
       "date": null,
       "thumb": null
     }
