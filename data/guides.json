@@ -1,8 +1,17 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-10-20T03:23:42.044Z",
+  "updatedAt": "2026-10-20T10:56:01.968Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은사막 첫 여정 공략 7편, 북부 탈환과 데메니스 잠입은 어떻게 다....",
+      "summary": "[이미지 02] 붉은 목조 건물 곁에서 주민의 대화를 엿듣는 위치 / 출처: WoW Quests / 붉은사막 귀향·피의 대관식 공략 플레이 [이미지 03] 저항군 거점으로 내려가는 바닥 출입구 / 출처: WoW Quests / 붉은사막 귀향... ",
+      "link": "https://blog.naver.com/patchnote_/224447149138",
+      "source": "블로그",
+      "author": "현의 게임패치노트",
+      "date": "20261020",
+      "thumb": null
+    },
     {
       "title": "붉은사막 첫 여정 공략 6편, 깃발 설치부터 카시우스와 봉화까지",
       "summary": "[이미지 01] 고정 포대에서 전방 감시탑으로 사격하는 장면 / 출처: Japeta / 붉은사막 전선 공략 플레이... 이후 대포에 올라타 붉은 연기가 나는 감시탑을 조준해 사격해요. 화면의 남은 표적 표시를 보면서 아직... ",
@@ -38,6 +47,15 @@
       "author": "게임 칼럼니스트 나키",
       "date": "20261020",
       "thumb": null
+    },
+    {
+      "title": "[와우 탈것] 월드 오브 워크래프트 역대 탈것 전체 목록 정리 (오리....",
+      "summary": "탈것 이름을 클릭하면 관련 획득 공략이나 탈것 정리 글로 이동합니다. (일부 탈것은 링크가 없습니다.)... 전차 붉은색 퀴라지 전차 퀘스트 여명의 설원 — ‘훈련은 어릴 때부터’ 이후 ‘너무 빨리 커’, 일일... ",
+      "link": "https://chinchilla.tistory.com/2858",
+      "source": "블로그",
+      "author": "친칠라의 와우 일기",
+      "date": "20261020",
+      "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FSizTe%2FdJMcajqsjrC%2FAAAAAAAAAAAAAAAAAAAAADA5L9CsKTln1l4LBSXrl92zYHfazHmBGn0SWKerE8Yp%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3Dxherst1uRjSfwLCqWBNHX7wh2OU%253D"
     },
     {
       "title": "언론. 언론사별.랭킹뉴스.네이버(언론사제공) 2026년10월20일.",
@@ -256,24 +274,6 @@
       "thumb": null
     },
     {
-      "title": "기동전사 건담 UC 4화 리뷰｜중력의 우물 밑에서, 샴블로의 폭주와 ....",
-      "summary": "앞선 3화 '라플라스의 망령'에서는 팔라우 공략전과 마리다 크루스의 과거, 그리고 다구자 맥클 중령의... 특히 사막을 걸으며 대화를 나누는 장면이 인상적입니다. 진네만은 과거 전쟁에서 가족을 잃은... ",
-      "link": "https://blog.naver.com/pra_nyan/224444586547",
-      "source": "블로그",
-      "author": "건프라냥의 프라공방",
-      "date": "20261017",
-      "thumb": null
-    },
-    {
-      "title": "붉은 사막 여정의 끝(도과, 의뢰, 지식)을 마치고(1)...",
-      "summary": "블로그 제목에 버추어 파이터가 있어서 혹여 게임을 엄청 잘할 줄 아는 분들이 계실까봐 오히려 겜알못 입니다. 버추어 파이터를 좋아했던 이유도 목각인형이 투닥 거리며 싸우는 모습이 너무 신기해서... ",
-      "link": "https://blog.naver.com/chsy7109/224444548574",
-      "source": "블로그",
-      "author": "최초의 3D격투게임 버추어파이터",
-      "date": "20261017",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -317,6 +317,15 @@
       "author": null,
       "date": null,
       "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
+    },
+    {
+      "title": "붉은사막 인벤",
+      "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
+      "link": "https://crimson.inven.co.kr/",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
     },
     {
       "title": "붉은사막/보스 - 나무위키",
@@ -380,15 +389,6 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302738_304712_177.png"
-    },
-    {
-      "title": "붉은사막 인벤",
-      "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
-      "link": "https://crimson.inven.co.kr/",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
     },
     {
       "title": "[붉은사막 공략 ⑩] 스팀펑크까지 즐긴다, ‘쿠쿠새 무쇠솥’ 활용법",
@@ -463,6 +463,15 @@
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjAzMjdfMjE4/MDAxNzc0NTc1MDAxMDgx.QQRdnRx5tpvljeIOu9Sog975jY6aD6zI1wVeOxdM19Ag.RBUOui-VQ17sP4miOo707DwgrQft76O4SpXZspi5gcUg.PNG/67ad.png?type=w700"
     },
     {
+      "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
+      "summary": "붉은사막 유적 · 퍼즐 공략 모음 공지입니다 (26.04.03)[ㄱ]🔗강철 산맥의 유적 공략🔗거석 왕관 공략🔗검은장벽 유적🔗그림자숲 어비스 표석 퍼즐🔗그레이스 영지 해맞이 평야 기믹🔗고대인의 틈 큐브 3종🔗고독의 ....",
+      "link": "https://www.inven.co.kr/board/crimson/6511/260",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
+    },
+    {
       "title": "[붉은사막 공략 ③] 본격적인 모험의 시간, ‘용병단’ 재건 필수",
       "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
       "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302635",
@@ -508,13 +517,13 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302568_304367_5654.png"
     },
     {
-      "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
-      "summary": "붉은사막 유적 · 퍼즐 공략 모음 공지입니다 (26.04.03)[ㄱ]🔗강철 산맥의 유적 공략🔗거석 왕관 공략🔗검은장벽 유적🔗그림자숲 어비스 표석 퍼즐🔗그레이스 영지 해맞이 평야 기믹🔗고대인의 틈 큐브 3종🔗고독의 ....",
-      "link": "https://www.inven.co.kr/board/crimson/6511/260",
+      "title": "코앞에 숨겼다고? 붉은사막 마을에서 찾은 '전설 방패'",
+      "summary": "전 세계 회색갈기들의 무한 탐험이 파이웰 대륙을 밝힌다. 펄어비스 신작 '붉은사막'이 출시 후 장기 흥행을 이어나가고 있다. 출시 12일 만에 판매량 400만을 넘었고, 3주가 지난 현재도 스팀 글로벌 인기 4위에 머무르며 ....",
+      "link": "https://www.gameple.co.kr/news/articleView.html?idxno=215361",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
+      "thumb": "https://cdn.gameple.co.kr/news/photo/202604/215361_243964_4141.jpg"
     },
     {
       "title": "붉은사막 프롤로그부터 챕터 2까지 스토리 공략",
@@ -526,15 +535,6 @@
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjAzMjhfMjk4/MDAxNzc0NjM1NTE3NzE4.qR3Wpumyp7Zcv_Ld84Hz0gadybusQbb_rPt1I6W5I2Eg.Fhi2Y09_bpDMGPCyJyrZbuPi1ygVjMpPfSi2D1oQu5Ug.PNG/75a2.png?type=w700"
     },
     {
-      "title": "코앞에 숨겼다고? 붉은사막 마을에서 찾은 '전설 방패'",
-      "summary": "전 세계 회색갈기들의 무한 탐험이 파이웰 대륙을 밝힌다. 펄어비스 신작 '붉은사막'이 출시 후 장기 흥행을 이어나가고 있다. 출시 12일 만에 판매량 400만을 넘었고, 3주가 지난 현재도 스팀 글로벌 인기 4위에 머무르며 ....",
-      "link": "https://www.gameple.co.kr/news/articleView.html?idxno=215361",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.gameple.co.kr/news/photo/202604/215361_243964_4141.jpg"
-    },
-    {
       "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
       "summary": "붉은사막에서 처음 게임을 시작하고 어느 정도 세팅을 하고 싶은 유저들을 위한 팁이다. 튜토 종료 후 에르난도 마을에서 아무것도 하지 않은 기준으로 세팅을 갖추는 방법이며 전체적인 초반 진행에 관한 상세 공략은 ....",
       "link": "https://www.inven.co.kr/board/crimson/6511/354",
@@ -542,6 +542,15 @@
       "author": null,
       "date": null,
       "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+    },
+    {
+      "title": "지스타 2026 가실 분 필독! 붉은사막이랑 산나비 외전 풀린답니다 (무료 입장....",
+      "summary": "산나비나 붉은사막 기다리셨던 분들은 제1전시장 대기업 부스 줄 서느라 진 빼지 마시고 제2전시장 게임문화축제 쪽 먼저 공략하시는 게 꿀팁입니다 ㅋㅋㅋ 올해 지스타 부산 원정 가시는분들은 부럽네요.",
+      "link": "https://cafe.naver.com/gunamsamo/1161",
+      "source": "카페",
+      "author": "구리 남양주 사람들 모여라 |맛집 정보 핫딜 홍보 알바 자영업자",
+      "date": null,
+      "thumb": null
     },
     {
       "title": "용피리 만드는 방법",
@@ -648,6 +657,15 @@
       "link": "https://cafe.naver.com/ps3friend/2352765",
       "source": "카페",
       "author": "PS5와 친구들 [PS/PS5/VR/PS5PRO/PRO/플스/플레이스테이션/프로]",
+      "date": null,
+      "thumb": null
+    },
+    {
+      "title": "붉은사막 그리고 엘든링",
+      "summary": "----------------------------------------------------- 붉은사막은 이미 구매해서 완전 극초반인데 뭔가 스토리도 중구난방에 키도 좀 이상하게 되어있는것 같고 전투가 캐주얼하지 않고 날것의 느낌이라서 어려운것 같은데... ",
+      "link": "https://cafe.naver.com/playps4/295867",
+      "source": "카페",
+      "author": "PS5 공식플카페[PS5 프로 플스5 프로VR PS6 플레이스테이션5PRO]",
       "date": null,
       "thumb": null
     },
@@ -792,24 +810,6 @@
       "link": "https://cafe.naver.com/hassrd/28555",
       "source": "카페",
       "author": "여행가서 모하지",
-      "date": null,
-      "thumb": null
-    },
-    {
-      "title": "2026년 10월 출시에정 주요 게임정리",
-      "summary": "출시 한국어지원 라타탄 2026/10/15 출시 한국어지원 파이널 판타지 레조넌스 2026/10/22 출시 한국어지원 콜 오브 듀티 모던 워페어 4 2026/10/23 출시 한국어지원 붉은사막 미지의 여정 2026/10/30 출시 한국어지원",
-      "link": "https://cafe.naver.com/xbox360korea/969513",
-      "source": "카페",
-      "author": "Xbox 게임패스",
-      "date": null,
-      "thumb": null
-    },
-    {
-      "title": "BL 동인지 소설책 판매합니다.",
-      "summary": "택배비 5000원별도/ 제주도8000원(항공배송)/ 20권이상은 두박스로 배송 10000원 (익일 택배배송/직거래x )/ 가격조정문의는 답장을 못드립니다. 구매문의는 쪽지나 ********@naver.com 로 주시고요 빠른 연락은... ",
-      "link": "https://cafe.naver.com/sowe13/293617",
-      "source": "카페",
-      "author": "★중고만화책 매니아★ 헌책(방,만화,팔기,매입,전집,코믹,순정)",
       "date": null,
       "thumb": null
     }
