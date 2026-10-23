@@ -1,8 +1,35 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-10-23T16:27:41.280Z",
+  "updatedAt": "2026-10-23T20:59:27.411Z",
   "count": 90,
   "guides": [
+    {
+      "title": "Oil Wars - Guy Laron",
+      "summary": "1️⃣ “석유를 소유하는 것보다 중요한 것은 무엇인가? — 가이 라론 <Oil Wars>가 밝힌 권력의 병목” 2️⃣ “수에즈 운하에서 말라카 해협까지 — 세계사를 움직인 석유 수송로의 지정학” 3️⃣... ",
+      "link": "https://blog.naver.com/twainnnn/224451911174",
+      "source": "블로그",
+      "author": "twainnnn님의블로그",
+      "date": "20261024",
+      "thumb": null
+    },
+    {
+      "title": "벤치에서 발롱까지 99 찍는 법, 유망주 선택부터 훈련 전략까지",
+      "summary": "벤치에서 발롱까지 오버롤 99 육성 공략 1. 선수 생성 단계에서 유망한 능력치 분포를 선택한다 오버롤 99에 도전하려면 선수 생성 단계부터 포지션에 맞는 능력치 분포를 살펴보는 것이 좋습니다. 타깃맨을... ",
+      "link": "https://blog.naver.com/organicmall/224451911006",
+      "source": "블로그",
+      "author": "우리 집 부자 이야기",
+      "date": "20261024",
+      "thumb": null
+    },
+    {
+      "title": "[검은사막] 에다나 내부 메인퀘+스펙업+신상(내용 난잡 주의)",
+      "summary": "여담으로 붉은사막도 해봐야하나 싶기도.. 그리고 스펙업도 왕창 했다! 동V데보 정가 후 단IX카라자드로 교환 완 풍VIII 카라->환X 카라 까지 2, 3트만에 성공! 그리고 유IV에메 악세로 교환해서 6트 만에 V동트... ",
+      "link": "https://blog.naver.com/myamom0302/224451902390",
+      "source": "블로그",
+      "author": "먀몸먀몸",
+      "date": "20261024",
+      "thumb": null
+    },
     {
       "title": "마인크래프트 선릿밸리 슬라임 총정리(4.1.2 기준)",
       "summary": "슬라임 사막단층 뼈고기 / 보그드 모래 ×32, 붉은 모래 ×32, 건조 모래 2종 ×32, 모래 파도 ×32 블레이즈... 94% #마인크래프트 #선릿밸리 #선릿밸리모드 #선릿밸리공략 #선릿밸리슬라임 #슬라임종류 #슬라임먹이... ",
@@ -247,33 +274,6 @@
       "thumb": null
     },
     {
-      "title": "PS5 클라우드 스트리밍 서비스 10월 28일 정식 출시 '기존 멤버는? 이....",
-      "summary": "보유 게임 쪽에서는 붉은사막, GTA5, 고스트 오브 요테이, 이환, 젠레스 존 제로, e풋볼이... 검은사막 아바타 무료 증정 출시를 기념해 검은사막 아바타 10종 세트를 무료로 받을 수 있습니다.... ",
-      "link": "https://blog.naver.com/alfson/224449234366",
-      "source": "블로그",
-      "author": "푸니코",
-      "date": "20261021",
-      "thumb": null
-    },
-    {
-      "title": "붉은사막 첫 DLC ‘미지의 여정’ 공개…바다 탐험부터 연애·경영까....",
-      "summary": "정리 펄어비스가 공개한 ‘붉은사막: 미지의 여정’은 대양 항해와 수중 탐험, 신규 스토리, 인물 관계, 시설 경영, 확장된 하우징, 보스 공략 등 다양한 요소를 추가하는 첫 DLC입니다. 한국 시간 기준 2026년 10월... ",
-      "link": "https://blog.naver.com/yojeum_-/224448826160",
-      "source": "블로그",
-      "author": "요즘 뭐지",
-      "date": "20261021",
-      "thumb": null
-    },
-    {
-      "title": "붉은사막 DLC 미지의 여정, 배 만들고 결혼까지…10월 30일 달라지는 ....",
-      "summary": "※ 이미지 출처: 펄어비스 붉은사막에서 다음 목적지는... 공식 DLC 소개에는 사막의 불길한 기운과 정치적 갈등, 시간을 초월한... 자신의 전투 실력과 장비 구성, 공략 전략을 시험하는 콘텐츠로... ",
-      "link": "https://blog.naver.com/suljjik/224448726403",
-      "source": "블로그",
-      "author": "FC서울을 사랑하는 견우와직녀",
-      "date": "20261021",
-      "thumb": null
-    },
-    {
       "title": "공략 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://crimson.inven.co.kr/dataninfo/guide/",
@@ -319,15 +319,6 @@
       "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/KnFPKw-1774677034845.webp"
     },
     {
-      "title": "붉은사막 인벤",
-      "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
-      "link": "https://crimson.inven.co.kr/",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": null
-    },
-    {
       "title": "붉은사막/보스 - 나무위키",
       "summary": "실제로 붉은사막에서 실질적인 재미를 느낄 수 있는 구간이기도 하다. 소위 말하는 억까 패턴으로 물약 스팸을 유도하는 것이 아닌 정석적인 공략이 가능하게끔 만들어져 있고 페이즈마다 색다른 패턴을 선보여... ",
       "link": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89/%EB%B3%B4%EC%8A%A4",
@@ -355,13 +346,13 @@
       "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
     },
     {
-      "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302890",
+      "title": "붉은사막 인벤",
+      "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
+      "link": "https://crimson.inven.co.kr/",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
+      "thumb": null
     },
     {
       "title": "붉은사막 전설 무기 종결 양손검, 활 입수 방법 공략",
@@ -371,6 +362,15 @@
       "author": null,
       "date": null,
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjA3MTBfNDcg/MDAxNzgzNjg1ODg0MTQ1.7GkYXGspQjBZI_CkSCJr9RSV3JrWbdDn_I9_QDpK2vwg.6NtB3CThsGt_OGTF9LN5EbIBfPvoTWfxcTrFLHkWabAg.PNG/a65b.png?type=w700"
+    },
+    {
+      "title": "[붉은사막 공략 ⑪] 성장의 끝을 향해, ‘어비스 동력핵’ 수집과 활용",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302890",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302890_304953_242.png"
     },
     {
       "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
@@ -436,6 +436,15 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302646_304508_4549.png"
     },
     {
+      "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
+      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302691",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
+    },
+    {
       "title": "붉은사막 도약의 탑 하늘길 작동시키기, 킬덴 항아리 퍼즐 공략",
       "summary": "붉은사막 도약의 탑, 하늘길 작동시키기, 킬덴항아리 퍼즐 공략 모음입니다. 자세한 공략이 궁금하신 분은 '블로그에서 더보기'를 누르면 확인할 수 있습니다.",
       "link": "https://in.naver.com/hoyagame/topic/948692258707648",
@@ -452,15 +461,6 @@
       "author": null,
       "date": null,
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjAzMjdfMjE4/MDAxNzc0NTc1MDAxMDgx.QQRdnRx5tpvljeIOu9Sog975jY6aD6zI1wVeOxdM19Ag.RBUOui-VQ17sP4miOo707DwgrQft76O4SpXZspi5gcUg.PNG/67ad.png?type=w700"
-    },
-    {
-      "title": "[붉은사막 공략 ⑤] 담금질은 신중하게, ‘금속 재질’과 ‘어비스 기어’의 중....",
-      "summary": "‘붉은사막’의 세상이 열렸다. 이제부터 파이웰 대륙에서의 삶을 살아갈 많은 이들을 위해, 게임에 보다 손쉽게 적응할 수 있는 가이드를 준비했다. 성장부터 파밍,",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=302691",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302691_304617_3042.png"
     },
     {
       "title": "붉은사막 인벤 : 붉은사막 유적 · 퍼즐 공략 모음 - 붉은사막 인벤 팁과 노하우 ....",
@@ -499,15 +499,6 @@
       "thumb": "https://influencer-phinf.pstatic.net/MjAyNjAzMjhfMjk4/MDAxNzc0NjM1NTE3NzE4.qR3Wpumyp7Zcv_Ld84Hz0gadybusQbb_rPt1I6W5I2Eg.Fhi2Y09_bpDMGPCyJyrZbuPi1ygVjMpPfSi2D1oQu5Ug.PNG/75a2.png?type=w700"
     },
     {
-      "title": "코앞에 숨겼다고? 붉은사막 마을에서 찾은 '전설 방패'",
-      "summary": "전 세계 회색갈기들의 무한 탐험이 파이웰 대륙을 밝힌다. 펄어비스 신작 '붉은사막'이 출시 후 장기 흥행을 이어나가고 있다. 출시 12일 만에 판매량 400만을 넘었고, 3주가 지난 현재도 스팀 글로벌 인기 4위에 머무르며 ....",
-      "link": "https://www.gameple.co.kr/news/articleView.html?idxno=215361",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://cdn.gameple.co.kr/news/photo/202604/215361_243964_4141.jpg"
-    },
-    {
       "title": "붉은사막 공략 및 팁 정리 - NSPXgame",
       "summary": "이 글은 붉은사막 (Crimson Desert) 공략 및 팁에 대해 정리하고 있습니다. 붉은 사막의 메인 의뢰(메인 퀘스트), 세력 의뢰, 각종 유니크 장비와 수집품들의 위치, 그외 게임플레이에 도움이 될만한 각종 팁들을 한곳에 모아 ....",
       "link": "https://nspxgame.com/crimson-desert/41860/",
@@ -517,13 +508,13 @@
       "thumb": "https://nspxgame.com/wp-content/uploads/2026/04/2026-04-12_Vp5zdZvdFfkGgcThjm.jpg"
     },
     {
-      "title": "[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #....",
-      "summary": "도장쾅의 '[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #도장쾅' 조회수 2.4만회, 좋아요 97개, 댓글 11개. 유튜브 공개 통계를 날짜별로 그대로 적었습니다.",
-      "link": "https://ranktube.co.kr/video/wwGRvbY-olg",
+      "title": "코앞에 숨겼다고? 붉은사막 마을에서 찾은 '전설 방패'",
+      "summary": "전 세계 회색갈기들의 무한 탐험이 파이웰 대륙을 밝힌다. 펄어비스 신작 '붉은사막'이 출시 후 장기 흥행을 이어나가고 있다. 출시 12일 만에 판매량 400만을 넘었고, 3주가 지난 현재도 스팀 글로벌 인기 4위에 머무르며 ....",
+      "link": "https://www.gameple.co.kr/news/articleView.html?idxno=215361",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://i.ytimg.com/vi/wwGRvbY-olg/hqdefault.jpg"
+      "thumb": "https://cdn.gameple.co.kr/news/photo/202604/215361_243964_4141.jpg"
     },
     {
       "title": "붉은사막 인벤 : 붉은사막 초반 실전 압축 공략 (돈벌이, 장비) - 붉은사막 인벤 ....",
@@ -533,6 +524,15 @@
       "author": null,
       "date": null,
       "thumb": "https://upload3.inven.co.kr/upload/2026/03/25/bbs/i1858225797.png?MW=800"
+    },
+    {
+      "title": "[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #....",
+      "summary": "도장쾅의 '[붉은사막]빙결 원소 공략 1부 '창공의 안식처' #붉은사막공략 #붉은사막원소 #도장쾅' 조회수 2.4만회, 좋아요 97개, 댓글 11개. 유튜브 공개 통계를 날짜별로 그대로 적었습니다.",
+      "link": "https://ranktube.co.kr/video/wwGRvbY-olg",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": null
     },
     {
       "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
