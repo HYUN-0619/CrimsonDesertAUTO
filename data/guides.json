@@ -1,6 +1,6 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-10-25T10:43:13.476Z",
+  "updatedAt": "2026-10-25T15:33:01.740Z",
   "count": 90,
   "guides": [
     {
@@ -18,15 +18,6 @@
       "link": "https://blog.naver.com/coxsd23/224453052160",
       "source": "블로그",
       "author": "랑조의블로그",
-      "date": "20261025",
-      "thumb": null
-    },
-    {
-      "title": "더 코지 플로리스트 쿠폰 최신 10월쿠폰 총정리ㅣ초보 플로리스트를....",
-      "summary": "그윽한 숲의 꽃 정령 상자 8.사막의 붉은 깃발 상자 9.푸른 달의 노래 상자 10.수정 폐허의 달장미 상자 11.에메랄드빛 신기루 도자기 상자 12.청화백자 구름 산봉우리 상자 13.눈 내린 매화 뜰 상자 14.황금빛... ",
-      "link": "https://blog.naver.com/tlsfhqls62499/224452923141",
-      "source": "블로그",
-      "author": "무부장님 모바일게임도 하세요?",
       "date": "20261025",
       "thumb": null
     },
@@ -256,6 +247,15 @@
       "thumb": null
     },
     {
+      "title": "붉은사막 DLC 미지의 여정 출시일, 바다 탐험부터 하우징까지 달라지....",
+      "summary": "붉은사막을 플레이하고 있다면 새로운 DLC 소식이 반가울 만합니다.... 이름은 **《붉은사막: 미지의 여정(Charting the Unknown)》**입니다.... 붉은사막 DLC 출시일은 10월 30일 펄어비스가 공식 발표한 출시일은 2026년... ",
+      "link": "https://blog.naver.com/aswe1232/224450231535",
+      "source": "블로그",
+      "author": "게임공략, 트랜드 이슈",
+      "date": "20261022",
+      "thumb": null
+    },
+    {
       "title": "붉은사막 울림의 숲 고대 유적 공략 (2/37)",
       "summary": "붉은사막 울림의 숲 고대 유적은 벽화의 배경과 금속 프레임을 회전시켜 그림을 맞추는 퍼즐이다. 먼저 오른쪽 크랭크로 뒤쪽 배경을 정렬하고, 이후 나머지 프레임을 맞추는 순서로 진행한다. 왼쪽 크랭크는... ",
       "link": "https://travous.tistory.com/2768",
@@ -469,7 +469,7 @@
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": null
+      "thumb": "https://static.inven.co.kr/image_2011/common/inven_logo.png"
     },
     {
       "title": "붉은사막 별의탑 광휘의 석탑 퍼즐 공략",
