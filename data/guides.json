@@ -1,8 +1,35 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-11-13T23:14:17.135Z",
+  "updatedAt": "2026-11-14T04:55:12.721Z",
   "count": 90,
   "guides": [
+    {
+      "title": "붉은사막 장비｜한손 무기 획득처, 기본 옵션, 방어구 선택 조건",
+      "summary": "붉은사막 장비 중 검은 운명은 담금질 6강, 탐욕의 검은 담금질 5강 상태로 획득합니다. 한손 무기는... 처치 붉은 바늘 원죄의 성소 숨겨진 보물상자 늑대의 이빨 처음 톨스태인을 만난 장소 안쪽 챕터 7 출정... ",
+      "link": "https://blog.naver.com/chany123456/224476628724",
+      "source": "블로그",
+      "author": "찬이의 공략노트",
+      "date": "20261114",
+      "thumb": null
+    },
+    {
+      "title": "마인크래프트 탐험가 백과사전 리뷰+생물 군계 완전 정복 가이드 후....",
+      "summary": "평원이나 사막 같은 익숙한 곳부터 창백한 정원이나 엔드 불모지처럼 잘 안 가본 곳까지 생물 군계가... 여기는 붉은 모래랑 테라코타랑 레일이 특산품이에요. 폐광이 지상에 드러나 있어서 깊이 안 파도 금... ",
+      "link": "https://blog.naver.com/leeon715/224476681709",
+      "source": "블로그",
+      "author": "게임 공략 연구소",
+      "date": "20261114",
+      "thumb": null
+    },
+    {
+      "title": "[붉은 사막] 가면 쓴 사냥꾼 퀘스트",
+      "summary": "붉은 사막 본편을 진행하면서 일종의 미제로 남은 퀘스트를 정리하고 있습니다. 그중 하나 가면 쓴 사냥꾼 퀘스트 입니다 '1/2'로 떠 있는데 퀘스트가 뜨지 않아... ",
+      "link": "https://blog.naver.com/thegameiveplayed/224476664262",
+      "source": "블로그",
+      "author": "The game I've played",
+      "date": "20261114",
+      "thumb": null
+    },
     {
       "title": "붉은사막 골든조이스틱 PC게임 정상! GOTY 2%p 차 석패는?",
       "summary": "붉은사막 골든조이스틱 PC게임 정상! GOTY 2%p 차 석패는? 【1】 붉은사막, 골든 조이스틱 수상 결과는?... 신규 추가된 '미지의 여정' 스토리 퀘스트와 보스전 공략! 4. 칼마감 주의! 수상 기념 특별 이벤트와... ",
@@ -31,20 +58,20 @@
       "thumb": null
     },
     {
-      "title": "지스타 2026 일정·티켓｜11월 19~22일 부산 벡스코, 입장권 1만8천원 현....",
-      "summary": "「마크로스」 카와모리 쇼지 감독과 넥슨게임즈 김용하 본부장의 대담, 펄어비스 「붉은사막」... 함께 보면 좋은 글 • 젤다 시간의 오카리나 리메이크｜스위치2 8만8천원·한국어 지원, 공략 전에... ",
-      "link": "https://blog.naver.com/carjam_9/224475010174",
-      "source": "블로그",
-      "author": "카잼",
-      "date": "20261113",
-      "thumb": null
-    },
-    {
       "title": "[젤다 야숨] 4신수 최적 공략 순서! 바·메도 1순위 추천과 4대 영걸 ....",
       "summary": "세이지의 4신수 공략 3줄 핵심 요약... 해도 붉은 결계가 펼쳐져 가디언 레이저를 포함한 적의 모든 공격을 타이밍과... 마지막 4순위는 남서쪽 사막 지대인 겔드 지방의 '번개의 신수 바·나보리스'로, 선행... ",
       "link": "https://blog.naver.com/jmovery/224475549913",
       "source": "블로그",
       "author": "세이지의 지식창고",
+      "date": "20261113",
+      "thumb": null
+    },
+    {
+      "title": "지스타 2026 일정·티켓｜11월 19~22일 부산 벡스코, 입장권 1만8천원 현....",
+      "summary": "「마크로스」 카와모리 쇼지 감독과 넥슨게임즈 김용하 본부장의 대담, 펄어비스 「붉은사막」... 함께 보면 좋은 글 • 젤다 시간의 오카리나 리메이크｜스위치2 8만8천원·한국어 지원, 공략 전에... ",
+      "link": "https://blog.naver.com/carjam_9/224475010174",
+      "source": "블로그",
+      "author": "카잼",
       "date": "20261113",
       "thumb": null
     },
@@ -243,33 +270,6 @@
       "link": "https://blog.naver.com/sometokill/224474532440",
       "source": "블로그",
       "author": "태호르이슈",
-      "date": "20261112",
-      "thumb": null
-    },
-    {
-      "title": "[붉은 사막 DLC] '용연향' 효율적인 파밍 방법",
-      "summary": "이번에 소개할 것은 붉은 사막 DLC의 용연향의 효율적인 파밍 방법입니다. 이번 DLC에서는 다양한 해양 컨텐츠와 함께 여러가지 새로운 아이템들이 추가가 되었는데요. 그 중에는 희귀 재료 '용연향'도... ",
-      "link": "https://blog.naver.com/kbhyo0223/224474464675",
-      "source": "블로그",
-      "author": "비류의 취미가",
-      "date": "20261112",
-      "thumb": null
-    },
-    {
-      "title": "2026 올해 최고의 스팀 게임 추천 TOP50",
-      "summary": "퍼즐은 전작보다 쉽고 논리적인 편이라 시리즈를 몰라도 공략 없이 깰 수 있고 이야기도 이전보다 알기 쉽게 풀려 있죠. 엔딩을 본 뒤에도 수첩에서 챕터를 다시 골라 숨겨진 엔딩과 업적을 찾을 수 있으니 4... ",
-      "link": "https://dreaminfo.tistory.com/1087",
-      "source": "블로그",
-      "author": "푸린의 정보 블로그",
-      "date": "20261112",
-      "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbv8Hwn%2FdJMcacFtQtT%2FAAAAAAAAAAAAAAAAAAAAAA9-2jOkxmbGt2TtsWVXAa8kgEDS5OB0oDz59vhyp1dS%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DKx98oXiMWYB1n%252FNcQrt6LvSBi3M%253D"
-    },
-    {
-      "title": "2026 골든 조이스틱 어워드 수상작 총정리! 올해의 게임 TOP 5는?",
-      "summary": "꿀정보와 게임 쿠폰, 이벤트 소식, 공략을 적어드릴게요. 오늘은 2026 골든 조이스틱 어워드 수상작과... 올해는 캡콤의 레지던트 이블 레퀴엠이 GOTY를 수상한 가운데, 국내 개발사 펄어비스의 붉은사막이... ",
-      "link": "https://blog.naver.com/parker1531/224474352138",
-      "source": "블로그",
-      "author": "동동이의 게임세상♥",
       "date": "20261112",
       "thumb": null
     },
@@ -535,13 +535,13 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 공략 및 팁 정리",
-      "summary": "이 글은 붉은사막 (Crimson Desert) 공략 및 팁에 대해 정리하고 있습니다. 붉은 사막의 메인 의뢰(메인 퀘스트), 세력 의뢰, 각종 유니크 장비와 수집품들의 위치, 그외 게임플레이에 도움이 될만한 각종 팁들을 한곳에 모아 ....",
-      "link": "https://nspxgame.com/crimson-desert/41860/",
+      "title": "붉은사막 인벤 팁과 노하우 게시판 - 붉은사막 인벤",
+      "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
+      "link": "https://www.inven.co.kr/board/crimson/6511",
       "source": "웹문서",
       "author": null,
       "date": null,
-      "thumb": "https://nspxgame.com/wp-content/uploads/2026/04/2026-04-12_Vp5zdZvdFfkGgcThjm.jpg"
+      "thumb": null
     },
     {
       "title": "2026년 11월 13일(금) 상승종목 및 특징주",
