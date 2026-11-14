@@ -1,11 +1,20 @@
 {
   "query": "붉은사막 공략",
-  "updatedAt": "2026-11-14T12:57:51.024Z",
+  "updatedAt": "2026-11-14T21:57:55.495Z",
   "count": 90,
   "guides": [
     {
-      "title": "붉은사막 후기 전편",
-      "summary": "약 90시간 플레이한 붉은사막. 스팀 평가가 매우 긍정적인 것이 신기할 정도로 개인적으로는 아쉬움이... 외형과 연출은 다양하지만 실제 공략 방식은 대부분 비슷하다. 적이 공격하는 동안 계속 회피하고, 공격이... ",
+      "title": "[붉은 사막 DLC] 가장 큰 전설급 범선 '만취한 메기호' 제작 방법",
+      "summary": "이번에 소개할 것은 붉은 사막 DLC에서 가장 큰 전설급 범선 '만취한 메기호'의 제작 방법입니다. 이번 DLC는 바다를 주무대로 하고 있습니다. 따라서 다양한 해양 컨텐츠가 준비되어 있는데요. 그 중에는... ",
+      "link": "https://blog.naver.com/kbhyo0223/224477365455",
+      "source": "블로그",
+      "author": "비류의 취미가",
+      "date": "20261115",
+      "thumb": null
+    },
+    {
+      "title": "붉은사막 후기 (상편)",
+      "summary": "약 90시간 플레이한 붉은사막. 스팀 평가가 매우 긍정적인 것이 신기할 정도로 개인적으로는 아쉬움이... 결국 보스마다 다른 공략법을 찾아가는 재미는 부족한데, 반복되는 순간이동에 제대로 대응하기도... ",
       "link": "https://blog.naver.com/z105814/224477200117",
       "source": "블로그",
       "author": "성문이 생활",
@@ -56,6 +65,15 @@
       "author": "곰씨책공장-출판문의1599 6583<인쇄접지제본*우주가",
       "date": "20261114",
       "thumb": null
+    },
+    {
+      "title": "메이플랜드 소울마스터 육성 가이드(11월 최신)｜1~4차 스킬트리·스....",
+      "summary": "항목 결론 주스탯 STR (DEX는 장비·명중 맞춤용 최소 투자) 무기 두손검 (N방컷이 같다면 한손검도 유효) 1차 핵심 HP 증가량 향상 10 선마 → 슬래시 블러스트/파워 스트라이크 마스터 2차 핵심 소울... ",
+      "link": "https://tamagotch.tistory.com/1534",
+      "source": "블로그",
+      "author": "다마고치 - 게임 공략 블로그",
+      "date": "20261114",
+      "thumb": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FOhDIj%2FdJMcahzTcwq%2FAAAAAAAAAAAAAAAAAAAAABm0n3AHMFWB-Ee6kur4SG2zeY7fmGmvg-Qqsiw5xU_N%2Fimg.webp%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1796050799%26allow_ip%3D%26allow_referer%3D%26signature%3DW1fQQ8qTMaQ8hhT6k9ZRAK1Xgr4%253D"
     },
     {
       "title": "붉은사막(Crimson Desert) 추천 가이드 & 대규모 업데이트(인핸스드·미....",
@@ -256,24 +274,6 @@
       "thumb": null
     },
     {
-      "title": "2026년 11월 마비노기 대격변",
-      "summary": "- 길드 미션 : 거대 사자, 사막 드래곤, 실반 드래곤, 모쿠르칼피 - 연대기 미션 : 스렝, 별동대장, 수상한 석상 드디어!!!!드디어!!!!!!!!!!!! 정말 바라마지 않던... ",
-      "link": "https://blog.naver.com/slapfairy/224475030827",
-      "source": "블로그",
-      "author": "마비뉴비",
-      "date": "20261113",
-      "thumb": null
-    },
-    {
-      "title": "출시 83일 만에 600만 장 돌파! ‘붉은사막’의 대흥행 비결과 최신 ....",
-      "summary": "2026년 3월 출시된 펄어비스의 오픈월드 액션 어드벤처 ‘붉은사막(Crimson Desert)’이 한국 게임사의... 정해진 공략대로 움직이는 것이 아니라, 플레이어가 규칙을 익힌 순간부터 파이웰 대륙의 환경과... ",
-      "link": "https://blog.naver.com/hoong_99/224475020881",
-      "source": "블로그",
-      "author": "호응님의블로그",
-      "date": "20261113",
-      "thumb": null
-    },
-    {
       "title": "붉은사막 인벤 : 붉은사막 공략 모음 (이것만 보면 끝) - 붉은사막 인벤 팁과 노....",
       "summary": "CRIMSON DESERT · GUIDE HUB붉은사막 공략 모음2026.04.10 업데이트클릭하면 원문 공략으로 이동합니다.START처음 시작하는 여행자를 위한 가이드핵심 내용만 빠르게 확인하는 초반 필독 공략↗붉은사막 초반 실전 압축 공략 (돈벌....",
       "link": "https://www.inven.co.kr/board/crimson/6511/86",
@@ -364,6 +364,15 @@
       "thumb": "https://cdn.khgames.co.kr/news/photo/202603/302959_305110_428.jpg"
     },
     {
+      "title": "붉은사막 | 오픈월드 액션 어드벤처 - Pearl Abyss",
+      "summary": "힘을 되찾아, 한계를 넘어서다. 지금, 여러분의 여정이 시작됩니다.",
+      "link": "https://crimsondesert.pearlabyss.com/",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/8877b8d99a620250925065605708.jpg"
+    },
+    {
       "title": "[붉은사막] 벼락·빙결 원소 강화, 어비스 퍼즐 이렇게 공략하세요",
       "summary": "펄어비스 신작 '붉은사막'에는 다양한 전투 기술이 있다. 그중에서도 원소 강화는 전투의 깊이를 결정짓는 핵심 요소 중 하나로 꼽힌다. 원소를 얼마나 이해하고 활용",
       "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=107314",
@@ -380,15 +389,6 @@
       "author": null,
       "date": null,
       "thumb": "https://cdn.unisquads.io/general/og_thumb-v20260527.jpg"
-    },
-    {
-      "title": "붉은사막 | 오픈월드 액션 어드벤처 - Pearl Abyss",
-      "summary": "힘을 되찾아, 한계를 넘어서다. 지금, 여러분의 여정이 시작됩니다.",
-      "link": "https://crimsondesert.pearlabyss.com/",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/8877b8d99a620250925065605708.jpg"
     },
     {
       "title": "[붉은사막 공략 ⑧] 담금질 심화편, 장비 최종 강화까지 ‘순쉬운 파밍’",
@@ -490,15 +490,6 @@
       "thumb": "https://dcimg2.dcinside.co.kr/viewimage.php?id=3fb8d422e0c13db47a&no=24b0d769e1d32ca73de784fa1bd62531bc86dc33fe20e88dc284ef42ed3c04fbcba936e6f044cbbe1221837f8b30ca03758a92ba3567bf729b90d301c48ad90d3269059673bef2097a42"
     },
     {
-      "title": "붉은사막 Enhanced 신규 스킬 8종 공략",
-      "summary": "붉은사막 Enhanced 업데이트에서는 클리프 전용 신규 스킬 8종과 새로운 기술 습득 재화인 아비스 결속이 추가되었습니다. 신규 스킬은 완전히 별개의 기술이라기보다 기존 기술을 강화하거나 새로운 기능을 더하는 방식....",
-      "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-enhanced-new-skill-guide.html",
-      "source": "웹문서",
-      "author": null,
-      "date": null,
-      "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/bFa4hZ-1788099525744.webp"
-    },
-    {
       "title": "붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
       "link": "https://www.inven.co.kr/crimson/",
@@ -506,6 +497,15 @@
       "author": null,
       "date": null,
       "thumb": null
+    },
+    {
+      "title": "붉은사막 Enhanced 신규 스킬 8종 공략",
+      "summary": "붉은사막 Enhanced 업데이트에서는 클리프 전용 신규 스킬 8종과 새로운 기술 습득 재화인 아비스 결속이 추가되었습니다. 신규 스킬은 완전히 별개의 기술이라기보다 기존 기술을 강화하거나 새로운 기능을 더하는 방식....",
+      "link": "https://www.oslink.io/kr/blog/guide/crimson-desert-enhanced-new-skill-guide.html",
+      "source": "웹문서",
+      "author": null,
+      "date": null,
+      "thumb": "https://hwres.oslink.io/rcmnq/gw/gwcard/bFa4hZ-1788099525744.webp"
     },
     {
       "title": "[모음집] 붉은사막 각종 초반 팁 모음집 - PC/콘솔 게임",
@@ -526,18 +526,18 @@
       "thumb": null
     },
     {
-      "title": "붉은사막 인벤 자유 게시판 - 붉은사막 인벤",
+      "title": "붉은사막 인벤 팁과 노하우 게시판 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
-      "link": "https://www.inven.co.kr/board/crimson/6246",
+      "link": "https://www.inven.co.kr/board/crimson/6511",
       "source": "웹문서",
       "author": null,
       "date": null,
       "thumb": null
     },
     {
-      "title": "붉은사막 인벤 팁과 노하우 게시판 - 붉은사막 인벤",
+      "title": "붉은사막 인벤 자유 게시판 - 붉은사막 인벤",
       "summary": "붉은사막 인벤, 최신 정보, 메인 스토리 공략, 서브 퀘스트, 고대 유적 퍼즐, 도전 과제, 팁과 노하우, 커뮤니티",
-      "link": "https://www.inven.co.kr/board/crimson/6511",
+      "link": "https://www.inven.co.kr/board/crimson/6246",
       "source": "웹문서",
       "author": null,
       "date": null,
