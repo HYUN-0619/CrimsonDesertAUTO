@@ -1,17 +1,57 @@
 {
   "query": "#붉은사막 shorts",
   "durationLimitSec": 180,
-  "updatedAt": "2026-11-21T06:13:16.978Z",
+  "updatedAt": "2026-11-21T18:51:41.628Z",
   "count": 150,
   "videos": [
+    {
+      "id": "4RpIhKRQJuM",
+      "title": "활쏘기 대회에서 과녁 말고 사람을 쏜 유저의 최후 | 붉은사막(Crimson Desert) #shorts",
+      "channel": "인디픽",
+      "publishedAt": "2026-11-21T13:30:21Z",
+      "thumb": "https://i.ytimg.com/vi/4RpIhKRQJuM/hqdefault.jpg",
+      "views": 1068,
+      "likes": 1,
+      "durationSec": 23
+    },
+    {
+      "id": "U93mVTYz7XU",
+      "title": "괴수 촉수가 감긴 심해의 구속자 레이피어 #붉은사막 #CrimsonDesert #붉은사막공략 #심해의구속자레이피어 #Shorts",
+      "channel": "NinDol",
+      "publishedAt": "2026-11-21T09:30:32Z",
+      "thumb": "https://i.ytimg.com/vi/U93mVTYz7XU/hqdefault.jpg",
+      "views": 2033,
+      "likes": 33,
+      "durationSec": 35
+    },
+    {
+      "id": "sfOdSB0fv3w",
+      "title": "붉은사막 어비스 완료한 날 2026-11-21...",
+      "channel": "깡철이",
+      "publishedAt": "2026-11-21T09:02:47Z",
+      "thumb": "https://i.ytimg.com/vi/sfOdSB0fv3w/hqdefault.jpg",
+      "views": 1105,
+      "likes": 3,
+      "durationSec": 129
+    },
+    {
+      "id": "FCYYffc5qDo",
+      "title": "붉은사막의 숲은 한 번 실패했습니다 | 지스타 2026 펄어비스 강연",
+      "channel": "디펜스배틀",
+      "publishedAt": "2026-11-21T08:00:37Z",
+      "thumb": "https://i.ytimg.com/vi/FCYYffc5qDo/hqdefault.jpg",
+      "views": 1668,
+      "likes": 20,
+      "durationSec": 86
+    },
     {
       "id": "_BdYWqdX1FI",
       "title": "붉은사막 게임대상 8관왕 신기록! GTA6 출시·TGA 8개 부문 후보 #shorts",
       "channel": "알파메일 빵빵이",
       "publishedAt": "2026-11-21T06:00:31Z",
       "thumb": "https://i.ytimg.com/vi/_BdYWqdX1FI/hqdefault.jpg",
-      "views": 5,
-      "likes": 0,
+      "views": 176,
+      "likes": 3,
       "durationSec": 40
     },
     {
@@ -20,8 +60,8 @@
       "channel": "유게임즈 UGames",
       "publishedAt": "2026-11-20T23:15:21Z",
       "thumb": "https://i.ytimg.com/vi/jC-ww7LxtGs/hqdefault.jpg",
-      "views": 1576,
-      "likes": 6,
+      "views": 2233,
+      "likes": 8,
       "durationSec": 28
     },
     {
@@ -30,7 +70,7 @@
       "channel": "BaeBaeMU 배배뮤",
       "publishedAt": "2026-11-20T12:43:29Z",
       "thumb": "https://i.ytimg.com/vi/EyAjZElJjaY/hqdefault.jpg",
-      "views": 40,
+      "views": 56,
       "likes": 0,
       "durationSec": 8
     },
@@ -40,8 +80,8 @@
       "channel": "겜파카",
       "publishedAt": "2026-11-20T10:52:40Z",
       "thumb": "https://i.ytimg.com/vi/ohFkzRmpMKQ/hqdefault.jpg",
-      "views": 1892,
-      "likes": 6,
+      "views": 2789,
+      "likes": 8,
       "durationSec": 32
     },
     {
@@ -50,7 +90,7 @@
       "channel": "지금 그 게임",
       "publishedAt": "2026-11-20T10:00:30Z",
       "thumb": "https://i.ytimg.com/vi/l96Qz-4yWco/hqdefault.jpg",
-      "views": 1525,
+      "views": 1656,
       "likes": 3,
       "durationSec": 46
     },
@@ -60,8 +100,8 @@
       "channel": "성꼬락",
       "publishedAt": "2026-11-20T04:00:01Z",
       "thumb": "https://i.ytimg.com/vi/WEOXAgb6aAQ/hqdefault.jpg",
-      "views": 1111,
-      "likes": 4,
+      "views": 1152,
+      "likes": 5,
       "durationSec": 19
     },
     {
@@ -70,7 +110,7 @@
       "channel": "따봉게임",
       "publishedAt": "2026-11-20T03:01:44Z",
       "thumb": "https://i.ytimg.com/vi/1ISNUjvPA9o/hqdefault.jpg",
-      "views": 953,
+      "views": 947,
       "likes": 3,
       "durationSec": 20
     },
@@ -80,7 +120,7 @@
       "channel": "도파민박스",
       "publishedAt": "2026-11-20T01:25:58Z",
       "thumb": "https://i.ytimg.com/vi/Apm2JFOOrJA/hqdefault.jpg",
-      "views": 169,
+      "views": 244,
       "likes": 2,
       "durationSec": 50
     },
@@ -90,7 +130,7 @@
       "channel": "도파민박스",
       "publishedAt": "2026-11-20T01:25:07Z",
       "thumb": "https://i.ytimg.com/vi/DIkNyaKI-PQ/hqdefault.jpg",
-      "views": 402,
+      "views": 514,
       "likes": 5,
       "durationSec": 56
     },
@@ -100,8 +140,8 @@
       "channel": "블루파랑",
       "publishedAt": "2026-11-19T23:15:08Z",
       "thumb": "https://i.ytimg.com/vi/5Te8Cpqsv9w/hqdefault.jpg",
-      "views": 1488,
-      "likes": 10,
+      "views": 1583,
+      "likes": 16,
       "durationSec": 25
     },
     {
@@ -110,8 +150,8 @@
       "channel": "붉게물들다",
       "publishedAt": "2026-11-19T15:22:31Z",
       "thumb": "https://i.ytimg.com/vi/RNWSCxlwe1E/hqdefault.jpg",
-      "views": 1499,
-      "likes": 40,
+      "views": 1676,
+      "likes": 42,
       "durationSec": 55
     },
     {
@@ -120,7 +160,7 @@
       "channel": "인디픽",
       "publishedAt": "2026-11-19T13:30:38Z",
       "thumb": "https://i.ytimg.com/vi/lWQBZsczuHo/hqdefault.jpg",
-      "views": 1066,
+      "views": 1086,
       "likes": 2,
       "durationSec": 25
     },
@@ -130,7 +170,7 @@
       "channel": "서드앵글",
       "publishedAt": "2026-11-19T13:00:23Z",
       "thumb": "https://i.ytimg.com/vi/mRg9mZ1EJ0U/hqdefault.jpg",
-      "views": 1197,
+      "views": 1200,
       "likes": 12,
       "durationSec": 58
     },
@@ -140,8 +180,8 @@
       "channel": "성꼬락",
       "publishedAt": "2026-11-19T11:11:20Z",
       "thumb": "https://i.ytimg.com/vi/T7QA6Ce33ew/hqdefault.jpg",
-      "views": 1248,
-      "likes": 8,
+      "views": 1388,
+      "likes": 13,
       "durationSec": 29
     },
     {
@@ -150,8 +190,8 @@
       "channel": "NinDol",
       "publishedAt": "2026-11-19T10:38:25Z",
       "thumb": "https://i.ytimg.com/vi/Ow0CyV9Isig/hqdefault.jpg",
-      "views": 3493,
-      "likes": 54,
+      "views": 4132,
+      "likes": 66,
       "durationSec": 30
     },
     {
@@ -160,7 +200,7 @@
       "channel": "놀이가락",
       "publishedAt": "2026-11-19T09:46:15Z",
       "thumb": "https://i.ytimg.com/vi/Oo8ZNgW1YUE/hqdefault.jpg",
-      "views": 1241,
+      "views": 1254,
       "likes": 4,
       "durationSec": 22
     },
@@ -170,8 +210,8 @@
       "channel": "핫댓",
       "publishedAt": "2026-11-19T04:23:20Z",
       "thumb": "https://i.ytimg.com/vi/0py-2VaJ0A0/hqdefault.jpg",
-      "views": 5495,
-      "likes": 44,
+      "views": 6405,
+      "likes": 50,
       "durationSec": 41
     },
     {
@@ -180,7 +220,7 @@
       "channel": "게임인",
       "publishedAt": "2026-11-19T04:00:16Z",
       "thumb": "https://i.ytimg.com/vi/yXqBFgEhmlY/hqdefault.jpg",
-      "views": 243,
+      "views": 246,
       "likes": 0,
       "durationSec": 33
     },
@@ -190,7 +230,7 @@
       "channel": "신나는 대한민국",
       "publishedAt": "2026-11-19T01:00:36Z",
       "thumb": "https://i.ytimg.com/vi/J8E2TkFXWDg/hqdefault.jpg",
-      "views": 114,
+      "views": 117,
       "likes": 0,
       "durationSec": 6
     },
@@ -200,7 +240,7 @@
       "channel": "냥부장의 쉬운 뉴스",
       "publishedAt": "2026-11-19T00:30:52Z",
       "thumb": "https://i.ytimg.com/vi/xICK6goBlLI/hqdefault.jpg",
-      "views": 1258,
+      "views": 1262,
       "likes": 7,
       "durationSec": 36
     },
@@ -210,8 +250,8 @@
       "channel": "블루파랑",
       "publishedAt": "2026-11-18T23:15:20Z",
       "thumb": "https://i.ytimg.com/vi/CmC3R61sqzw/hqdefault.jpg",
-      "views": 1206,
-      "likes": 4,
+      "views": 1259,
+      "likes": 7,
       "durationSec": 39
     },
     {
@@ -230,19 +270,9 @@
       "channel": "Nado Youtuber",
       "publishedAt": "2026-11-18T21:11:46Z",
       "thumb": "https://i.ytimg.com/vi/ylaScRymBtw/hqdefault.jpg",
-      "views": 1047,
-      "likes": 0,
+      "views": 1048,
+      "likes": 1,
       "durationSec": 33
-    },
-    {
-      "id": "t3QyRzoF4RY",
-      "title": "붉은사막 백병전 시 내 배는 어떻게 될까? #붉은사막 #crimsondesertgameplay  #shorts",
-      "channel": "게임하는 집냥",
-      "publishedAt": "2026-11-18T15:31:41Z",
-      "thumb": "https://i.ytimg.com/vi/t3QyRzoF4RY/hqdefault.jpg",
-      "views": 1215,
-      "likes": 3,
-      "durationSec": 41
     },
     {
       "id": "81U4xYKoKK0",
@@ -250,19 +280,9 @@
       "channel": "게임하는 집냥",
       "publishedAt": "2026-11-18T15:06:31Z",
       "thumb": "https://i.ytimg.com/vi/81U4xYKoKK0/hqdefault.jpg",
-      "views": 1232,
+      "views": 1236,
       "likes": 4,
       "durationSec": 45
-    },
-    {
-      "id": "YbqC7N4ii9E",
-      "title": "게임계 오스카 TGA 후보 발표…GTA6 8개 부문 최다, 붉은사막은 커뮤니티상만 #shorts",
-      "channel": "감성비 (GamSeongBee)",
-      "publishedAt": "2026-11-18T13:58:43Z",
-      "thumb": "https://i.ytimg.com/vi/YbqC7N4ii9E/hqdefault.jpg",
-      "views": 442,
-      "likes": 0,
-      "durationSec": 79
     },
     {
       "id": "y35x1AxKWHM",
@@ -270,8 +290,8 @@
       "channel": "NinDol",
       "publishedAt": "2026-11-18T13:50:59Z",
       "thumb": "https://i.ytimg.com/vi/y35x1AxKWHM/hqdefault.jpg",
-      "views": 4350,
-      "likes": 84,
+      "views": 4709,
+      "likes": 89,
       "durationSec": 32
     },
     {
@@ -280,7 +300,7 @@
       "channel": "비교로이해하는뉴스",
       "publishedAt": "2026-11-18T13:39:46Z",
       "thumb": "https://i.ytimg.com/vi/LfJ7NgpAnRc/hqdefault.jpg",
-      "views": 2180,
+      "views": 2207,
       "likes": 5,
       "durationSec": 30
     },
@@ -290,19 +310,9 @@
       "channel": "붉게물들다",
       "publishedAt": "2026-11-18T13:04:12Z",
       "thumb": "https://i.ytimg.com/vi/M2aHeZwchRQ/hqdefault.jpg",
-      "views": 18793,
-      "likes": 201,
+      "views": 19642,
+      "likes": 210,
       "durationSec": 90
-    },
-    {
-      "id": "54ombAobWrw",
-      "title": "올해 게임대상을 붉은사막이 '8관왕'으로 싹쓸이한 이유",
-      "channel": "방금수달",
-      "publishedAt": "2026-11-18T13:01:04Z",
-      "thumb": "https://i.ytimg.com/vi/54ombAobWrw/hqdefault.jpg",
-      "views": 1558,
-      "likes": 2,
-      "durationSec": 32
     },
     {
       "id": "5yENbcjex2U",
@@ -310,29 +320,9 @@
       "channel": "1분잡학연구소",
       "publishedAt": "2026-11-18T11:46:39Z",
       "thumb": "https://i.ytimg.com/vi/5yENbcjex2U/hqdefault.jpg",
-      "views": 1184,
+      "views": 1186,
       "likes": 4,
       "durationSec": 55
-    },
-    {
-      "id": "Yu02DUWwfSo",
-      "title": "출시 83일 만에 600만 장 팔린 붉은사막, 게임대상 8관왕 🏆",
-      "channel": "IssueGo",
-      "publishedAt": "2026-11-18T11:30:03Z",
-      "thumb": "https://i.ytimg.com/vi/Yu02DUWwfSo/hqdefault.jpg",
-      "views": 660,
-      "likes": 4,
-      "durationSec": 45
-    },
-    {
-      "id": "qUhQztnqSKM",
-      "title": "'붉은사막', 2026 게임대상 대상…역대 최다 8관왕",
-      "channel": "Dailyssue - 그날의이슈",
-      "publishedAt": "2026-11-18T11:19:00Z",
-      "thumb": "https://i.ytimg.com/vi/qUhQztnqSKM/hqdefault.jpg",
-      "views": 269,
-      "likes": 4,
-      "durationSec": 49
     },
     {
       "id": "dOevyjLr6LQ",
@@ -343,26 +333,6 @@
       "views": 45,
       "likes": 0,
       "durationSec": 24
-    },
-    {
-      "id": "TZK8OuoYGvg",
-      "title": "붉은사막, 2026 대한민국 게임대상 대상… 게임대상 첫 8관왕 #붉은사막 #shorts",
-      "channel": "로딩뉴스",
-      "publishedAt": "2026-11-18T10:14:25Z",
-      "thumb": "https://i.ytimg.com/vi/TZK8OuoYGvg/hqdefault.jpg",
-      "views": 1379,
-      "likes": 13,
-      "durationSec": 49
-    },
-    {
-      "id": "zlf_OEPkrVk",
-      "title": "2026 GOTY 후보 공개! 붉은사막은?｜더 게임 어워드 2026 #shorts",
-      "channel": "모리츠TV-게임채널",
-      "publishedAt": "2026-11-18T05:26:10Z",
-      "thumb": "https://i.ytimg.com/vi/zlf_OEPkrVk/hqdefault.jpg",
-      "views": 2065,
-      "likes": 14,
-      "durationSec": 40
     },
     {
       "id": "nyoXxkamMsk",
@@ -380,8 +350,8 @@
       "channel": "NinDol",
       "publishedAt": "2026-11-18T04:15:21Z",
       "thumb": "https://i.ytimg.com/vi/ok7rME1Shmo/hqdefault.jpg",
-      "views": 21169,
-      "likes": 200,
+      "views": 21327,
+      "likes": 202,
       "durationSec": 28
     },
     {
@@ -390,8 +360,8 @@
       "channel": "퇴근후플스",
       "publishedAt": "2026-11-17T18:07:06Z",
       "thumb": "https://i.ytimg.com/vi/3niyvrMHbuw/hqdefault.jpg",
-      "views": 5401,
-      "likes": 15,
+      "views": 6093,
+      "likes": 16,
       "durationSec": 116
     },
     {
@@ -400,8 +370,8 @@
       "channel": "붉게물들다",
       "publishedAt": "2026-11-17T14:24:35Z",
       "thumb": "https://i.ytimg.com/vi/IPHuHwo3A8U/hqdefault.jpg",
-      "views": 3832,
-      "likes": 83,
+      "views": 4002,
+      "likes": 87,
       "durationSec": 49
     },
     {
@@ -410,7 +380,7 @@
       "channel": "순삭겜",
       "publishedAt": "2026-11-17T05:27:47Z",
       "thumb": "https://i.ytimg.com/vi/e8CixkMAO_c/hqdefault.jpg",
-      "views": 1295,
+      "views": 1296,
       "likes": 3,
       "durationSec": 28
     },
@@ -430,7 +400,7 @@
       "channel": "NinDol",
       "publishedAt": "2026-11-16T16:08:09Z",
       "thumb": "https://i.ytimg.com/vi/r_H3WktLODI/hqdefault.jpg",
-      "views": 5238,
+      "views": 5313,
       "likes": 47,
       "durationSec": 28
     },
@@ -440,8 +410,8 @@
       "channel": "붉게물들다",
       "publishedAt": "2026-11-16T15:38:13Z",
       "thumb": "https://i.ytimg.com/vi/gOx2A0EiTMA/hqdefault.jpg",
-      "views": 5888,
-      "likes": 62,
+      "views": 6489,
+      "likes": 67,
       "durationSec": 81
     },
     {
@@ -450,7 +420,7 @@
       "channel": "FrankSrirachaGaming",
       "publishedAt": "2026-11-16T09:00:16Z",
       "thumb": "https://i.ytimg.com/vi/J0ztiU90amc/hqdefault.jpg",
-      "views": 1106,
+      "views": 1105,
       "likes": 14,
       "durationSec": 37
     },
@@ -460,7 +430,7 @@
       "channel": "NinDol",
       "publishedAt": "2026-11-16T06:05:04Z",
       "thumb": "https://i.ytimg.com/vi/8pU4XRrzXy8/hqdefault.jpg",
-      "views": 6313,
+      "views": 6348,
       "likes": 55,
       "durationSec": 24
     },
@@ -470,7 +440,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-11-16T03:00:38Z",
       "thumb": "https://i.ytimg.com/vi/7Lb-oQ8RwhQ/hqdefault.jpg",
-      "views": 3221,
+      "views": 3229,
       "likes": 40,
       "durationSec": 123
     },
@@ -480,7 +450,7 @@
       "channel": "NinDol",
       "publishedAt": "2026-11-15T12:09:05Z",
       "thumb": "https://i.ytimg.com/vi/piZJOgaFVLM/hqdefault.jpg",
-      "views": 26755,
+      "views": 27074,
       "likes": 176,
       "durationSec": 30
     },
@@ -490,7 +460,7 @@
       "channel": "신작게임 추천레이더⭐",
       "publishedAt": "2026-11-15T10:00:06Z",
       "thumb": "https://i.ytimg.com/vi/wPzjtWF1AiA/hqdefault.jpg",
-      "views": 1056,
+      "views": 1059,
       "likes": 2,
       "durationSec": 31
     },
@@ -500,7 +470,7 @@
       "channel": "NinDol",
       "publishedAt": "2026-11-15T06:51:00Z",
       "thumb": "https://i.ytimg.com/vi/vnzxu_Zxb2Q/hqdefault.jpg",
-      "views": 9252,
+      "views": 9387,
       "likes": 96,
       "durationSec": 29
     },
@@ -530,19 +500,9 @@
       "channel": "NinDol",
       "publishedAt": "2026-11-14T14:02:15Z",
       "thumb": "https://i.ytimg.com/vi/SfAFEyFkhzw/hqdefault.jpg",
-      "views": 8113,
-      "likes": 57,
+      "views": 8170,
+      "likes": 56,
       "durationSec": 34
-    },
-    {
-      "id": "steorr6OGzg",
-      "title": "이건 드릴인가 드라이버인가? #붉은사막 #CrimsonDesert #붉은사막공략 #은장파쇄봉 #Shorts",
-      "channel": "NinDol",
-      "publishedAt": "2026-11-14T02:50:18Z",
-      "thumb": "https://i.ytimg.com/vi/steorr6OGzg/hqdefault.jpg",
-      "views": 11059,
-      "likes": 94,
-      "durationSec": 26
     },
     {
       "id": "_hbexErRzfg",
@@ -550,7 +510,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-11-14T02:11:52Z",
       "thumb": "https://i.ytimg.com/vi/_hbexErRzfg/hqdefault.jpg",
-      "views": 6434,
+      "views": 6481,
       "likes": 59,
       "durationSec": 47
     },
@@ -560,7 +520,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-14T00:00:23Z",
       "thumb": "https://i.ytimg.com/vi/LMJFzjoIf-8/hqdefault.jpg",
-      "views": 1917,
+      "views": 1927,
       "likes": 8,
       "durationSec": 145
     },
@@ -570,7 +530,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-13T23:30:22Z",
       "thumb": "https://i.ytimg.com/vi/tsQVNMGkluU/hqdefault.jpg",
-      "views": 2172,
+      "views": 2179,
       "likes": 22,
       "durationSec": 113
     },
@@ -580,7 +540,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-13T23:00:36Z",
       "thumb": "https://i.ytimg.com/vi/Jbkqd0DN008/hqdefault.jpg",
-      "views": 2066,
+      "views": 2072,
       "likes": 20,
       "durationSec": 161
     },
@@ -590,7 +550,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-13T22:00:00Z",
       "thumb": "https://i.ytimg.com/vi/VxZycOFuSr4/hqdefault.jpg",
-      "views": 3027,
+      "views": 3090,
       "likes": 15,
       "durationSec": 86
     },
@@ -600,7 +560,7 @@
       "channel": "NinDol",
       "publishedAt": "2026-11-13T12:21:48Z",
       "thumb": "https://i.ytimg.com/vi/9k6daNf4EN4/hqdefault.jpg",
-      "views": 13695,
+      "views": 13749,
       "likes": 166,
       "durationSec": 24
     },
@@ -620,8 +580,8 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-11-13T01:00:04Z",
       "thumb": "https://i.ytimg.com/vi/X1zzqzm234U/hqdefault.jpg",
-      "views": 33536,
-      "likes": 289,
+      "views": 34042,
+      "likes": 291,
       "durationSec": 124
     },
     {
@@ -630,7 +590,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-13T00:30:20Z",
       "thumb": "https://i.ytimg.com/vi/r6_INWLrJfM/hqdefault.jpg",
-      "views": 4293,
+      "views": 4299,
       "likes": 10,
       "durationSec": 180
     },
@@ -640,7 +600,7 @@
       "channel": "KR경제",
       "publishedAt": "2026-11-13T00:00:14Z",
       "thumb": "https://i.ytimg.com/vi/gzuVNVXwicU/hqdefault.jpg",
-      "views": 1075,
+      "views": 1080,
       "likes": 1,
       "durationSec": 56
     },
@@ -650,7 +610,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-12T23:10:39Z",
       "thumb": "https://i.ytimg.com/vi/57vf7ImQEWE/hqdefault.jpg",
-      "views": 1752,
+      "views": 1760,
       "likes": 15,
       "durationSec": 73
     },
@@ -660,8 +620,8 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-12T22:40:01Z",
       "thumb": "https://i.ytimg.com/vi/7owIvwNB9lg/hqdefault.jpg",
-      "views": 9615,
-      "likes": 85,
+      "views": 9766,
+      "likes": 87,
       "durationSec": 91
     },
     {
@@ -670,8 +630,8 @@
       "channel": "붉게물들다",
       "publishedAt": "2026-11-12T14:59:00Z",
       "thumb": "https://i.ytimg.com/vi/CuhhVCgUjKM/hqdefault.jpg",
-      "views": 4334,
-      "likes": 39,
+      "views": 4378,
+      "likes": 40,
       "durationSec": 82
     },
     {
@@ -690,7 +650,7 @@
       "channel": "코코플레이",
       "publishedAt": "2026-11-12T03:03:44Z",
       "thumb": "https://i.ytimg.com/vi/MlJz3bvo-us/hqdefault.jpg",
-      "views": 293,
+      "views": 294,
       "likes": 1,
       "durationSec": 41
     },
@@ -700,7 +660,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-11-12T01:00:36Z",
       "thumb": "https://i.ytimg.com/vi/p8pmtNAQdhE/hqdefault.jpg",
-      "views": 5756,
+      "views": 5778,
       "likes": 64,
       "durationSec": 60
     },
@@ -720,7 +680,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-11T22:30:11Z",
       "thumb": "https://i.ytimg.com/vi/lICZjjYoHN4/hqdefault.jpg",
-      "views": 1500,
+      "views": 1502,
       "likes": 9,
       "durationSec": 99
     },
@@ -730,7 +690,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-11T22:00:20Z",
       "thumb": "https://i.ytimg.com/vi/rbtFFLJYcPk/hqdefault.jpg",
-      "views": 2077,
+      "views": 2078,
       "likes": 6,
       "durationSec": 162
     },
@@ -740,8 +700,8 @@
       "channel": "붉게물들다",
       "publishedAt": "2026-11-11T15:17:21Z",
       "thumb": "https://i.ytimg.com/vi/fAQW6BdG0E4/hqdefault.jpg",
-      "views": 13021,
-      "likes": 141,
+      "views": 13123,
+      "likes": 142,
       "durationSec": 55
     },
     {
@@ -750,7 +710,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-11-11T03:20:02Z",
       "thumb": "https://i.ytimg.com/vi/QeDs2g76Njo/hqdefault.jpg",
-      "views": 5023,
+      "views": 5032,
       "likes": 42,
       "durationSec": 51
     },
@@ -760,7 +720,7 @@
       "channel": "밍쿠",
       "publishedAt": "2026-11-11T02:30:07Z",
       "thumb": "https://i.ytimg.com/vi/hLS8xzWWBNs/hqdefault.jpg",
-      "views": 5916,
+      "views": 5917,
       "likes": 45,
       "durationSec": 36
     },
@@ -770,7 +730,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-10T23:30:03Z",
       "thumb": "https://i.ytimg.com/vi/1qeBGLT3E94/hqdefault.jpg",
-      "views": 1690,
+      "views": 1700,
       "likes": 10,
       "durationSec": 80
     },
@@ -780,7 +740,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-10T23:00:31Z",
       "thumb": "https://i.ytimg.com/vi/a0XiQQ7nVbw/hqdefault.jpg",
-      "views": 898,
+      "views": 899,
       "likes": 2,
       "durationSec": 112
     },
@@ -790,7 +750,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-10T22:30:30Z",
       "thumb": "https://i.ytimg.com/vi/WhUvyaoteYg/hqdefault.jpg",
-      "views": 1353,
+      "views": 1362,
       "likes": 3,
       "durationSec": 72
     },
@@ -800,7 +760,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-10T22:00:27Z",
       "thumb": "https://i.ytimg.com/vi/hb1zLVw1HnQ/hqdefault.jpg",
-      "views": 1805,
+      "views": 1814,
       "likes": 12,
       "durationSec": 151
     },
@@ -810,7 +770,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-11-10T03:00:00Z",
       "thumb": "https://i.ytimg.com/vi/W40qc8oPTN4/hqdefault.jpg",
-      "views": 3277,
+      "views": 3285,
       "likes": 32,
       "durationSec": 115
     },
@@ -820,7 +780,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-11-09T03:06:17Z",
       "thumb": "https://i.ytimg.com/vi/_mfWRssAvmo/hqdefault.jpg",
-      "views": 18331,
+      "views": 18592,
       "likes": 115,
       "durationSec": 58
     },
@@ -840,7 +800,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-08T23:00:32Z",
       "thumb": "https://i.ytimg.com/vi/h8f0gzeQ3O8/hqdefault.jpg",
-      "views": 1673,
+      "views": 1674,
       "likes": 3,
       "durationSec": 103
     },
@@ -860,7 +820,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-08T22:00:02Z",
       "thumb": "https://i.ytimg.com/vi/Q4if7qEjtUw/hqdefault.jpg",
-      "views": 2449,
+      "views": 2450,
       "likes": 10,
       "durationSec": 165
     },
@@ -880,7 +840,7 @@
       "channel": "붉게물들다",
       "publishedAt": "2026-11-08T01:55:37Z",
       "thumb": "https://i.ytimg.com/vi/3wZMhFw35Nk/hqdefault.jpg",
-      "views": 4164,
+      "views": 4247,
       "likes": 26,
       "durationSec": 75
     },
@@ -890,7 +850,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-11-08T01:24:32Z",
       "thumb": "https://i.ytimg.com/vi/iGrCuIZLQJE/hqdefault.jpg",
-      "views": 7970,
+      "views": 7974,
       "likes": 139,
       "durationSec": 45
     },
@@ -900,7 +860,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-07T23:30:35Z",
       "thumb": "https://i.ytimg.com/vi/z-dWhcWfXMI/hqdefault.jpg",
-      "views": 1345,
+      "views": 1346,
       "likes": 8,
       "durationSec": 78
     },
@@ -920,7 +880,7 @@
       "channel": "크리티컬딜러[CDGames]",
       "publishedAt": "2026-11-07T22:00:39Z",
       "thumb": "https://i.ytimg.com/vi/0wS5CKxq_QI/hqdefault.jpg",
-      "views": 3284,
+      "views": 3291,
       "likes": 19,
       "durationSec": 145
     },
@@ -940,7 +900,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-11-07T02:00:36Z",
       "thumb": "https://i.ytimg.com/vi/ArxxvPOjqXs/hqdefault.jpg",
-      "views": 36549,
+      "views": 36557,
       "likes": 150,
       "durationSec": 27
     },
@@ -950,8 +910,8 @@
       "channel": "도파민박스",
       "publishedAt": "2026-11-06T02:45:56Z",
       "thumb": "https://i.ytimg.com/vi/gnY8l8CGnEc/hqdefault.jpg",
-      "views": 3883,
-      "likes": 30,
+      "views": 3957,
+      "likes": 31,
       "durationSec": 101
     },
     {
@@ -960,7 +920,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-11-05T02:48:02Z",
       "thumb": "https://i.ytimg.com/vi/uVFxUvR9l-Y/hqdefault.jpg",
-      "views": 6292,
+      "views": 6293,
       "likes": 48,
       "durationSec": 72
     },
@@ -970,7 +930,7 @@
       "channel": "박짱쿠",
       "publishedAt": "2026-11-05T00:00:58Z",
       "thumb": "https://i.ytimg.com/vi/1zvxldWiFc4/hqdefault.jpg",
-      "views": 31477,
+      "views": 31501,
       "likes": 107,
       "durationSec": 24
     },
@@ -990,7 +950,7 @@
       "channel": "도파민박스",
       "publishedAt": "2026-11-04T13:49:03Z",
       "thumb": "https://i.ytimg.com/vi/fy5UTAxrqvY/hqdefault.jpg",
-      "views": 6650,
+      "views": 6672,
       "likes": 51,
       "durationSec": 87
     },
@@ -1000,7 +960,7 @@
       "channel": "성꼬락",
       "publishedAt": "2026-11-03T02:35:01Z",
       "thumb": "https://i.ytimg.com/vi/Uc5JdAyITyw/hqdefault.jpg",
-      "views": 23750,
+      "views": 23838,
       "likes": 138,
       "durationSec": 28
     },
@@ -1010,7 +970,7 @@
       "channel": "성꼬락",
       "publishedAt": "2026-11-02T11:54:32Z",
       "thumb": "https://i.ytimg.com/vi/SUmjfPDyBXs/hqdefault.jpg",
-      "views": 21450,
+      "views": 21491,
       "likes": 142,
       "durationSec": 29
     },
@@ -1030,7 +990,7 @@
       "channel": "선재림",
       "publishedAt": "2026-11-02T09:15:08Z",
       "thumb": "https://i.ytimg.com/vi/42K09luy45I/hqdefault.jpg",
-      "views": 1225,
+      "views": 1226,
       "likes": 9,
       "durationSec": 28
     },
@@ -1040,39 +1000,9 @@
       "channel": "성꼬락",
       "publishedAt": "2026-11-01T00:00:20Z",
       "thumb": "https://i.ytimg.com/vi/Tc3YKlAPUZ8/hqdefault.jpg",
-      "views": 120342,
-      "likes": 625,
+      "views": 121236,
+      "likes": 628,
       "durationSec": 19
-    },
-    {
-      "id": "BdGoNx8QjkI",
-      "title": "현재 붉은사막에서 발견됐다는 설계도",
-      "channel": "핫댓",
-      "publishedAt": "2026-10-31T14:16:19Z",
-      "thumb": "https://i.ytimg.com/vi/BdGoNx8QjkI/hqdefault.jpg",
-      "views": 42061,
-      "likes": 359,
-      "durationSec": 30
-    },
-    {
-      "id": "ubqOVOIW-ng",
-      "title": "붉은사막 첫 DLC, 평가가 벌써 내려왔다 #붉은사막 #shorts",
-      "channel": "로딩뉴스",
-      "publishedAt": "2026-10-31T13:49:51Z",
-      "thumb": "https://i.ytimg.com/vi/ubqOVOIW-ng/hqdefault.jpg",
-      "views": 4056,
-      "likes": 18,
-      "durationSec": 39
-    },
-    {
-      "id": "Bws1LjeCKkQ",
-      "title": "붉은사막 DLC 춤을 추는 메기전차 공략, 그로기 만들고 A.T.A.G 레이저면 6초 컷 #shorts",
-      "channel": "유게임즈 UGames",
-      "publishedAt": "2026-10-31T13:06:26Z",
-      "thumb": "https://i.ytimg.com/vi/Bws1LjeCKkQ/hqdefault.jpg",
-      "views": 27729,
-      "likes": 120,
-      "durationSec": 24
     },
     {
       "id": "8Ia9zvlh8Xc",
@@ -1080,7 +1010,7 @@
       "channel": "루믹",
       "publishedAt": "2026-10-31T06:00:29Z",
       "thumb": "https://i.ytimg.com/vi/8Ia9zvlh8Xc/hqdefault.jpg",
-      "views": 41013,
+      "views": 41191,
       "likes": 275,
       "durationSec": 30
     },
@@ -1090,7 +1020,7 @@
       "channel": "성꼬락",
       "publishedAt": "2026-10-31T04:32:49Z",
       "thumb": "https://i.ytimg.com/vi/oahTC7ZL6Ls/hqdefault.jpg",
-      "views": 29022,
+      "views": 29051,
       "likes": 219,
       "durationSec": 28
     },
@@ -1100,7 +1030,7 @@
       "channel": "유게임즈 UGames",
       "publishedAt": "2026-10-30T23:25:20Z",
       "thumb": "https://i.ytimg.com/vi/Vku07KCxGyo/hqdefault.jpg",
-      "views": 50048,
+      "views": 50160,
       "likes": 224,
       "durationSec": 34
     },
@@ -1110,7 +1040,7 @@
       "channel": "공략한입",
       "publishedAt": "2026-10-30T22:00:22Z",
       "thumb": "https://i.ytimg.com/vi/v-PyThllJxA/hqdefault.jpg",
-      "views": 2966,
+      "views": 2967,
       "likes": 27,
       "durationSec": 48
     },
@@ -1120,8 +1050,8 @@
       "channel": "성꼬락",
       "publishedAt": "2026-10-30T12:49:35Z",
       "thumb": "https://i.ytimg.com/vi/DmqfIwt3a78/hqdefault.jpg",
-      "views": 76848,
-      "likes": 549,
+      "views": 77009,
+      "likes": 550,
       "durationSec": 31
     },
     {
@@ -1130,7 +1060,7 @@
       "channel": "루믹",
       "publishedAt": "2026-10-30T10:45:18Z",
       "thumb": "https://i.ytimg.com/vi/ZFyKOrM5uwg/hqdefault.jpg",
-      "views": 6523,
+      "views": 6530,
       "likes": 39,
       "durationSec": 29
     },
@@ -1140,7 +1070,7 @@
       "channel": "루믹",
       "publishedAt": "2026-10-30T05:10:16Z",
       "thumb": "https://i.ytimg.com/vi/mMpJ8opCpAE/hqdefault.jpg",
-      "views": 13226,
+      "views": 13227,
       "likes": 123,
       "durationSec": 58
     },
@@ -1150,7 +1080,7 @@
       "channel": "루믹",
       "publishedAt": "2026-10-30T03:30:20Z",
       "thumb": "https://i.ytimg.com/vi/WYA_CdPTWTg/hqdefault.jpg",
-      "views": 16320,
+      "views": 16328,
       "likes": 151,
       "durationSec": 52
     },
@@ -1160,7 +1090,7 @@
       "channel": "루믹",
       "publishedAt": "2026-10-30T03:00:10Z",
       "thumb": "https://i.ytimg.com/vi/mwNewdQ01So/hqdefault.jpg",
-      "views": 17044,
+      "views": 17048,
       "likes": 113,
       "durationSec": 31
     },
@@ -1170,7 +1100,7 @@
       "channel": "성꼬락",
       "publishedAt": "2026-10-27T10:33:13Z",
       "thumb": "https://i.ytimg.com/vi/e2xje2x3obc/hqdefault.jpg",
-      "views": 15237,
+      "views": 15253,
       "likes": 62,
       "durationSec": 20
     },
@@ -1180,7 +1110,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-10-27T03:00:33Z",
       "thumb": "https://i.ytimg.com/vi/OVhBsm0FkwY/hqdefault.jpg",
-      "views": 2331,
+      "views": 2332,
       "likes": 28,
       "durationSec": 57
     },
@@ -1190,7 +1120,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-10-26T03:00:14Z",
       "thumb": "https://i.ytimg.com/vi/xxDUOVNBwiY/hqdefault.jpg",
-      "views": 4141,
+      "views": 4142,
       "likes": 54,
       "durationSec": 97
     },
@@ -1230,7 +1160,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-10-15T03:00:31Z",
       "thumb": "https://i.ytimg.com/vi/6RwG6u_S--c/hqdefault.jpg",
-      "views": 49815,
+      "views": 49829,
       "likes": 213,
       "durationSec": 62
     },
@@ -1240,7 +1170,7 @@
       "channel": "BanaMongki",
       "publishedAt": "2026-10-11T12:36:43Z",
       "thumb": "https://i.ytimg.com/vi/e_FctImq8MY/hqdefault.jpg",
-      "views": 36425,
+      "views": 36447,
       "likes": 356,
       "durationSec": 48
     },
@@ -1250,8 +1180,8 @@
       "channel": "짧아유",
       "publishedAt": "2026-10-11T03:40:08Z",
       "thumb": "https://i.ytimg.com/vi/oaFZaXMCoBw/hqdefault.jpg",
-      "views": 214133,
-      "likes": 1182,
+      "views": 215094,
+      "likes": 1184,
       "durationSec": 32
     },
     {
@@ -1270,7 +1200,7 @@
       "channel": "포동단",
       "publishedAt": "2026-10-07T08:30:19Z",
       "thumb": "https://i.ytimg.com/vi/OXPFxNMdVOw/hqdefault.jpg",
-      "views": 17439,
+      "views": 17503,
       "likes": 97,
       "durationSec": 66
     },
@@ -1300,7 +1230,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-28T08:30:02Z",
       "thumb": "https://i.ytimg.com/vi/Kf2KZcYEPWA/hqdefault.jpg",
-      "views": 11013,
+      "views": 11021,
       "likes": 131,
       "durationSec": 44
     },
@@ -1320,7 +1250,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-27T08:30:30Z",
       "thumb": "https://i.ytimg.com/vi/I0q0pTvsHlw/hqdefault.jpg",
-      "views": 11065,
+      "views": 11067,
       "likes": 139,
       "durationSec": 34
     },
@@ -1330,7 +1260,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-09-27T03:00:29Z",
       "thumb": "https://i.ytimg.com/vi/Bb2j-MfQmZk/hqdefault.jpg",
-      "views": 3604,
+      "views": 3605,
       "likes": 51,
       "durationSec": 123
     },
@@ -1340,7 +1270,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-26T08:30:11Z",
       "thumb": "https://i.ytimg.com/vi/_xX2g9H6xgE/hqdefault.jpg",
-      "views": 9321,
+      "views": 9326,
       "likes": 55,
       "durationSec": 33
     },
@@ -1350,8 +1280,8 @@
       "channel": "포동단",
       "publishedAt": "2026-09-25T08:30:04Z",
       "thumb": "https://i.ytimg.com/vi/l325-KBRK_0/hqdefault.jpg",
-      "views": 365458,
-      "likes": 3122,
+      "views": 365964,
+      "likes": 3128,
       "durationSec": 50
     },
     {
@@ -1360,7 +1290,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-22T08:30:26Z",
       "thumb": "https://i.ytimg.com/vi/P6Xp-T1xBxE/hqdefault.jpg",
-      "views": 15099,
+      "views": 15134,
       "likes": 124,
       "durationSec": 50
     },
@@ -1380,7 +1310,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-21T08:30:06Z",
       "thumb": "https://i.ytimg.com/vi/Nos8cTDB7u4/hqdefault.jpg",
-      "views": 20694,
+      "views": 20705,
       "likes": 100,
       "durationSec": 46
     },
@@ -1410,7 +1340,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-18T08:30:40Z",
       "thumb": "https://i.ytimg.com/vi/UJ_7clAsbZo/hqdefault.jpg",
-      "views": 19173,
+      "views": 19186,
       "likes": 141,
       "durationSec": 36
     },
@@ -1420,7 +1350,7 @@
       "channel": "NinDol",
       "publishedAt": "2026-09-16T13:54:58Z",
       "thumb": "https://i.ytimg.com/vi/1JMSpKi9Pr8/hqdefault.jpg",
-      "views": 29137,
+      "views": 29140,
       "likes": 162,
       "durationSec": 34
     },
@@ -1430,7 +1360,7 @@
       "channel": "포동단",
       "publishedAt": "2026-09-16T08:30:13Z",
       "thumb": "https://i.ytimg.com/vi/WJHYBoGNHDk/hqdefault.jpg",
-      "views": 6824,
+      "views": 6825,
       "likes": 63,
       "durationSec": 38
     },
@@ -1450,7 +1380,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-09-15T03:00:38Z",
       "thumb": "https://i.ytimg.com/vi/8vpDyTDmBfE/hqdefault.jpg",
-      "views": 3943,
+      "views": 3954,
       "likes": 56,
       "durationSec": 76
     },
@@ -1460,7 +1390,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-09-14T03:00:09Z",
       "thumb": "https://i.ytimg.com/vi/GrxHZ5ipa08/hqdefault.jpg",
-      "views": 5147,
+      "views": 5149,
       "likes": 44,
       "durationSec": 67
     },
@@ -1470,7 +1400,7 @@
       "channel": "한서이 SEOI LAND",
       "publishedAt": "2026-09-13T03:00:26Z",
       "thumb": "https://i.ytimg.com/vi/p57wzdqnogw/hqdefault.jpg",
-      "views": 3966,
+      "views": 3967,
       "likes": 34,
       "durationSec": 54
     },
@@ -1500,9 +1430,79 @@
       "channel": "포동단",
       "publishedAt": "2026-09-10T08:30:30Z",
       "thumb": "https://i.ytimg.com/vi/uF9Olw0HgH0/hqdefault.jpg",
-      "views": 39331,
+      "views": 39345,
       "likes": 182,
       "durationSec": 52
+    },
+    {
+      "id": "_jU39uH6EcI",
+      "title": "조잡한 금괴 130개에 행복...은 세금엔딩 | 붉은사막 2.0",
+      "channel": "포동단",
+      "publishedAt": "2026-09-08T08:30:15Z",
+      "thumb": "https://i.ytimg.com/vi/_jU39uH6EcI/hqdefault.jpg",
+      "views": 7222,
+      "likes": 44,
+      "durationSec": 47
+    },
+    {
+      "id": "HT9QpUg--Ho",
+      "title": "미니게임에도 개연성을 부여했어? | 붉은사막 2.0",
+      "channel": "포동단",
+      "publishedAt": "2026-09-07T08:30:22Z",
+      "thumb": "https://i.ytimg.com/vi/HT9QpUg--Ho/hqdefault.jpg",
+      "views": 2116,
+      "likes": 14,
+      "durationSec": 55
+    },
+    {
+      "id": "a4VeqdnZBYM",
+      "title": "붉은사막 최악의 뉴비절단기",
+      "channel": "캐아재",
+      "publishedAt": "2026-09-04T12:15:21Z",
+      "thumb": "https://i.ytimg.com/vi/a4VeqdnZBYM/hqdefault.jpg",
+      "views": 1951,
+      "likes": 8,
+      "durationSec": 60
+    },
+    {
+      "id": "1AFL5_ukICI",
+      "title": "붉은사막 중도 포기했는데 처음부터 다시 해야할까요?(질문)",
+      "channel": "라미월드",
+      "publishedAt": "2026-09-02T06:45:29Z",
+      "thumb": "https://i.ytimg.com/vi/1AFL5_ukICI/hqdefault.jpg",
+      "views": 3395,
+      "likes": 26,
+      "durationSec": 16
+    },
+    {
+      "id": "d39bdUbOjSM",
+      "title": "붉은사막 죽지 않아! 부활템 타리브목걸이 위치 #붉은사막 #붉은사막장비 #붉은사막목걸이",
+      "channel": "퇴근후플스",
+      "publishedAt": "2026-08-13T21:45:36Z",
+      "thumb": "https://i.ytimg.com/vi/d39bdUbOjSM/hqdefault.jpg",
+      "views": 24748,
+      "likes": 299,
+      "durationSec": 39
+    },
+    {
+      "id": "0IjUUehPKG4",
+      "title": "붉은사막 권장사양 및 FHD,QHD,4K 해상도 및 옵션별 추천 조합",
+      "channel": "견적왕",
+      "publishedAt": "2026-08-08T02:53:53Z",
+      "thumb": "https://i.ytimg.com/vi/0IjUUehPKG4/hqdefault.jpg",
+      "views": 2404,
+      "likes": 6,
+      "durationSec": 47
+    },
+    {
+      "id": "FH3WYnCOUjw",
+      "title": "#shorts #붉은사막 #클리프 #crimsondesertgame #kliff #남자머리 #다운펌 #wigtutorial",
+      "channel": "코스프레가발ㅡ위그매냐^^",
+      "publishedAt": "2026-08-05T13:07:23Z",
+      "thumb": "https://i.ytimg.com/vi/FH3WYnCOUjw/hqdefault.jpg",
+      "views": 183,
+      "likes": 1,
+      "durationSec": 21
     }
   ]
 }
